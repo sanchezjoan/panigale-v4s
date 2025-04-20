@@ -1771,5 +1771,148 @@
         "chicanesamovibles": false,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/protections-leviers-97381041a.html",
         "remarques": "Aluminium CNC avec insert carbone, montage direct"
+    },
+    {
+        "categorie": "Acquisition de données",
+        "marque": "Ducati Performance",
+        "modele": "DDA+ GPS",
+        "reference": "97980061C",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 350,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/97980061C",
+        "remarques": "Data logger officiel Ducati, compatible MY25"
+    },
+    {
+        "categorie": "Connectivité",
+        "marque": "Ducati Performance",
+        "modele": "DMS (Ducati Multimedia System)",
+        "reference": "96681181A",
+        "homologation": "Route",
+        "prixmoyeneur": 250,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96681181A",
+        "remarques": "Module Bluetooth pour smartphone, navigation, musique, appels"
+    },
+    {
+        "categorie": "Capteurs",
+        "marque": "Ducati Performance",
+        "modele": "TPMS (Tire Pressure Monitoring System)",
+        "reference": "96680431A",
+        "homologation": "Route",
+        "prixmoyeneur": 320,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96680431A",
+        "remarques": "Capteurs pression pneus, affichage au tableau de bord"
+    },
+    {
+        "categorie": "Acquisition de données",
+        "marque": "AIM",
+        "modele": "Solo 2 DL Kit Ducati V4",
+        "reference": "X47DKD4S25",
+        "homologation": "Piste",
+        "prixmoyeneur": 800,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://aim-sportline.com/en/products/solo-2-dl-kit-ducati-v4/",
+        "remarques": "Lap timer GPS, compatible acquisition CAN Panigale V4 S 2025"
+    },
+    {
+        "categorie": "Protections radiateur",
+        "marque": "Evotech Performance",
+        "modele": "Radiator + Oil Cooler Guard",
+        "reference": "PRN014672-01",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 150,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-ducati-panigale-v4-radiator-guard-2025",
+        "remarques": "Grille aluminium, protection radiateur et huile"
+    },
+    {
+        "categorie": "Commandes reculées",
+        "marque": "Bonamici Racing",
+        "modele": "Repose-pieds réglables Panigale V4 S MY25",
+        "reference": "PEV4S25",
+        "homologation": "Piste",
+        "prixmoyeneur": 600,
+        "compatibilitesellepassager": false,
+        "lienficheproduit": "https://www.bonamiciracing.it/en/ducati/pe-v4s25.html",
+        "remarques": "Commandes racing réglables, compatible quickshifter d’origine"
+    },
+    {
+        "categorie": "Kit conversion racing",
+        "marque": "Ducati Performance",
+        "modele": "Kit suppression route (bouchons, récupérateurs, purgeurs rapides)",
+        "reference": "97180751A",
+        "homologation": "Piste",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": false,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/97180751A",
+        "remarques": "Kit complet pour conversion full piste"
+    },
+    {
+        "categorie": "Suspension",
+        "marque": "Öhlins",
+        "modele": "Steering Damper Upgrade Kit 2025",
+        "reference": "SDU-V4S25",
+        "homologation": "Piste",
+        "prixmoyeneur": 650,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://ohlins.eu/fr/produits/steering-damper-upgrade-kit-panigale-v4s-2025",
+        "remarques": "Amortisseur de direction racing, plug & play"
+    },
+    {
+        "categorie": "Jantes",
+        "marque": "Marchesini",
+        "modele": "Kit jantes magnésium forgé Panigale V4 S 2025",
+        "reference": "96481281AA",
+        "homologation": "Piste",
+        "prixmoyeneur": 3900,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96481281AA",
+        "remarques": "Gain de poids, montage direct, homologué FIM"
+    },
+    {
+        "categorie": "Freinage",
+        "marque": "Brembo",
+        "modele": "Maître-cylindre RCS Corsa Corta",
+        "reference": "110C74010",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 340,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.brembo.com/fr/auto/pièces-de-rechange/maitre-cylindre-rcs-corsa-corta-110c74010",
+        "remarques": "Réglage course morte, feeling piste"
+    },
+    {
+        "categorie": "Batterie",
+        "marque": "Skyrich",
+        "modele": "Batterie lithium YT12B-BS",
+        "reference": "HJT12B-FP",
+        "homologation": "Route",
+        "prixmoyeneur": 120,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.skyrichbattery.com/yt12b-bs.html",
+        "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
+    },
+    {
+        "categorie": "Outillage spécifique",
+        "marque": "Ducati",
+        "modele": "Kit outils spéciaux V4 S 2025",
+        "reference": "887133003",
+        "homologation": "N/A",
+        "prixmoyeneur": 850,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "",
+        "remarques": "Kit atelier officiel Ducati pour V4 S 2025 (voir catalogue pièces origine[1])"
+    },
+    {
+        "categorie": "Accessoires paddock",
+        "marque": "Ducati Performance",
+        "modele": "Housse de transport officielle",
+        "reference": "96780611A",
+        "homologation": "N/A",
+        "prixmoyeneur": 190,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96780611A",
+        "remarques": "Housse Ducati Performance, adaptée Panigale V4 S MY25"
     }
 ]
