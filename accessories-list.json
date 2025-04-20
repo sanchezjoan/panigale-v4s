@@ -1115,5 +1115,49 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981321A",
         "remarques": "Protection carbone pour bras oscillant, piste/route"
+    },
+     {
+        "categorie": "Protection levier embrayage",
+        "marque": "CNC Racing",
+        "modele": "Protection levier embrayage Evo",
+        "reference": "PLF03B",
+        "homologation": "Route",
+        "prixmoyeneur": 110,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf03b",
+        "remarques": "Aluminium, embout carbone, look racing"
+    },
+    {
+        "categorie": "Kit visserie moteur",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie moteur titane",
+        "reference": "KV429X",
+        "homologation": "Route",
+        "prixmoyeneur": 380,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-moteur-titane-kv429x",
+        "remarques": "Gain de poids, look racing, titane grade 5"
+    },
+    {
+        "categorie": "Kit visserie carénage",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie carénage titane",
+        "reference": "KV428X",
+        "homologation": "Route",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-carenage-titane-kv428x",
+        "remarques": "Titane, complet pour carénage"
+    },
+    {
+        "categorie": "Protection bras oscillant",
+        "marque": "CNC Racing",
+        "modele": "Protection bras oscillant carbone",
+        "reference": "PRC01C",
+        "homologation": "Route",
+        "prixmoyeneur": 220,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-bras-oscillant-carbone-prc01c",
+        "remarques": "Carbone, protège le bras oscillant contre les chutes"
     }
 ]
