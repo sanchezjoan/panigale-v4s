@@ -1732,5 +1732,44 @@
     "chicanesamovibles": false,
     "lienficheproduit": "https://gen-performance.com/collections/ducati-panigale-v4-2025",
     "remarques": "Montage sans perçage, aluminium CNC"
-  }
+  },
+       {
+        "categorie": "Échappement",
+        "marque": "Akrapovič / Ducati Performance",
+        "modele": "Ligne complète titane Euro5",
+        "reference": "96482051AA",
+        "homologation": "Euro 5",
+        "prixmoyeneur": 5890,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "98-102",
+        "chicanesamovibles": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/echappement-akrapovic-titane-96482051aa.html",
+        "remarques": "Référence officielle Ducati Performance 2025, nécessite reprogrammation ECU"
+    },
+    {
+        "categorie": "Électronique/Data",
+        "marque": "Ducati Performance",
+        "modele": "Data Analyzer+ GPS",
+        "reference": "69929951A",
+        "homologation": "N/A",
+        "prixmoyeneur": 850,
+        "compatibilitesellepassager": false,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/analyseur-de-donnees-69929951a.html",
+        "remarques": "Intègre capteurs GPS/accéléromètre, compatible DDA+"
+    },
+    {
+        "categorie": "Protection",
+        "marque": "Ducati Performance",
+        "modele": "Kit protections leviers",
+        "reference": "97381041A",
+        "homologation": "Circuit",
+        "prixmoyeneur": 320,
+        "compatibilitesellepassager": false,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/protections-leviers-97381041a.html",
+        "remarques": "Aluminium CNC avec insert carbone, montage direct"
+    }
 ]
