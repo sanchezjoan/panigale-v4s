@@ -57,7 +57,7 @@
   {
     "Name": "Brembo",
     "Type": "maker",
-    "Url": "https://www.brembo.com/fr/moto/ducati/panigale-v4-s"
+    "Url": "https://www.brembo.com/fr/moto/aftermarket/Pages/default.aspx"
   },
   {
     "Name": "Öhlins",
@@ -67,7 +67,7 @@
   {
     "Name": "Marchesini",
     "Type": "maker",
-    "Url": "https://www.marchesiniwheels.com/fr/produits/ducati/panigale-v4-s"
+    "Url": ""
   },
   {
     "Name": "Pirelli",
@@ -77,7 +77,7 @@
   {
     "Name": "Shell",
     "Type": "maker",
-    "Url": "https://www.shell.com/motorcycle-oils/ducati.html"
+    "Url": ""
   },
   {
     "Name": "Yuasa",
@@ -92,17 +92,17 @@
   {
     "Name": "LighTech",
     "Type": "maker",
-    "Url": "https://www.lightech.it/fr/ducati-panigale-v4-s"
+    "Url": ""
   },
   {
     "Name": "STM",
     "Type": "maker",
-    "Url": "https://www.stmitaly.com/fr/ducati/panigale-v4-s"
+    "Url": ""
   },
   {
     "Name": "Bonamici Racing",
     "Type": "maker",
-    "Url": "https://www.bonamiciracing.it/fr/ducati-panigale-v4-s"
+    "Url": ""
   },
   {
     "Name": "SC-Project",
@@ -137,7 +137,7 @@
   {
     "Name": "Evotech Performance",
     "Type": "maker",
-    "Url": "https://evotech-performance.com/collections/ducati-panigale-v4-s"
+    "Url": "https://evotech-performance.com/collections/ducati-panigale-v4-s-2025"
   },
   {
     "Name": "Domino",
@@ -153,5 +153,10 @@
     "Name": "Motul",
     "Type": "maker",
     "Url": "https://www.motul.com/fr/fr/products?brand=ducati&model=panigale-v4-s"
+  },
+  {
+    "Name": "WRS",
+    "Type": "Shop",
+    "Url": "https://www.wrs.it/makeselector/search?pms1=Ducati&pms2=Panigale%20V4%20/%20S%20/%20R%202025&pms3=all&pms4=all&pmsl=1"
   }
 ]
