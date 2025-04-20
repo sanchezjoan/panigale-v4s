@@ -1563,5 +1563,96 @@
         "chicanesamovibles": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/data-logger-racing-panigale-v4s",
         "remarques": "Intègre les données DTC/EBC/DWC"
-    }
+    },
+    {
+    "categorie": "Protection radiateur",
+    "marque": "Evotech Performance",
+    "modele": "Grille de radiateur supérieure et inférieure",
+    "reference": "PRN014875-01",
+    "homologation": "Route et piste",
+    "prixmoyeneur": 150,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-radiator-guard-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+    "remarques": "Protection aluminium, montage sans modification"
+  },
+  {
+    "categorie": "Protection carter moteur",
+    "marque": "Evotech Performance",
+    "modele": "Kit protections carter moteur",
+    "reference": "PRN015183-01",
+    "homologation": "Route et piste",
+    "prixmoyeneur": 180,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-engine-guard-ducati-panigale-v4-v4s-v4r",
+    "remarques": "Protection CNC, montage plug & play"
+  },
+  {
+    "categorie": "Protection axe de roue avant",
+    "marque": "Evotech Performance",
+    "modele": "Protections fourche avant",
+    "reference": "PRN014876-01",
+    "homologation": "Route et piste",
+    "prixmoyeneur": 55,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-front-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+    "remarques": "Tampons de protection, installation rapide"
+  },
+  {
+    "categorie": "Protection axe de roue arrière",
+    "marque": "Evotech Performance",
+    "modele": "Protections bras oscillant",
+    "reference": "PRN014877-01",
+    "homologation": "Route et piste",
+    "prixmoyeneur": 55,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-rear-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+    "remarques": "Tampons de protection, montage sans outil spécifique"
+  },
+  {
+    "categorie": "Support de plaque",
+    "marque": "Evotech Performance",
+    "modele": "Support de plaque court",
+    "reference": "PRN014878-01",
+    "homologation": "Route",
+    "prixmoyeneur": 180,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-tail-tidy-ducati-panigale-v4-v4s-v4r",
+    "remarques": "Inclut support clignotants et éclairage LED"
+  },
+  {
+    "categorie": "Protection leviers",
+    "marque": "Evotech Performance",
+    "modele": "Protège-levier de frein",
+    "reference": "PRN015184-01",
+    "homologation": "Track",
+    "prixmoyeneur": 120,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-brake-lever-protector-ducati-panigale-v4-v4s-v4r",
+    "remarques": "Obligatoire en compétition, réglable"
+  },
+  {
+    "categorie": "Rétroviseurs embout de guidon",
+    "marque": "Evotech Performance",
+    "modele": "Kit rétroviseurs embout de guidon",
+    "reference": "PRN015185-01",
+    "homologation": "Route",
+    "prixmoyeneur": 210,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://evotech-performance.com/products/ep-bar-end-mirrors-ducati-panigale-v4-v4s-v4r",
+    "remarques": "Montage sans modification, design racing"
+  }
 ]
