@@ -1511,5 +1511,57 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/purge-rapide-panigale-v4",
         "remarques": "Facilite la maintenance circuit hydraulique"
+    },
+    {
+        "categorie": "Échappement complet",
+        "marque": "Akrapovič Ducati Performance",
+        "modele": "Ligne complète titane Racing",
+        "reference": "96481741AA",
+        "homologation": "Racing (non homologué route)",
+        "prixmoyeneur": 6200,
+        "compatibilitesellepassager": false,
+        "volumesonoredb": "102-105",
+        "chicanesamovibles": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/echappement-racing-akrapovic-titane-96481741aa.html",
+        "remarques": "Kit compétition Ducati Corse, nécessite reprogrammation ECU"
+    },
+    {
+        "categorie": "Protections carbone",
+        "marque": "Ducati Performance",
+        "modele": "Kit protections fourche/bras oscillant",
+        "reference": "97381081A/97381091A",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 890,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/protections-carbone-panigale-v4s-2025",
+        "remarques": "Pack double protection usinage CNC"
+    },
+    {
+        "categorie": "Commandes CNC",
+        "marque": "Ducati Performance",
+        "modele": "Kit leviers frein/embrayage usinés",
+        "reference": "96981391A",
+        "homologation": "Route",
+        "prixmoyeneur": 450,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/leviers-cnc-panigale-v4s-2025",
+        "remarques": "Réglage micrométrique 6 positions"
+    },
+    {
+        "categorie": "Électronique",
+        "marque": "Ducati Performance",
+        "modele": "Data Logger GPS Racing",
+        "reference": "97780321AA",
+        "homologation": "Piste",
+        "prixmoyeneur": 2150,
+        "compatibilitesellepassager": false,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/data-logger-racing-panigale-v4s",
+        "remarques": "Intègre les données DTC/EBC/DWC"
     }
 ]
