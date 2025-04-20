@@ -1159,5 +1159,104 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-bras-oscillant-carbone-prc01c",
         "remarques": "Carbone, protège le bras oscillant contre les chutes"
+    },
+     {
+        "categorie": "Kit visserie moteur titane",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie moteur titane complet",
+        "reference": "KV429X",
+        "homologation": "Route",
+        "prixmoyeneur": 380,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-moteur-titane-kv429x",
+        "remarques": "Kit complet titane grade 5, gain de poids, look racing"
+    },
+    {
+        "categorie": "Kit visserie carénage titane",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie carénage titane",
+        "reference": "KV428X",
+        "homologation": "Route",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-carenage-titane-kv428x",
+        "remarques": "Titane, complet pour carénage, look racing"
+    },
+    {
+        "categorie": "Kit visserie platines repose-pieds",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie platines titane",
+        "reference": "KV431X",
+        "homologation": "Route",
+        "prixmoyeneur": 65,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-platines-titane-kv431x",
+        "remarques": "Pour fixation platines repose-pieds, titane"
+    },
+    {
+        "categorie": "Kit visserie réservoir",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie réservoir titane",
+        "reference": "KV432X",
+        "homologation": "Route",
+        "prixmoyeneur": 55,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-reservoir-titane-kv432x",
+        "remarques": "Kit titane pour fixation du réservoir"
+    },
+    {
+        "categorie": "Kit visserie étriers de frein avant/arrière",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie étriers titane",
+        "reference": "KV433X",
+        "homologation": "Route",
+        "prixmoyeneur": 50,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-etrier-frein-titane-kv433x",
+        "remarques": "Kit titane pour étriers avant et arrière"
+    },
+    {
+        "categorie": "Kit visserie bras oscillant",
+        "marque": "CNC Racing",
+        "modele": "Kit visserie bras oscillant titane",
+        "reference": "KV434X",
+        "homologation": "Route",
+        "prixmoyeneur": 58,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-bras-oscillant-titane-kv434x",
+        "remarques": "Kit titane pour bras oscillant"
+    },
+    {
+        "categorie": "Kit visserie roue avant",
+        "marque": "Pro-Bolt",
+        "modele": "Kit visserie roue avant titane",
+        "reference": "TIFDUC100",
+        "homologation": "Route",
+        "prixmoyeneur": 60,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.pro-bolt.com/titanium-front-axle-nut-kit-ducati-panigale-v4-s.html",
+        "remarques": "Kit titane pour axe de roue avant"
+    },
+    {
+        "categorie": "Kit visserie roue arrière",
+        "marque": "Pro-Bolt",
+        "modele": "Kit visserie roue arrière titane",
+        "reference": "TIRDUC100",
+        "homologation": "Route",
+        "prixmoyeneur": 65,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.pro-bolt.com/titanium-rear-axle-nut-kit-ducati-panigale-v4-s.html",
+        "remarques": "Kit titane pour axe de roue arrière"
+    },
+    {
+        "categorie": "Kit visserie carter embrayage",
+        "marque": "Ducabike",
+        "modele": "Kit visserie carter embrayage titane",
+        "reference": "KTEM01",
+        "homologation": "Route",
+        "prixmoyeneur": 42,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.ducabike.com/kit-viti-titanio-carter-frizione-ducati-v4",
+        "remarques": "Kit titane pour carter d’embrayage"
     }
 ]
