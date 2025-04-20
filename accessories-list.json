@@ -1038,5 +1038,82 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97181051AA",
         "remarques": "Allégé, compatible clignotants LED Ducati"
+    },
+     {
+        "categorie": "Protection carter embrayage",
+        "marque": "Ducati Performance",
+        "modele": "Protection carter embrayage carbone",
+        "reference": "96981331A",
+        "homologation": "Piste",
+        "prixmoyeneur": 220,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981331A",
+        "remarques": "Protection carbone pour carter d’embrayage, montage plug&play"
+    },
+    {
+        "categorie": "Protection radiateur",
+        "marque": "Ducati Performance",
+        "modele": "Grille de radiateur eau carbone",
+        "reference": "97381261A",
+        "homologation": "Route",
+        "prixmoyeneur": 280,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97381261A",
+        "remarques": "Protection légère et efficace, finition carbone mat"
+    },
+    {
+        "categorie": "Protection radiateur huile",
+        "marque": "Ducati Performance",
+        "modele": "Grille de radiateur huile carbone",
+        "reference": "97381271A",
+        "homologation": "Route",
+        "prixmoyeneur": 210,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97381271A",
+        "remarques": "Protection radiateur huile, carbone, look racing"
+    },
+    {
+        "categorie": "Cache pignon sortie de boîte",
+        "marque": "Ducati Performance",
+        "modele": "Cache pignon carbone",
+        "reference": "96981191A",
+        "homologation": "Route",
+        "prixmoyeneur": 135,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981191A",
+        "remarques": "Cache pignon carbone, finition haut de gamme"
+    },
+    {
+        "categorie": "Caches latéraux de radiateur",
+        "marque": "Ducati Performance",
+        "modele": "Caches latéraux radiateur carbone",
+        "reference": "96981311A",
+        "homologation": "Route",
+        "prixmoyeneur": 320,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981311A",
+        "remarques": "Caches latéraux pour radiateur, carbone, look racing"
+    },
+    {
+        "categorie": "Support plaque carbone",
+        "marque": "Ducati Performance",
+        "modele": "Support de plaque carbone",
+        "reference": "97381281A",
+        "homologation": "Route",
+        "prixmoyeneur": 270,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97381281A",
+        "remarques": "Support de plaque allégé, carbone"
+    },
+    {
+        "categorie": "Protection bras oscillant",
+        "marque": "Ducati Performance",
+        "modele": "Protection bras oscillant carbone",
+        "reference": "96981321A",
+        "homologation": "Piste",
+        "prixmoyeneur": 240,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981321A",
+        "remarques": "Protection carbone pour bras oscillant, piste/route"
     }
 ]
