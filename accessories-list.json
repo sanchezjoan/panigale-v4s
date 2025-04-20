@@ -1263,8 +1263,9 @@
         "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-bras-oscillant-carbone-prc01c",
         "remarques": "Carbone, protège le bras oscillant contre les chutes"
     },
-     {
-        "categorie": "Kit visserie moteur titane",
+    {
+        "categorie": "Visserie",
+        "type": "Kit visserie moteur titane",
         "marque": "CNC Racing",
         "modele": "Kit visserie moteur titane complet",
         "reference": "KV429X",
@@ -1275,7 +1276,8 @@
         "remarques": "Kit complet titane grade 5, gain de poids, look racing"
     },
     {
-        "categorie": "Kit visserie carénage titane",
+        "categorie": "Visserie",
+        "type": "Kit visserie carénage titane",
         "marque": "CNC Racing",
         "modele": "Kit visserie carénage titane",
         "reference": "KV428X",
@@ -1286,7 +1288,8 @@
         "remarques": "Titane, complet pour carénage, look racing"
     },
     {
-        "categorie": "Kit visserie platines repose-pieds",
+        "categorie": "Visserie",
+        "type": "Kit visserie platines repose-pieds",
         "marque": "CNC Racing",
         "modele": "Kit visserie platines titane",
         "reference": "KV431X",
@@ -1297,7 +1300,8 @@
         "remarques": "Pour fixation platines repose-pieds, titane"
     },
     {
-        "categorie": "Kit visserie réservoir",
+        "categorie": "Visserie",
+        "type": "Kit visserie réservoir",
         "marque": "CNC Racing",
         "modele": "Kit visserie réservoir titane",
         "reference": "KV432X",
@@ -1308,7 +1312,8 @@
         "remarques": "Kit titane pour fixation du réservoir"
     },
     {
-        "categorie": "Kit visserie étriers de frein avant/arrière",
+        "categorie": "Visserie",
+        "type": "Kit visserie étriers de frein avant/arrière",
         "marque": "CNC Racing",
         "modele": "Kit visserie étriers titane",
         "reference": "KV433X",
@@ -1319,7 +1324,8 @@
         "remarques": "Kit titane pour étriers avant et arrière"
     },
     {
-        "categorie": "Kit visserie bras oscillant",
+        "categorie": "Visserie",
+        "type": "Kit visserie bras oscillant",
         "marque": "CNC Racing",
         "modele": "Kit visserie bras oscillant titane",
         "reference": "KV434X",
@@ -1330,7 +1336,8 @@
         "remarques": "Kit titane pour bras oscillant"
     },
     {
-        "categorie": "Kit visserie roue avant",
+        "categorie": "Visserie",
+        "type": "Kit visserie roue avant",
         "marque": "Pro-Bolt",
         "modele": "Kit visserie roue avant titane",
         "reference": "TIFDUC100",
@@ -1341,7 +1348,8 @@
         "remarques": "Kit titane pour axe de roue avant"
     },
     {
-        "categorie": "Kit visserie roue arrière",
+        "categorie": "Visserie",
+        "type": "Kit visserie roue arrière",
         "marque": "Pro-Bolt",
         "modele": "Kit visserie roue arrière titane",
         "reference": "TIRDUC100",
@@ -1352,7 +1360,8 @@
         "remarques": "Kit titane pour axe de roue arrière"
     },
     {
-        "categorie": "Kit visserie carter embrayage",
+        "categorie": "Visserie",
+        "type": "Kit visserie carter embrayage",
         "marque": "Ducabike",
         "modele": "Kit visserie carter embrayage titane",
         "reference": "KTEM01",
@@ -1362,8 +1371,9 @@
         "lienficheproduit": "https://www.ducabike.com/kit-viti-titanio-carter-frizione-ducati-v4",
         "remarques": "Kit titane pour carter d’embrayage"
     },
-     {
-        "categorie": "Protection radiateur",
+    {
+        "categorie": "Protection Moto",
+        "type": "Protection radiateur",
         "marque": "Ducati Performance",
         "modele": "Grille de protection radiateur eau/huile",
         "reference": "4841C941BA",
@@ -1374,7 +1384,8 @@
         "remarques": "Protection officielle Ducati pour radiateur eau et huile, montage plug&play MY25"
     },
     {
-        "categorie": "Protection carter moteur",
+        "categorie": "Protection Moto",
+        "type": "Protection carter moteur",
         "marque": "Ducati Performance",
         "modele": "Kit protections carters moteur",
         "reference": "97381561AA",
@@ -1385,7 +1396,8 @@
         "remarques": "Protection indispensable pour usage piste, homologuée route"
     },
     {
-        "categorie": "Protection axes",
+        "categorie": "Protection Moto",
+        "type": "Protection axes",
         "marque": "Ducati Performance",
         "modele": "Sliders axes de roue avant/arrière",
         "reference": "97381561AA",
@@ -1396,7 +1408,8 @@
         "remarques": "Tampons de protection pour axes, montage rapide"
     },
     {
-        "categorie": "Protection levier",
+        "categorie": "Protection Moto",
+        "type": "Protection levier",
         "marque": "Ducati Performance",
         "modele": "Protection de levier de frein",
         "reference": "96180571A",
@@ -1407,7 +1420,8 @@
         "remarques": "Obligatoire en compétition piste"
     },
     {
-        "categorie": "Protection culasse",
+        "categorie": "Protection Moto",
+        "type": "Protection culasse",
         "marque": "Ducati Performance",
         "modele": "Couvre-culasse carbone",
         "reference": "96981361A",
@@ -1418,7 +1432,8 @@
         "remarques": "Protection esthétique et fonctionnelle"
     },
     {
-        "categorie": "Acquisition de données",
+        "categorie": "Accessoires",
+        "type": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Ducati Data Analyzer+ (DDA+)",
         "reference": "97980061A",
@@ -1429,7 +1444,8 @@
         "remarques": "Acquisition de données GPS intégrée, indispensable circuit"
     },
     {
-        "categorie": "Chronométrage",
+        "categorie": "Accessoires",
+        "type": "Chronométrage",
         "marque": "Ducati Performance",
         "modele": "Module GPS Lap Timer",
         "reference": "96680571A",
@@ -1440,7 +1456,8 @@
         "remarques": "Chronométrage automatique compatible tableau de bord MY25"
     },
     {
-        "categorie": "TPMS",
+        "categorie": "Accessoires",
+        "type": "TPMS",
         "marque": "Ducati Performance",
         "modele": "Kit capteurs pression pneus TPMS",
         "reference": "96680491A",
@@ -1451,7 +1468,8 @@
         "remarques": "Affichage pression pneus au tableau de bord"
     },
     {
-        "categorie": "Echappement racing",
+        "categorie": "Echappement",
+        "type": "Echappement racing",
         "marque": "Akrapovič pour Ducati",
         "modele": "Kit échappement titane complet",
         "reference": "96481701A",
@@ -1462,7 +1480,8 @@
         "remarques": "Gain de poids et puissance, nécessite cartographie dédiée"
     },
     {
-        "categorie": "Filtration",
+        "categorie": "Admission",
+        "type": "Filtration",
         "marque": "Ducati Performance",
         "modele": "Filtre à air racing",
         "reference": "42610672A",
@@ -1473,7 +1492,8 @@
         "remarques": "Débit d'air optimisé pour usage piste"
     },
     {
-        "categorie": "Commandes reculées",
+        "categorie": "Commandes",
+        "type": "Commandes reculées",
         "marque": "Ducati Performance",
         "modele": "Repose-pieds réglables racing",
         "reference": "96280671A",
@@ -1484,7 +1504,8 @@
         "remarques": "Position multi-réglable, kit racing"
     },
     {
-        "categorie": "Leviers",
+        "categorie": "Commandes",
+        "type": "Leviers",
         "marque": "Ducati Performance",
         "modele": "Leviers réglables Performance",
         "reference": "96180571A",
@@ -1495,7 +1516,8 @@
         "remarques": "Aluminium, réglage précis"
     },
     {
-        "categorie": "Guidons racing",
+        "categorie": "Commandes",
+        "type": "Guidons racing",
         "marque": "Ducati Performance",
         "modele": "Guidons racing aluminium",
         "reference": "96180511A",
@@ -1506,7 +1528,8 @@
         "remarques": "Position optimisée pour usage circuit"
     },
     {
-        "categorie": "Selle",
+        "categorie": "Commandes",
+        "type": "Selle",
         "marque": "Ducati Performance",
         "modele": "Selle confort/racing",
         "reference": "96880961A",
@@ -1517,7 +1540,8 @@
         "remarques": "Absorption vibration, usage intensif"
     },
     {
-        "categorie": "Bulle",
+        "categorie": "Carénage",
+        "type": "Bulle",
         "marque": "Ducati Performance",
         "modele": "Bulle haute racing",
         "reference": "97180751A",
@@ -1528,7 +1552,8 @@
         "remarques": "Protection aérodynamique accrue"
     },
     {
-        "categorie": "Capot de selle",
+        "categorie": "Carénage",
+        "type": "Capot de selle",
         "marque": "Ducati Performance",
         "modele": "Capot de selle monoplace",
         "reference": "97180851A",
@@ -1539,7 +1564,8 @@
         "remarques": "Cache selle passager pour config monoplace"
     },
     {
-        "categorie": "Stickers",
+        "categorie": "Carénage",
+        "type": "Stickers",
         "marque": "Ducati Performance",
         "modele": "Kit stickers Ducati Corse",
         "reference": "97480251AA",
@@ -1550,7 +1576,8 @@
         "remarques": "Personnalisation officielle Ducati Corse"
     },
     {
-        "categorie": "Outils spéciaux",
+        "categorie": "Accessoires",
+        "type": "Outils spéciaux",
         "marque": "Ducati",
         "modele": "Kit outils spéciaux Panigale V4",
         "reference": "voir catalogue OUTILS",
@@ -1561,7 +1588,8 @@
         "remarques": "Outils spécifiques pour maintenance moteur/châssis"
     },
     {
-        "categorie": "Support paddock",
+        "categorie": "Accessoires",
+        "type": "Support paddock",
         "marque": "Ducati Performance",
         "modele": "Support de paddock avant/arrière",
         "reference": "96780571A",
@@ -1572,7 +1600,8 @@
         "remarques": "Entretien et stockage sécurisé"
     },
     {
-        "categorie": "Jantes magnesium",
+        "categorie": "Jantes",
+        "type": "Jantes Magnesium",
         "marque": "Ducati Performance",
         "modele": "Kit jantes forgées magnesium",
         "reference": "96380751A",
@@ -1583,7 +1612,8 @@
         "remarques": "Gain de poids, usage piste"
     },
     {
-        "categorie": "Chauffe-pneus",
+        "categorie": "Accessoires",
+        "type": "Chauffe-pneus",
         "marque": "Ducati Performance",
         "modele": "Chauffe-pneus racing",
         "reference": "96780661A",
@@ -1594,7 +1624,8 @@
         "remarques": "Homologué pour usage racing"
     },
     {
-        "categorie": "Suppression béquille",
+        "categorie": "Accessoires",
+        "type": "Suppression béquille",
         "marque": "Ducati Performance",
         "modele": "Kit suppression béquille latérale",
         "reference": "",
@@ -1605,7 +1636,8 @@
         "remarques": "Kit pour usage piste, nécessite shunt sécurité"
     },
     {
-        "categorie": "Purge rapide",
+        "categorie": "Accessoires",
+        "type": "Purge rapide",
         "marque": "Ducati Performance",
         "modele": "Kit purge rapide frein/embrayage",
         "reference": "96180591A",
@@ -1616,7 +1648,8 @@
         "remarques": "Facilite la maintenance circuit hydraulique"
     },
     {
-        "categorie": "Échappement complet",
+        "categorie": "Échappement",
+        "type": "Échappement complet",
         "marque": "Akrapovič Ducati Performance",
         "modele": "Ligne complète titane Racing",
         "reference": "96481741AA",
@@ -1629,7 +1662,8 @@
         "remarques": "Kit compétition Ducati Corse, nécessite reprogrammation ECU"
     },
     {
-        "categorie": "Protections carbone",
+        "categorie": "Protection Moto",
+        "type": "Protections cadre",
         "marque": "Ducati Performance",
         "modele": "Kit protections fourche/bras oscillant",
         "reference": "97381081A/97381091A",
@@ -1642,7 +1676,8 @@
         "remarques": "Pack double protection usinage CNC"
     },
     {
-        "categorie": "Commandes CNC",
+        "categorie": "Commandes",
+        "type": "Commandes CNC",
         "marque": "Ducati Performance",
         "modele": "Kit leviers frein/embrayage usinés",
         "reference": "96981391A",
@@ -1655,7 +1690,8 @@
         "remarques": "Réglage micrométrique 6 positions"
     },
     {
-        "categorie": "Électronique",
+        "categorie": "Acessoires",
+        "type": "Électronique",
         "marque": "Ducati Performance",
         "modele": "Data Logger GPS Racing",
         "reference": "97780321AA",
@@ -1668,176 +1704,190 @@
         "remarques": "Intègre les données DTC/EBC/DWC"
     },
     {
-    "categorie": "Protection radiateur",
-    "marque": "Evotech Performance",
-    "modele": "Grille de radiateur supérieure et inférieure",
-    "reference": "PRN014875-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": 150,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-radiator-guard-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
-    "remarques": "Protection aluminium, montage sans modification"
+        "categorie": "Protection Moto",
+        "type": "Protection radiateur",
+        "marque": "Evotech Performance",
+        "modele": "Grille de radiateur supérieure et inférieure",
+        "reference": "PRN014875-01",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 150,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-radiator-guard-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+        "remarques": "Protection aluminium, montage sans modification"
   },
   {
-    "categorie": "Protection carter moteur",
-    "marque": "Evotech Performance",
-    "modele": "Kit protections carter moteur",
-    "reference": "PRN015183-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": 180,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-engine-guard-ducati-panigale-v4-v4s-v4r",
-    "remarques": "Protection CNC, montage plug & play"
+        "categorie": "Protection Moto",
+        "type": "Protection carter moteur",
+        "marque": "Evotech Performance",
+        "modele": "Kit protections carter moteur",
+        "reference": "PRN015183-01",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-engine-guard-ducati-panigale-v4-v4s-v4r",
+        "remarques": "Protection CNC, montage plug & play"
   },
   {
-    "categorie": "Protection axe de roue avant",
-    "marque": "Evotech Performance",
-    "modele": "Protections fourche avant",
-    "reference": "PRN014876-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": 55,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-front-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
-    "remarques": "Tampons de protection, installation rapide"
+        "categorie": "Protection Moto",
+        "type": "Protection axe de roue avant",
+        "marque": "Evotech Performance",
+        "modele": "Protections fourche avant",
+        "reference": "PRN014876-01",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 55,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-front-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+        "remarques": "Tampons de protection, installation rapide"
   },
   {
-    "categorie": "Protection axe de roue arrière",
-    "marque": "Evotech Performance",
-    "modele": "Protections bras oscillant",
-    "reference": "PRN014877-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": 55,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-rear-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
-    "remarques": "Tampons de protection, montage sans outil spécifique"
+        "categorie": "Protection Moto",
+        "type": "Protection axe de roue arrière",
+        "marque": "Evotech Performance",
+        "modele": "Protections bras oscillant",
+        "reference": "PRN014877-01",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 55,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-rear-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+        "remarques": "Tampons de protection, montage sans outil spécifique"
   },
   {
-    "categorie": "Support de plaque",
-    "marque": "Evotech Performance",
-    "modele": "Support de plaque court",
-    "reference": "PRN014878-01",
-    "homologation": "Route",
-    "prixmoyeneur": 180,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-tail-tidy-ducati-panigale-v4-v4s-v4r",
-    "remarques": "Inclut support clignotants et éclairage LED"
+        "categorie": "Carénage",
+        "type": "Support de plaque",
+        "marque": "Evotech Performance",
+        "modele": "Support de plaque court",
+        "reference": "PRN014878-01",
+        "homologation": "Route",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-tail-tidy-ducati-panigale-v4-v4s-v4r",
+        "remarques": "Inclut support clignotants et éclairage LED"
   },
   {
-    "categorie": "Protection leviers",
-    "marque": "Evotech Performance",
-    "modele": "Protège-levier de frein",
-    "reference": "PRN015184-01",
-    "homologation": "Track",
-    "prixmoyeneur": 120,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-brake-lever-protector-ducati-panigale-v4-v4s-v4r",
-    "remarques": "Obligatoire en compétition, réglable"
+        "categorie": "Protection Moto",
+        "type": "Protection leviers",
+        "marque": "Evotech Performance",
+        "modele": "Protège-levier de frein",
+        "reference": "PRN015184-01",
+        "homologation": "Track",
+        "prixmoyeneur": 120,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-brake-lever-protector-ducati-panigale-v4-v4s-v4r",
+        "remarques": "Obligatoire en compétition, réglable"
   },
   {
-    "categorie": "Rétroviseurs embout de guidon",
-    "marque": "Evotech Performance",
-    "modele": "Kit rétroviseurs embout de guidon",
-    "reference": "PRN015185-01",
-    "homologation": "Route",
-    "prixmoyeneur": 210,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://evotech-performance.com/products/ep-bar-end-mirrors-ducati-panigale-v4-v4s-v4r",
-    "remarques": "Montage sans modification, design racing"
+        "categorie": "Rétroviseurs",
+        "type": "Rétroviseurs embout de guidon",
+        "marque": "Evotech Performance",
+        "modele": "Kit rétroviseurs embout de guidon",
+        "reference": "PRN015185-01",
+        "homologation": "Route",
+        "prixmoyeneur": 210,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://evotech-performance.com/products/ep-bar-end-mirrors-ducati-panigale-v4-v4s-v4r",
+        "remarques": "Montage sans modification, design racing"
   },
-     {
-    "categorie": "Support de plaque",
-    "marque": "Rizoma",
-    "modele": "Fox Panigale V4 2025",
-    "reference": "RIZ-FOX-V4-2025",
-    "homologation": "Route",
-    "prixmoyeneur": 299,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
-    "remarques": "Homologué, design racing"
-  },
-  {
-    "categorie": "Échappement",
-    "marque": "Arrow",
-    "modele": "Works Racing Line complète",
-    "reference": "ARROW-WRL-V4-2025",
-    "homologation": "Racing",
-    "prixmoyeneur": 2489,
-    "compatibilitesellepassager": false,
-    "volumesonoredb": "105-108 dB",
-    "chicanesamovibles": true,
-    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
-    "remarques": "Acier inoxydable, perte de poids 4.2 kg"
+ {
+        "categorie": "Carénage",
+        "type": "Support de plaque",
+        "marque": "Rizoma",
+        "modele": "Fox Panigale V4 2025",
+        "reference": "RIZ-FOX-V4-2025",
+        "homologation": "Route",
+        "prixmoyeneur": 299,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+        "remarques": "Homologué, design racing"
   },
   {
-    "categorie": "Protections carbone",
-    "marque": "Carbonvani",
-    "modele": "Garde-boue arrière carbone",
-    "reference": "CV-GB-AR-V4-2025",
-    "homologation": "Route et piste",
-    "prixmoyeneur": 269,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
-    "remarques": "Tissu 2x2 twill, montage direct"
+        "categorie": "Échappement",
+        "type": "Échappement complet",
+        "marque": "Arrow",
+        "modele": "Works Racing Line complète",
+        "reference": "ARROW-WRL-V4-2025",
+        "homologation": "Racing",
+        "prixmoyeneur": 2489,
+        "compatibilitesellepassager": false,
+        "volumesonoredb": "105-108 dB",
+        "chicanesamovibles": true,
+        "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+        "remarques": "Acier inoxydable, perte de poids 4.2 kg"
   },
   {
-    "categorie": "Carénage",
-    "marque": "S2 CONCEPT",
-    "modele": "Set complet carénage racing",
-    "reference": "S2-FULL-V4-2025",
-    "homologation": "Piste",
-    "prixmoyeneur": 1890,
-    "compatibilitesellepassager": false,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": true,
-    "lienficheproduit": "https://www.s2-concept.com/fr/20584-set-complet-carenage-racing-s2-concept-ducati-panigale-v4-a-partir-de-2025.html",
-    "remarques": "Fibre de verre + renforts carbone/kevlar"
+        "categorie": "Carénage",
+        "type": "Garde-boue arrière",
+        "marque": "Carbonvani",
+        "modele": "Garde-boue arrière carbone",
+        "reference": "CV-GB-AR-V4-2025",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 269,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
+        "remarques": "Tissu 2x2 twill, montage direct"
   },
   {
-    "categorie": "Filtre à air",
-    "marque": "Sprint Filter",
-    "modele": "Filtre racing lavable",
-    "reference": "SF-RA-V4-2025",
-    "homologation": "Route",
-    "prixmoyeneur": 66.50,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
-    "remarques": "Augmentation débit air +15%"
+        "categorie": "Carénage",
+        "type": "Carénage complet",
+        "marque": "S2 CONCEPT",
+        "modele": "Set complet carénage racing",
+        "reference": "S2-FULL-V4-2025",
+        "homologation": "Piste",
+        "prixmoyeneur": 1890,
+        "compatibilitesellepassager": false,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": true,
+        "lienficheproduit": "https://www.s2-concept.com/fr/20584-set-complet-carenage-racing-s2-concept-ducati-panigale-v4-a-partir-de-2025.html",
+        "remarques": "Fibre de verre + renforts carbone/kevlar"
   },
   {
-    "categorie": "Protections mécaniques",
-    "marque": "Evotech Performance",
-    "modele": "Kit protections fourche/bras oscillant",
-    "reference": "EVO-PROT-V4-2025",
-    "homologation": "Route et piste",
-    "prixmoyeneur": 90.15,
-    "compatibilitesellepassager": true,
-    "volumesonoredb": "N/A",
-    "chicanesamovibles": false,
-    "lienficheproduit": "https://gen-performance.com/collections/ducati-panigale-v4-2025",
-    "remarques": "Montage sans perçage, aluminium CNC"
+        "categorie": "Admission",
+        "type": "Filtre à air",
+        "marque": "Sprint Filter",
+        "modele": "Filtre racing lavable",
+        "reference": "SF-RA-V4-2025",
+        "homologation": "Route",
+        "prixmoyeneur": 66.50,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
+        "remarques": "Augmentation débit air +15%"
+  },
+  {
+        "categorie": "Protection Moto",
+        "type": "Protection cadre",
+        "marque": "Evotech Performance",
+        "modele": "Kit protections fourche/bras oscillant",
+        "reference": "EVO-PROT-V4-2025",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 90.15,
+        "compatibilitesellepassager": true,
+        "volumesonoredb": "N/A",
+        "chicanesamovibles": false,
+        "lienficheproduit": "https://gen-performance.com/collections/ducati-panigale-v4-2025",
+        "remarques": "Montage sans perçage, aluminium CNC"
   },
        {
         "categorie": "Échappement",
+        "type": "Échappement",
         "marque": "Akrapovič / Ducati Performance",
         "modele": "Ligne complète titane Euro5",
         "reference": "96482051AA",
@@ -1850,7 +1900,8 @@
         "remarques": "Référence officielle Ducati Performance 2025, nécessite reprogrammation ECU"
     },
     {
-        "categorie": "Électronique/Data",
+        "categorie": "Accessoires",
+        "type": "Électronique/Data",
         "marque": "Ducati Performance",
         "modele": "Data Analyzer+ GPS",
         "reference": "69929951A",
@@ -1863,7 +1914,8 @@
         "remarques": "Intègre capteurs GPS/accéléromètre, compatible DDA+"
     },
     {
-        "categorie": "Protection",
+        "categorie": "Protection Moto",
+        "type": "Protection commandes",
         "marque": "Ducati Performance",
         "modele": "Kit protections leviers",
         "reference": "97381041A",
@@ -1876,7 +1928,8 @@
         "remarques": "Aluminium CNC avec insert carbone, montage direct"
     },
     {
-        "categorie": "Acquisition de données",
+        "categorie": "Accessoires",
+        "type": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "DDA+ GPS",
         "reference": "97980061C",
@@ -1887,7 +1940,8 @@
         "remarques": "Data logger officiel Ducati, compatible MY25"
     },
     {
-        "categorie": "Connectivité",
+        "categorie": "Accessoires",
+        "type": "Connectivité",
         "marque": "Ducati Performance",
         "modele": "DMS (Ducati Multimedia System)",
         "reference": "96681181A",
@@ -1898,7 +1952,8 @@
         "remarques": "Module Bluetooth pour smartphone, navigation, musique, appels"
     },
     {
-        "categorie": "Capteurs",
+        "categorie": "Accessoires",
+        "type": "Capteurs",
         "marque": "Ducati Performance",
         "modele": "TPMS (Tire Pressure Monitoring System)",
         "reference": "96680431A",
@@ -1909,7 +1964,8 @@
         "remarques": "Capteurs pression pneus, affichage au tableau de bord"
     },
     {
-        "categorie": "Acquisition de données",
+        "categorie": "Accessoires",
+        "type": "Acquisition de données",
         "marque": "AIM",
         "modele": "Solo 2 DL Kit Ducati V4",
         "reference": "X47DKD4S25",
@@ -1920,7 +1976,8 @@
         "remarques": "Lap timer GPS, compatible acquisition CAN Panigale V4 S 2025"
     },
     {
-        "categorie": "Protections radiateur",
+        "categorie": "Protection Moto",
+        "type": "Protections radiateur",
         "marque": "Evotech Performance",
         "modele": "Radiator + Oil Cooler Guard",
         "reference": "PRN014672-01",
@@ -1931,7 +1988,8 @@
         "remarques": "Grille aluminium, protection radiateur et huile"
     },
     {
-        "categorie": "Commandes reculées",
+        "categorie": "Commandes",
+        "type": "Commandes reculées",
         "marque": "Bonamici Racing",
         "modele": "Repose-pieds réglables Panigale V4 S MY25",
         "reference": "PEV4S25",
@@ -1942,7 +2000,8 @@
         "remarques": "Commandes racing réglables, compatible quickshifter d’origine"
     },
     {
-        "categorie": "Kit conversion racing",
+        "categorie": "Accessoires",
+        "type": "Kit conversion racing",
         "marque": "Ducati Performance",
         "modele": "Kit suppression route (bouchons, récupérateurs, purgeurs rapides)",
         "reference": "97180751A",
@@ -1953,7 +2012,8 @@
         "remarques": "Kit complet pour conversion full piste"
     },
     {
-        "categorie": "Suspension",
+        "categorie": "Suspensions",
+        "type": "Suspension",
         "marque": "Öhlins",
         "modele": "Steering Damper Upgrade Kit 2025",
         "reference": "SDU-V4S25",
@@ -1965,6 +2025,7 @@
     },
     {
         "categorie": "Jantes",
+        "type": "Jantes Magnésium",
         "marque": "Marchesini",
         "modele": "Kit jantes magnésium forgé Panigale V4 S 2025",
         "reference": "96481281AA",
@@ -1976,6 +2037,7 @@
     },
     {
         "categorie": "Freinage",
+        "type": "Maître-cylindre",
         "marque": "Brembo",
         "modele": "Maître-cylindre RCS Corsa Corta",
         "reference": "110C74010",
@@ -1986,7 +2048,8 @@
         "remarques": "Réglage course morte, feeling piste"
     },
     {
-        "categorie": "Batterie",
+        "categorie": "Accessoires",
+        "type": "Batterie",
         "marque": "Skyrich",
         "modele": "Batterie lithium YT12B-BS",
         "reference": "HJT12B-FP",
@@ -1997,7 +2060,8 @@
         "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
     },
     {
-        "categorie": "Outillage spécifique",
+        "categorie": "Accessoires",
+        "type": "Outillage spécifique",
         "marque": "Ducati",
         "modele": "Kit outils spéciaux V4 S 2025",
         "reference": "887133003",
@@ -2008,7 +2072,8 @@
         "remarques": "Kit atelier officiel Ducati pour V4 S 2025 (voir catalogue pièces origine[1])"
     },
     {
-        "categorie": "Accessoires paddock",
+        "categorie": "Accessoires",
+        "type": "Accessoires paddock",
         "marque": "Ducati Performance",
         "modele": "Housse de transport officielle",
         "reference": "96780611A",
