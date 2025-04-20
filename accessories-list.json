@@ -950,5 +950,93 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
         "remarques": "Pour béquille atelier, aluminium"
-      }
+      },
+    {
+        "categorie": "Kit suppression rétroviseurs",
+        "marque": "Ducati Performance",
+        "modele": "Kit bouchons rétroviseurs",
+        "reference": "96981211AA",
+        "homologation": "Piste",
+        "prixmoyeneur": 55,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981211AA",
+        "remarques": "Permet de boucher proprement les fixations lors d’un usage piste"
+    },
+    {
+        "categorie": "Kit protections fourche/bras oscillant",
+        "marque": "Ducati Performance",
+        "modele": "Kit sliders avant/arrière",
+        "reference": "97380871A",
+        "homologation": "Piste",
+        "prixmoyeneur": 185,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97380871A",
+        "remarques": "Protection en cas de glissade, montage plug & play"
+    },
+    {
+        "categorie": "Bulle haute racing",
+        "marque": "Ducati Performance",
+        "modele": "Bulle racing haute",
+        "reference": "96781231AA",
+        "homologation": "Route",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96781231AA",
+        "remarques": "Polycarbonate, meilleure protection aérodynamique"
+    },
+    {
+        "categorie": "Bouchon essence rapide",
+        "marque": "Ducati Performance",
+        "modele": "Bouchon de réservoir à ouverture rapide",
+        "reference": "97380921AA",
+        "homologation": "Piste",
+        "prixmoyeneur": 110,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97380921AA",
+        "remarques": "Ouverture sans clé, aluminium anodisé"
+    },
+    {
+        "categorie": "Kit repose-pieds racing",
+        "marque": "Ducati Performance",
+        "modele": "Repose-pieds réglables racing",
+        "reference": "96280671A",
+        "homologation": "Piste",
+        "prixmoyeneur": 680,
+        "compatibilitesellepassager": false,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96280671A",
+        "remarques": "Position réglable, aluminium taillé masse, usage piste"
+    },
+    {
+        "categorie": "Kit protections carters moteur",
+        "marque": "Ducati Performance",
+        "modele": "Kit protections carters moteur aluminium",
+        "reference": "97181091AA",
+        "homologation": "Piste",
+        "prixmoyeneur": 320,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97181091AA",
+        "remarques": "Protection usinée pour carters, recommandée pour la piste"
+    },
+    {
+        "categorie": "Kit leviers racing",
+        "marque": "Ducati Performance",
+        "modele": "Leviers de frein et embrayage réglables",
+        "reference": "96180561A",
+        "homologation": "Route",
+        "prixmoyeneur": 210,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96180561A",
+        "remarques": "Leviers taillés masse, réglables, pour adaptation ergonomique"
+    },
+    {
+        "categorie": "Kit support de plaque racing",
+        "marque": "Ducati Performance",
+        "modele": "Support de plaque allégé",
+        "reference": "97181051AA",
+        "homologation": "Route",
+        "prixmoyeneur": 210,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97181051AA",
+        "remarques": "Allégé, compatible clignotants LED Ducati"
+    }
 ]
