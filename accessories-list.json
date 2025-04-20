@@ -1654,5 +1654,83 @@
     "chicanesamovibles": false,
     "lienficheproduit": "https://evotech-performance.com/products/ep-bar-end-mirrors-ducati-panigale-v4-v4s-v4r",
     "remarques": "Montage sans modification, design racing"
+  },
+     {
+    "categorie": "Support de plaque",
+    "marque": "Rizoma",
+    "modele": "Fox Panigale V4 2025",
+    "reference": "RIZ-FOX-V4-2025",
+    "homologation": "Route",
+    "prixmoyeneur": 299,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Homologué, design racing"
+  },
+  {
+    "categorie": "Échappement",
+    "marque": "Arrow",
+    "modele": "Works Racing Line complète",
+    "reference": "ARROW-WRL-V4-2025",
+    "homologation": "Racing",
+    "prixmoyeneur": 2489,
+    "compatibilitesellepassager": false,
+    "volumesonoredb": "105-108 dB",
+    "chicanesamovibles": true,
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Acier inoxydable, perte de poids 4.2 kg"
+  },
+  {
+    "categorie": "Protections carbone",
+    "marque": "Carbonvani",
+    "modele": "Garde-boue arrière carbone",
+    "reference": "CV-GB-AR-V4-2025",
+    "homologation": "Route et piste",
+    "prixmoyeneur": 269,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
+    "remarques": "Tissu 2x2 twill, montage direct"
+  },
+  {
+    "categorie": "Carénage",
+    "marque": "S2 CONCEPT",
+    "modele": "Set complet carénage racing",
+    "reference": "S2-FULL-V4-2025",
+    "homologation": "Piste",
+    "prixmoyeneur": 1890,
+    "compatibilitesellepassager": false,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": true,
+    "lienficheproduit": "https://www.s2-concept.com/fr/20584-set-complet-carenage-racing-s2-concept-ducati-panigale-v4-a-partir-de-2025.html",
+    "remarques": "Fibre de verre + renforts carbone/kevlar"
+  },
+  {
+    "categorie": "Filtre à air",
+    "marque": "Sprint Filter",
+    "modele": "Filtre racing lavable",
+    "reference": "SF-RA-V4-2025",
+    "homologation": "Route",
+    "prixmoyeneur": 66.50,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
+    "remarques": "Augmentation débit air +15%"
+  },
+  {
+    "categorie": "Protections mécaniques",
+    "marque": "Evotech Performance",
+    "modele": "Kit protections fourche/bras oscillant",
+    "reference": "EVO-PROT-V4-2025",
+    "homologation": "Route et piste",
+    "prixmoyeneur": 90.15,
+    "compatibilitesellepassager": true,
+    "volumesonoredb": "N/A",
+    "chicanesamovibles": false,
+    "lienficheproduit": "https://gen-performance.com/collections/ducati-panigale-v4-2025",
+    "remarques": "Montage sans perçage, aluminium CNC"
   }
 ]
