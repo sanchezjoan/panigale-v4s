@@ -269,18 +269,6 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
-        "marque": "FullSix",
-        "modele": "Kit protections carters carbone mat",
-        "reference": "MD-DV4-ENGM",
-        "homologation": "Route",
-        "prixmoyeneur": 320,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/engine-cover-kit-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Kit complet, finition mate"
-    },
-    {
         "categorie": "Carénage",
         "type": "Cache pignon sortie de boîte",
         "marque": "FullSix",
@@ -293,18 +281,6 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
-        "marque": "FullSix",
-        "modele": "Cache pignon carbone brillant",
-        "reference": "MD-DV4-SPC21G",
-        "homologation": "Route",
-        "prixmoyeneur": 110,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/front-sprocket-cover-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Carbone finition brillante"
-    },
-    {
         "categorie": "Ailerons",
         "marque": "FullSix",
         "modele": "Ailerons carbone mat",
@@ -314,18 +290,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/winglets-ducati-panigale-v4-v4s-v4r-carbon-matte/",
         "remarques": "Paire, finition mate"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Ailerons",
-        "marque": "FullSix",
-        "modele": "Ailerons carbone brillant",
-        "reference": "MD-DV4-WING21G",
-        "homologation": "Route",
-        "prixmoyeneur": 520,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/winglets-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Paire, finition brillante"
     },
     {
         "categorie": "Protection Moto",
