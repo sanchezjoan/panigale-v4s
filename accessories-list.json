@@ -883,6 +883,20 @@
     },
     {
         "category": "Carénage",
+        "PartType": "Support de pare-brise",
+        "marque": "Carbonvani",
+        "modele": "Support de pare-brise en Carbone",
+        "reference": "DV4S24-03D",
+        "homologation": "Route",
+        "prixmoyeneur": "390",
+        "volumesonoredb": "N/A",
+        "compatibilitesellepassager": "true",
+        "lienficheproduit": "https://www.carbonvani.com/product-page/supporto-cupolino",
+        "chicanesamovibles": "n/a",
+        "remarques": "Support de pare-brise en Carbone"
+    },
+    {
+        "category": "Carénage",
         "PartType": "Support de plaque",
         "marque": "Evotech Performance",
         "modele": "Support de plaque court",
