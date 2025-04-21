@@ -337,7 +337,7 @@
     },
     {
         "category": "Admission",
-        "PartType": "Filtration",
+        "PartType": "Filtre à air",
         "marque": "Ducati Performance",
         "modele": "Filtre à air racing",
         "reference": "42610672A",
@@ -365,7 +365,7 @@
     },
     {
         "category": "Admission",
-        "PartType": "Filtre à air performance",
+        "PartType": "Filtre à air",
         "marque": "BMC",
         "modele": "Filtre à air racing Panigale V4 S 2025",
         "reference": "FM01054",
@@ -449,7 +449,7 @@
     },
     {
         "category": "Carénage",
-        "PartType": "Bulle haute racing",
+        "PartType": "Bulle",
         "marque": "Ducati Performance",
         "modele": "Bulle racing haute",
         "reference": "96781231AA",
@@ -953,7 +953,7 @@
     },
     {
         "category": "Commandes",
-        "PartType": "Commandes CNC",
+        "PartType": "Leviers",
         "marque": "Ducati Performance",
         "modele": "Kit leviers frein/embrayage usinés",
         "reference": "96981391A",
@@ -1037,7 +1037,7 @@
     },
     {
         "category": "Commandes",
-        "PartType": "Kit leviers racing",
+        "PartType": "Leviers",
         "marque": "Ducati Performance",
         "modele": "Leviers de frein et embrayage réglables",
         "reference": "96180561A",
@@ -1051,7 +1051,7 @@
     },
     {
         "category": "Commandes",
-        "PartType": "Leviers frein/embrayage",
+        "PartType": "Leviers",
         "marque": "CNC Racing",
         "modele": "Levier frein Evo",
         "reference": "LEV33B",
@@ -1065,7 +1065,7 @@
     },
     {
         "category": "Commandes",
-        "PartType": "Leviers frein/embrayage",
+        "PartType": "Leviers",
         "marque": "CNC Racing",
         "modele": "Levier embrayage Evo",
         "reference": "LEV34B",
@@ -1079,7 +1079,7 @@
     },
     {
         "category": "Commandes",
-        "PartType": "Leviers frein/embrayage",
+        "PartType": "Leviers",
         "marque": "Rizoma",
         "modele": "3D",
         "reference": "LBJ700B / LBJ701B",
@@ -1093,7 +1093,7 @@
     },
     {
         "category": "Commandes",
-        "PartType": "Poignées racing",
+        "PartType": "Poignées",
         "marque": "Domino",
         "modele": "Poignées racing Panigale V4 S 2025",
         "reference": "A26041C4540-0",
@@ -1205,7 +1205,7 @@
     },
     {
         "category": "Échappement",
-        "PartType": "Echappement racing",
+        "PartType": "Echappement complet",
         "marque": "Akrapovic for Ducati Performance",
         "modele": "Kit échappement titane complet",
         "reference": "96481701A",
