@@ -1,8 +1,9 @@
-Recherche sur Internet en utilisant les liens présents dans le fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/parts-shops-makers.json" de nouveaux equipements pour Ducati Panigale V4 S 2025.
+Recherche sur Internet 10 nouveaux equipements pour la moto Ducati Panigale V4 S 2025.
+Utilise les liens présents dans le fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/parts-shops-makers.json".
 Attention, tu dois utiliser uniquement les catégories et les types existants dans le fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/categories.json" pour classer les nouveaux accessoires.
 Attention à bien vérifier que ces équipements ne soient pas déjà dans la liste des équipements du fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/accessories-list.json". 
-Réponds au format JSON (comme dans le fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/accessories-list.json") et fais attention aux accents. Les objets JSON devront avoir les propriétés suivantes : "category": "Rétroviseurs",
-	"PartType", "marque",  "modele", "reference",  "homologation" ,  "prixmoyeneur",   "compatibilitesellepassager", "lienficheproduit" ,    "remarques".
+Réponds au format JSON (comme dans le fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/accessories-list.json") et fais attention aux accents. Les objets JSON devront avoir les propriétés suivantes : "category",
+"PartType", "marque",  "modele", "reference",  "homologation" ,  "prixmoyeneur", "compatibilitesellepassager", "lienficheproduit" ,"remarques".
 Utilise uniquement les valeurs présentes dans le fichier "https://raw.githubusercontent.com/sanchezjoan/panigale-v4s/main/categories.json" pour classer les nouveaux accessoires et UNIQUEMENT ces valeurs, aucune autre.
 Le lien vers la fiche produit ("lienficheproduit") doit renvoyer vers une page ou le produit peut être acheté
 Le champ "reference" est requis, c'est la clé pour identifier les accessoires.
