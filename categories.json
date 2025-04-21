@@ -133,6 +133,10 @@
     },
     {
         "Category": "Carénage",
+        "PartType": "Dosseret de selle"
+    },
+    {
+        "Category": "Carénage",
         "PartType": "Flanc de carénage droit"
     },
     {
