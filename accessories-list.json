@@ -520,30 +520,30 @@
     {
         "category": "Carénage",
         "PartType": "Cache pignon sortie de boîte",
-        "marque": "FullSix",
-        "modele": "Cache pignon carbone mat",
-        "reference": "MD-DV4-SPC21M",
+        "marque": "Carbonvani",
+        "modele": "Cache pignon carbone brillant",
+        "reference": "DV4S25-36",
         "homologation": "Route",
         "prixmoyeneur": "110",
         "volumesonoredb": null,
         "compatibilitesellepassager": "true",
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/front-sprocket-cover-ducati-panigale-v4-v4s-v4r-carbon-matte/",
+        "lienficheproduit": "https://www.carbonvani.com/product-page/cover-pignone-13",
         "chicanesamovibles": null,
-        "remarques": "Carbone finition mate"
+        "remarques": "Carbone finition brillante"
     },
     {
         "category": "Carénage",
         "PartType": "Cache pignon sortie de boîte",
-        "marque": "FullSix",
-        "modele": "Cache pignon carbone brillant",
-        "reference": "MD-DV4-SPC21G",
+        "marque": "Carbonvani",
+        "modele": "Cache pignon carbone mat",
+        "reference": "DV4S25-36",
         "homologation": "Route",
         "prixmoyeneur": "110",
         "volumesonoredb": null,
         "compatibilitesellepassager": "true",
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/front-sprocket-cover-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
+        "lienficheproduit": "https://www.carbonvani.com/product-page/cover-pignone-13",
         "chicanesamovibles": null,
-        "remarques": "Carbone finition brillante"
+        "remarques": "Carbone finition mat"
     },
     {
         "category": "Carénage",
