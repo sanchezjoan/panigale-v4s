@@ -172,7 +172,8 @@
         "remarques": "Obligatoire en compétition, carbone, montage plug & play"
     },
     {
-        "categorie": "Ailerons",
+        "categorie": "Carénage",
+        "type": "Ailerons",
         "marque": "Ducati Performance",
         "modele": "Ailerons carbone mat",
         "reference": "97181051AA",
@@ -267,7 +268,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Ailerons",
+        "categorie": "Carénage",
+        "type": "Ailerons",
         "marque": "FullSix",
         "modele": "Ailerons carbone mat",
         "reference": "MD-DV4-WING21M",
