@@ -1,162 +1,162 @@
 [
   {
     "Name": "Rizoma",
-    "Type": "Maker",
+    "MakerMakerType": "Maker",
     "Url": "https://rizoma.com/fr/motorbike/ducati/panigale-v4/panigale-v4-s-2025"
   },
   {
     "Name": "DBKSpecialParts",
-    "Type": "Maker",
+    "MakerType": "Maker",
     "Url": "https://dbkspecialparts.com/en/2313-ducati-superbike-panigale-v4s-year2025"
   },
   {
     "Name": "Desmo Racing",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://desmo-racing.com/carbone-new-panigale-v4-2025-xsl-244_771.html"
   },
   {
     "Name": "Carbon4US",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://carbon4us.com/fr/10709-panigale-v4-2025"
   },
   {
     "Name": "MotoMillion",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://motomillion.com/collections/ducati-panigale-v4-2025"
   },
   {
     "Name": "NRBike",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://nrbike.fr/votre-moto/ducati/panigale-v4-2025.html"
   },
   {
     "Name": "GenPerformance",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://gen-performance.com/collections/ducati-panigale-v4-2025"
   },
   {
     "Name": "SportClassic",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://sport-classic.com/14666-top-bike-ducati-panigale-v4-2025"
   },
   {
     "Name": "CNCRacing",
-    "Type": "Maker",
+    "MakerType": "Maker",
     "Url": "https://cncracing.com/en/ducati_superbike_panigale-v4-s_2025.html"
   },
   {
     "Name": "FullSixCarbon",
-    "Type": "Maker",
+    "MakerType": "Maker",
     "Url": "https://fullsixcarbon.fr/ducati-carbone-new-panigale-v4-2025-xsl-558_772.html"
   },
   {
     "Name": "Akrapovič",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.akrapovic.com/fr/moto/road/ducati/panigale-v4-s-2025"
   },
   {
     "Name": "Brembo",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.brembo.com/fr/moto/aftermarket/Pages/default.aspx"
   },
   {
     "Name": "Öhlins",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.ohlins.com/product/panigale-v4-s-2025/"
   },
   {
     "Name": "Marchesini",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": ""
   },
   {
     "Name": "Pirelli",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.pirelli.com/tyres/fr-fr/motorcycle/all-tyres/products-sheet/diablo-supercorsa-sp-v4"
   },
   {
     "Name": "Shell",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": ""
   },
   {
     "Name": "Yuasa",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.yuasa.fr/"
   },
   {
     "Name": "LighTech",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": ""
   },
   {
     "Name": "STM",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": ""
   },
   {
     "Name": "Bonamici Racing",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": ""
   },
   {
     "Name": "SC-Project",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.sc-project.com/fr/ducati-panigale-v4-s"
   },
   {
     "Name": "BMC",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.bmcairfilters.com/fr/filters/ducati/panigale-v4-s"
   },
   {
     "Name": "Sprint Filter",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.sprintfilter.net/fr/ducati-panigale-v4-s"
   },
   {
     "Name": "Samco Sport",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://samcosport.com/uk/ducati-panigale-v4-s"
   },
   {
     "Name": "GB Racing",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.gbracing.eu/fr/ducati-panigale-v4-s"
   },
   {
     "Name": "R&G Racing",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.rg-racing.com/browsebike/Ducati/Panigale_V4_S"
   },
   {
     "Name": "Evotech Performance",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://evotech-performance.com/collections/ducati-panigale-v4-s-2025"
   },
   {
     "Name": "Domino",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.domino-group.com/fr/produits/ducati-panigale-v4-s"
   },
   {
     "Name": "DID",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://didchain.com/fr/ducati-panigale-v4-s"
   },
   {
     "Name": "Motul",
-    "Type": "maker",
+    "MakerType": "maker",
     "Url": "https://www.motul.com/fr/fr/products?brand=ducati&model=panigale-v4-s"
   },
   {
     "Name": "WRS",
-    "Type": "Shop",
+    "MakerType": "Shop",
     "Url": "https://www.wrs.it/makeselector/search?pms1=Ducati&pms2=Panigale%20V4%20/%20S%20/%20R%202025&pms3=all&pms4=all&pmsl=1"
   },
   {
     "Name": "Carbonvani";
-    "Type": "Maker",
+    "MakerType": "Maker",
     "Url": "https://www.carbonvani.com/panigale-v4-2025"
   }
 ]
