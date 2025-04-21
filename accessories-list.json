@@ -1149,8 +1149,8 @@
     },
     {
         "category": "Échappement",
-        "PartType": "Échappement",
-        "marque": "Akrapovič / Ducati Performance",
+        "PartType": "Échappement complet",
+        "marque": "Akrapovic for Ducati Performance",
         "modele": "Ligne complète titane Euro5",
         "reference": "96482051AA",
         "homologation": "Euro 5",
@@ -1178,7 +1178,7 @@
     {
         "category": "Échappement",
         "PartType": "Échappement complet",
-        "marque": "Akrapovič Ducati Performance",
+        "marque": "Akrapovic for Ducati Performance",
         "modele": "Ligne complète titane Racing",
         "reference": "96481741AA",
         "homologation": "Racing (non homologué route)",
@@ -1206,7 +1206,7 @@
     {
         "category": "Échappement",
         "PartType": "Echappement racing",
-        "marque": "Akrapovič pour Ducati",
+        "marque": "Akrapovic for Ducati Performance",
         "modele": "Kit échappement titane complet",
         "reference": "96481701A",
         "homologation": "Compétition",
@@ -1219,7 +1219,7 @@
     },
     {
         "category": "Échappement",
-        "PartType": "Echappement slip-on",
+        "PartType": "Echappement complet",
         "marque": "SC-Project",
         "modele": "CR-T M2 WSBK",
         "reference": "SCP-D36A-T36C",
@@ -1229,7 +1229,7 @@
         "compatibilitesellepassager": "true",
         "lienficheproduit": "https://www.sc-project.com/fr/produit/systeme-dechappement-wsbk-pour-ducati-panigale-v4",
         "chicanesamovibles": "true",
-        "remarques": "Look MotoGP, usage piste"
+        "remarques": "Look MotoGP, usage piste slip-on"
     },
     {
         "category": "Embrayage",
