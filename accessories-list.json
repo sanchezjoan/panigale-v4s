@@ -2098,5 +2098,149 @@
         "lienficheproduit": "https://www.pro-bolt.com/titanium-front-axle-nut-kit-ducati-panigale-v4-s.html",
         "chicanesamovibles": null,
         "remarques": "Kit titane pour axe de roue avant"
-    }
+    },
+    {
+        "category": "Carénage",
+        "PartType": "Dosseret de selle",
+        "marque": "Carbonvani",
+        "modele": "Dosseret de selle carbone",
+        "reference": "DV4S25-11",
+        "homologation": "Oui",
+        "prixmoyeneur": 218.40,
+        "compatibilitesellepassager": "Non",
+        "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+        "remarques": "Permet de transformer la moto en monoplace, finition carbone haut de gamme."
+  },
+  {
+    "category": "Carénage",
+    "PartType": "Garde-boue avant",
+    "marque": "Carbonvani",
+    "modele": "Garde-boue avant carbone",
+    "reference": "DV4S25-11",
+    "homologation": "Oui",
+    "prixmoyeneur": 252.00,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.carbonvani.com/product-page/parafango-anteriore-26",
+    "remarques": "Allège la partie avant et améliore l’esthétique racing."
+  },
+  {
+    "category": "Carénage",
+    "PartType": "Garde-boue arrière",
+    "marque": "Ilmberger Carbon",
+    "modele": "Garde-boue arrière carbone brillant",
+    "reference": "ILM-GBAA-PV425",
+    "homologation": "Oui",
+    "prixmoyeneur": 339.90,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Finition brillante, haute résistance, look premium."
+  },
+  {
+    "category": "Carénage",
+    "PartType": "Sous-carénage",
+    "marque": "Carbonvani",
+    "modele": "Sous-carénage en carbone twill opaque",
+    "reference": "DV4S25-07D/E",
+    "homologation": "Oui",
+    "prixmoyeneur": 390.0,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.carbonvani.com/en/product-page/sottocarenette",
+    "remarques": "Finition brillante, haute résistance, look premium."
+  },
+  {
+    "category": "Protection Moto",
+    "PartType": "Protection de cadre",
+    "marque": "Ilmberger Carbon",
+    "modele": "Couvre-bras oscillant droit carbone brillant",
+    "reference": "ILM-CBOB-PV425",
+    "homologation": "Oui",
+    "prixmoyeneur": 339.90,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Protection contre les projections et les rayures, carbone véritable."
+  },
+  {
+    "category": "Protection Moto",
+    "PartType": "Protection de bras oscillant",
+    "marque": "Ilmberger Carbon",
+    "modele": "Couvre-bras oscillant gauche carbone mat",
+    "reference": "ILM-CBOM-PV425",
+    "homologation": "Oui",
+    "prixmoyeneur": 399.90,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Protection côté gauche, finition mat, installation facile."
+  },
+  {
+    "category": "Transmission",
+    "PartType": "Pare-chaîne",
+    "marque": "Carbonvani",
+    "modele": "Pare-chaîne supérieur carbone",
+    "reference": "CV-PCS-PV425",
+    "homologation": "Oui",
+    "prixmoyeneur": 234.00,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Protection efficace de la chaîne, design sportif."
+  },
+  {
+    "category": "Accessoires",
+    "PartType": "Électronique"
+    "marque": "Carbonvani",
+    "modele": "Couvercle instrumentation carbone",
+    "reference": "CV-CIC-PV425",
+    "homologation": "Oui",
+    "prixmoyeneur": 204.00,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Protection et personnalisation du tableau de bord."
+  },
+  {
+    "category": "Carénage",
+    "PartType": "Support de plaque",
+    "marque": "Carbonvani",
+    "modele": "Support de plaque carbone",
+    "reference": "DV4S25-30",
+    "homologation": "Oui",
+    "prixmoyeneur": 300.00,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.carbonvani.com/en/product-page/porta-targa-9",
+    "remarques": "Look racing, poids réduit, homologué route."
+  },
+    {
+        "category": "Carénage",
+        "PartType": "Kit cache cylindre",
+        "marque": "Carbonvani",
+        "modele": "Kit couvercles de cylindre carbone",
+        "reference": "DV4S25-39",
+        "homologation": "Oui",
+        "prixmoyeneur": 270.00,
+        "compatibilitesellepassager": "Oui",
+        "lienficheproduit": "https://www.carbonvani.com/en/product-page/kit-cover-cilindri",
+        "remarques": "Protection thermique et esthétique du haut moteur."
+  },
+  {
+    "category": "Carénage",
+    "PartType": "Kit cache cylindre",
+    "marque": "Carbonvani",
+    "modele": "Kit couvercles de cylindre carbone unique",
+    "reference": "DV4S25-39",
+    "homologation": "Oui",
+    "prixmoyeneur": 270.00,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.carbonvani.com/en/product-page/kit-cover-cilindri-unico",
+    "remarques": "Protection thermique et esthétique du haut moteur."
+  },
+  {
+    "category": "Freinage",
+    "PartType": "Conduits de refroidissement de freins",
+    "marque": "Carbonvani",
+    "modele": "Conduits refroidissement freins avant carbone",
+    "reference": "CV-CRFA-PV425",
+    "homologation": "Oui",
+    "prixmoyeneur": 336.00,
+    "compatibilitesellepassager": "Oui",
+    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
+    "remarques": "Optimise le refroidissement des freins en usage piste."
+  }
 ]
