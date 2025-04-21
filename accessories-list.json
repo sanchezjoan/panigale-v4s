@@ -1756,5 +1756,65 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96780611A",
         "remarques": "Housse Ducati Performance, adaptée Panigale V4 S MY25"
+    },
+    {
+        "categorie": "Freinage",
+        "type": "Kit durites aviation frein",
+        "marque": "HEL Performance",
+        "modele": "Kit durites aviation Panigale V4 S 2025",
+        "reference": "HEL-DUC-V4S25",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 180,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://motomillion.com/collections/ducati-panigale-v4-2025",
+        "remarques": "Kit complet durites tressées inox, améliore le feeling et la sécurité au freinage"
+    },
+    {
+        "categorie": "Visserie",
+        "type": "Kit visserie carénage aluminium",
+        "marque": "Pro-Bolt",
+        "modele": "Kit visserie carénage alu Panigale V4 S 2025",
+        "reference": "PB-ALU-V4S25",
+        "homologation": "Route",
+        "prixmoyeneur": 90,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://motomillion.com/collections/ducati-panigale-v4-2025",
+        "remarques": "Kit complet visserie carénage en aluminium anodisé, plusieurs coloris"
+    },
+    {
+        "categorie": "Refroidissement",
+        "type": "Kit durites silicone radiateur",
+        "marque": "Samco Sport",
+        "modele": "Kit durites silicone Panigale V4 S 2025",
+        "reference": "SAMCO-V4S25",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 220,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://samcosport.com/uk/ducati-panigale-v4-s",
+        "remarques": "Kit complet durites silicone haute performance pour refroidissement optimal"
+    },
+    {
+        "categorie": "Admission",
+        "type": "Filtre à air performance",
+        "marque": "BMC",
+        "modele": "Filtre à air racing Panigale V4 S 2025",
+        "reference": "FM01054",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 90,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.bmcairfilters.com/fr/filters/ducati/panigale-v4-s",
+        "remarques": "Filtre à air lavable, débit d'air optimisé, compatible usage piste et route"
+    },
+    {
+        "categorie": "Commandes",
+        "type": "Poignées racing",
+        "marque": "Domino",
+        "modele": "Poignées racing Panigale V4 S 2025",
+        "reference": "A26041C4540-0",
+        "homologation": "Route et piste",
+        "prixmoyeneur": 35,
+        "compatibilitesellepassager": true,
+        "lienficheproduit": "https://www.domino-group.com/fr/produits/ducati-panigale-v4-s",
+        "remarques": "Poignées racing antidérapantes, confort et grip améliorés"
     }
 ]
