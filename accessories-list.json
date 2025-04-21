@@ -1303,20 +1303,6 @@
     },
     {
         "category": "Freinage",
-        "PartType": "Kit durites aviation frein",
-        "marque": "HEL Performance",
-        "modele": "Kit durites aviation Panigale V4 S 2025",
-        "reference": "HEL-DUC-V4S25",
-        "homologation": "Route et piste",
-        "prixmoyeneur": "180",
-        "volumesonoredb": null,
-        "compatibilitesellepassager": "true",
-        "lienficheproduit": "https://motomillion.com/collections/ducati-panigale-v4-2025",
-        "chicanesamovibles": null,
-        "remarques": "Kit complet durites tressées inox, améliore le feeling et la sécurité au freinage"
-    },
-    {
-        "category": "Freinage",
         "PartType": "Maître-cylindre",
         "marque": "Brembo",
         "modele": "Maître-cylindre RCS Corsa Corta",
