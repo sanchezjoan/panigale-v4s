@@ -2,20 +2,6 @@
     {
         "categorie": "Échappement",
         "type": "Echappement complet",
-        "marque": "Akrapovic Ducati Performance",
-        "modele": "Ligne complète titane Euro5",
-        "reference": "96482051AA",
-        "homologation": "Euro 5",
-        "prixmoyeneur": 6000,
-        "compatibilitesellepassager": true,
-        "volumesonoredb": "98-100",
-        "chicanesamovibles": true,
-        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/echappement-akrapovic-titane-96482051aa.html",
-        "remarques": "Homologué route, kit Ducati Performance"
-    },
-    {
-        "categorie": "Échappement",
-        "type": "Echappement complet",
         "marque": "Termignoni",
         "modele": "D184 Full System",
         "reference": "D18409400IT",
@@ -307,36 +293,12 @@
         "categorie": "Carénage",
         "type": "Garde-boue avant",
         "marque": "FullSix",
-        "modele": "Garde-boue avant carbone mat",
-        "reference": "MD-DV4-FC21M",
-        "homologation": "Route",
-        "prixmoyeneur": 340,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fender-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Carbone finition mate"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Garde-boue avant",
-        "marque": "FullSix",
         "modele": "Garde-boue avant carbone brillant",
         "reference": "MD-DV4-FC21G",
         "homologation": "Route",
         "prixmoyeneur": 340,
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fender-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Carbone finition brillante"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Garde-boue arrière",
-        "marque": "FullSix",
-        "modele": "Garde-boue arrière carbone brillant",
-        "reference": "MD-DV4-RR21G",
-        "homologation": "Route",
-        "prixmoyeneur": 260,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/rear-fender-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
         "remarques": "Carbone finition brillante"
     },
     {
@@ -350,18 +312,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/engine-cover-kit-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
         "remarques": "Kit complet, finition brillante"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
-        "marque": "FullSix",
-        "modele": "Cache pignon carbone mat",
-        "reference": "MD-DV4-SPC21M",
-        "homologation": "Route",
-        "prixmoyeneur": 110,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/front-sprocket-cover-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Carbone finition mate"
     },
     {
         "categorie": "Carénage",
@@ -410,18 +360,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/winglets-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
         "remarques": "Paire, finition brillante"
-    },
-    {
-        "categorie": "Protection Moto",
-        "type": "Protection levier frein",
-        "marque": "FullSix",
-        "modele": "Protection levier frein carbone brillant",
-        "reference": "MD-DV4-BPL21G",
-        "homologation": "Route",
-        "prixmoyeneur": 120,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/brake-lever-protector-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Carbone finition brillante"
     },
     {
         "categorie": "Carénage",
@@ -938,18 +876,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96180561A",
         "remarques": "Leviers taillés masse, réglables, pour adaptation ergonomique"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Kit support de plaque racing",
-        "marque": "Ducati Performance",
-        "modele": "Support de plaque allégé",
-        "reference": "97181051AA",
-        "homologation": "Route",
-        "prixmoyeneur": 210,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97181051AA",
-        "remarques": "Allégé, compatible clignotants LED Ducati"
     },
      {
         "categorie": "Protection Moto",
