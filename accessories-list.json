@@ -16,20 +16,6 @@
     {
         "category": "Éléctronique",
         "PartType": "Acquisition de données",
-        "marque": "AIM",
-        "modele": "Solo 2 DL Kit Ducati V4",
-        "reference": "X47DKD4S25",
-        "homologation": "Piste",
-        "prixmoyeneur": "800",
-        "volumesonoredb": null,
-        "compatibilitesellepassager": "true",
-        "lienficheproduit": "https://aim-sportline.com/en/products/solo-2-dl-kit-ducati-v4/",
-        "chicanesamovibles": null,
-        "remarques": "Lap timer GPS, compatible acquisition CAN Panigale V4 S 2025"
-    },
-    {
-        "category": "Éléctronique",
-        "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Ducati Data Analyzer+ (DDA+)",
         "reference": "97980061A",
