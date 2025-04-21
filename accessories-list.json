@@ -8,13 +8,13 @@
         "homologation": "N/A",
         "prixmoyeneur": "190",
         "volumesonoredb": null,
-        "compatibilitesellepassager": "true",
+        "compatibilitesellepassager": "n/a",
         "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96780611A",
         "chicanesamovibles": null,
         "remarques": "Housse Ducati Performance, adaptée Panigale V4 S MY25"
     },
     {
-        "category": "Accessoires",
+        "category": "Éléctronique",
         "PartType": "Acquisition de données",
         "marque": "AIM",
         "modele": "Solo 2 DL Kit Ducati V4",
@@ -28,7 +28,7 @@
         "remarques": "Lap timer GPS, compatible acquisition CAN Panigale V4 S 2025"
     },
     {
-        "category": "Accessoires",
+        "category": "Éléctronique",
         "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Ducati Data Analyzer+ (DDA+)",
@@ -42,7 +42,7 @@
         "remarques": "Acquisition de données GPS intégrée, indispensable circuit"
     },
     {
-        "category": "Accessoires",
+        "category": "Éléctronique",
         "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "DDA+ GPS",
@@ -126,7 +126,7 @@
         "remarques": "Ouverture sans clé, aluminium anodisé"
     },
     {
-        "category": "Accessoires",
+        "category": "Éléctronique",
         "PartType": "Capteurs",
         "marque": "Ducati Performance",
         "modele": "TPMS (Tire Pressure Monitoring System)",
@@ -154,7 +154,7 @@
         "remarques": "Homologué pour usage racing"
     },
     {
-        "category": "Accessoires",
+        "category": "Éléctronique",
         "PartType": "Chronométrage",
         "marque": "Ducati Performance",
         "modele": "Module GPS Lap Timer",
@@ -168,7 +168,7 @@
         "remarques": "Chronométrage automatique compatible tableau de bord MY25"
     },
     {
-        "category": "Accessoires",
+        "category": "Éléctronique",
         "PartType": "Connectivité",
         "marque": "Ducati Performance",
         "modele": "DMS (Ducati Multimedia System)",
@@ -182,8 +182,8 @@
         "remarques": "Module Bluetooth pour smartphone, navigation, musique, appels"
     },
     {
-        "category": "Accessoires",
-        "PartType": "Électronique",
+        "category": "Éléctronique",
+        "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Data Logger GPS Racing",
         "reference": "97780321AA",
@@ -196,8 +196,8 @@
         "remarques": "Intègre les données DTC/EBC/DWC"
     },
     {
-        "category": "Accessoires",
-        "PartType": "Électronique/Data",
+        "category": "Éléctronique",
+        "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Data Analyzer+ GPS",
         "reference": "69929951A",
@@ -336,8 +336,8 @@
         "remarques": "Kit pour usage piste, nécessite shunt sécurité"
     },
     {
-        "category": "Accessoires",
-        "PartType": "TPMS",
+        "category": "Éléctronique",
+        "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Kit capteurs pression pneus TPMS",
         "reference": "96680491A",
