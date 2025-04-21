@@ -1,7 +1,7 @@
 [
     {
-        "categorie": "Échappement",
-        "type": "Echappement complet",
+        "category": "Échappement",
+        "PartType": "Echappement complet",
         "marque": "Termignoni",
         "modele": "D184 Full System",
         "reference": "D18409400IT",
@@ -14,8 +14,8 @@
         "remarques": "Titane, usage piste"
     },
     {
-        "categorie": "Échappement",
-        "type": "Echappement slip-on",
+        "category": "Échappement",
+        "PartType": "Echappement slip-on",
         "marque": "SC-Project",
         "modele": "CR-T M2 WSBK",
         "reference": "SCP-D36A-T36C",
@@ -28,8 +28,8 @@
         "remarques": "Look MotoGP, usage piste"
     },
     {
-        "categorie": "Jantes",
-        "type": "Aluminium Forgé",
+        "category": "Jantes",
+        "PartType": "Aluminium Forgé",
         "marque": "OZ Racing",
         "modele": "Piega R",
         "reference": "W0112A0R01T",
@@ -40,8 +40,8 @@
         "remarques": "Aluminium forgé"
     },
     {
-        "categorie": "Jantes",
-        "type": "Carbone",
+        "category": "Jantes",
+        "PartType": "Carbone",
         "marque": "Rotobox",
         "modele": "Boost Carbon",
         "reference": "RBX2DUCAV4S",
@@ -52,8 +52,8 @@
         "remarques": "Carbone"
     },
     {
-        "categorie": "Carénage",
-        "type": "Capot de selle",
+        "category": "Carénage",
+        "PartType": "Capot de selle",
         "marque": "Ducati Performance",
         "modele": "Capot de selle",
         "reference": "97181061AA",
@@ -64,8 +64,8 @@
         "remarques": "Remplace la selle passager"
     },
     {
-        "categorie": "Commandes",
-        "type": "Leviers frein/embrayage",
+        "category": "Commandes",
+        "PartType": "Leviers frein/embrayage",
         "marque": "Rizoma",
         "modele": "3D",
         "reference": "LBJ700B / LBJ701B",
@@ -76,8 +76,8 @@
         "remarques": "Aluminium taillé masse"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
+        "category": "Protection Moto",
+        "PartType": "Protections moteur",
         "marque": "DBK Special Parts",
         "modele": "Kit protections moteur carbone mat",
         "reference": "DBK-ENG-V4S25-MAT",
@@ -88,8 +88,8 @@
         "remarques": "Kit complet carbone finition mate"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
+        "category": "Protection Moto",
+        "PartType": "Protections moteur",
         "marque": "DBK Special Parts",
         "modele": "Kit protections moteur carbone brillant",
         "reference": "DBK-ENG-V4S25-BRI",
@@ -100,8 +100,8 @@
         "remarques": "Kit complet carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Garde-boue avant",
+        "category": "Carénage",
+        "PartType": "Garde-boue avant",
         "marque": "Ducati Performance",
         "modele": "Garde-boue carbone mat",
         "reference": "96981231AA",
@@ -112,8 +112,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Garde-boue avant",
+        "category": "Carénage",
+        "PartType": "Garde-boue avant",
         "marque": "Ducati Performance",
         "modele": "Garde-boue carbone brillant",
         "reference": "96981232AA",
@@ -124,8 +124,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
+        "category": "Protection Moto",
+        "PartType": "Protections cadre",
         "marque": "R&G Racing",
         "modele": "Crash Protectors",
         "reference": "CP0507BL",
@@ -136,8 +136,8 @@
         "remarques": "Tampons anti-chute spécifiques, montage sans perçage"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
+        "category": "Protection Moto",
+        "PartType": "Protections cadre",
         "marque": "Ducati Performance",
         "modele": "Protections cadre carbone mat",
         "reference": "97381291AA",
@@ -148,8 +148,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
+        "category": "Protection Moto",
+        "PartType": "Protections cadre",
         "marque": "Ducati Performance",
         "modele": "Protections cadre carbone brillant",
         "reference": "97381292AA",
@@ -160,8 +160,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection levier frein",
+        "category": "Protection Moto",
+        "PartType": "Protection levier frein",
         "marque": "Ducati Performance",
         "modele": "Protection levier frein avant carbone",
         "reference": "96180541A",
@@ -172,8 +172,8 @@
         "remarques": "Obligatoire en compétition, carbone, montage plug & play"
     },
     {
-        "categorie": "Carénage",
-        "type": "Ailerons",
+        "category": "Carénage",
+        "PartType": "Ailerons",
         "marque": "Ducati Performance",
         "modele": "Ailerons carbone mat",
         "reference": "97181051AA",
@@ -184,8 +184,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Ailerons",
+        "category": "Carénage",
+        "PartType": "Ailerons",
         "marque": "Ducati Performance",
         "modele": "Ailerons carbone brillant",
         "reference": "97181052AA",
@@ -196,8 +196,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
+        "category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte",
         "marque": "Ducati Performance",
         "modele": "Cache pignon carbone mat",
         "reference": "97381301AA",
@@ -208,8 +208,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
+        "category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte",
         "marque": "Ducati Performance",
         "modele": "Cache pignon carbone brillant",
         "reference": "97381302AA",
@@ -220,8 +220,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Garde-boue avant",
+        "category": "Carénage",
+        "PartType": "Garde-boue avant",
         "marque": "FullSix",
         "modele": "Garde-boue avant carbone mat",
         "reference": "MD-DV4-FC21M",
@@ -232,8 +232,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Garde-boue arrière",
+        "category": "Carénage",
+        "PartType": "Garde-boue arrière",
         "marque": "FullSix",
         "modele": "Garde-boue arrière carbone mat",
         "reference": "MD-DV4-RR21M",
@@ -244,8 +244,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Garde-boue arrière",
+        "category": "Carénage",
+        "PartType": "Garde-boue arrière",
         "marque": "FullSix",
         "modele": "Garde-boue arrière carbone brillant",
         "reference": "MD-DV4-RR21G",
@@ -256,8 +256,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
+        "category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte",
         "marque": "FullSix",
         "modele": "Cache pignon carbone mat",
         "reference": "MD-DV4-SPC21M",
@@ -268,8 +268,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Ailerons",
+        "category": "Carénage",
+        "PartType": "Ailerons",
         "marque": "FullSix",
         "modele": "Ailerons carbone mat",
         "reference": "MD-DV4-WING21M",
@@ -280,8 +280,8 @@
         "remarques": "Paire, finition mate"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection levier frein",
+        "category": "Protection Moto",
+        "PartType": "Protection levier frein",
         "marque": "FullSix",
         "modele": "Protection levier frein carbone brillant",
         "reference": "MD-DV4-BPL21G",
@@ -292,8 +292,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Garde-boue avant",
+        "category": "Carénage",
+        "PartType": "Garde-boue avant",
         "marque": "FullSix",
         "modele": "Garde-boue avant carbone brillant",
         "reference": "MD-DV4-FC21G",
@@ -304,8 +304,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
+        "category": "Protection Moto",
+        "PartType": "Protections moteur",
         "marque": "FullSix",
         "modele": "Kit protections carters carbone brillant",
         "reference": "MD-DV4-ENGG",
@@ -316,8 +316,8 @@
         "remarques": "Kit complet, finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
+        "category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte",
         "marque": "FullSix",
         "modele": "Cache pignon carbone brillant",
         "reference": "MD-DV4-SPC21G",
@@ -328,8 +328,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
+        "category": "Protection Moto",
+        "PartType": "Protections cadre",
         "marque": "FullSix",
         "modele": "Protections cadre carbone mat",
         "reference": "MD-DV4-FPG21M",
@@ -340,8 +340,8 @@
         "remarques": "Paire, finition mate"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
+        "category": "Protection Moto",
+        "PartType": "Protections cadre",
         "marque": "FullSix",
         "modele": "Protections cadre carbone brillant",
         "reference": "MD-DV4-FPG21G",
@@ -352,8 +352,8 @@
         "remarques": "Paire, finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Ailerons",
+        "category": "Carénage",
+        "PartType": "Ailerons",
         "marque": "FullSix",
         "modele": "Ailerons carbone brillant",
         "reference": "MD-DV4-WING21G",
@@ -364,8 +364,8 @@
         "remarques": "Paire, finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Sabot moteur",
+        "category": "Carénage",
+        "PartType": "Sabot moteur",
         "marque": "FullSix",
         "modele": "Sabot moteur carbone mat",
         "reference": "MD-DV4-LBM21M",
@@ -376,8 +376,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Sabot moteur",
+        "category": "Carénage",
+        "PartType": "Sabot moteur",
         "marque": "FullSix",
         "modele": "Sabot moteur carbone brillant",
         "reference": "MD-DV4-LBM21G",
@@ -388,8 +388,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Flanc de carénage droit",
+        "category": "Carénage",
+        "PartType": "Flanc de carénage droit",
         "marque": "FullSix",
         "modele": "Flanc droit carbone mat",
         "reference": "MD-DV4-RS21M",
@@ -400,8 +400,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Flanc de carénage droit",
+        "category": "Carénage",
+        "PartType": "Flanc de carénage droit",
         "marque": "FullSix",
         "modele": "Flanc droit carbone brillant",
         "reference": "MD-DV4-RS21G",
@@ -412,8 +412,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Flanc de carénage gauche",
+        "category": "Carénage",
+        "PartType": "Flanc de carénage gauche",
         "marque": "FullSix",
         "modele": "Flanc gauche carbone mat",
         "reference": "MD-DV4-LS21M",
@@ -424,8 +424,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Flanc de carénage gauche",
+        "category": "Carénage",
+        "PartType": "Flanc de carénage gauche",
         "marque": "FullSix",
         "modele": "Flanc gauche carbone brillant",
         "reference": "MD-DV4-LS21G",
@@ -436,8 +436,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Commandes",
-        "type": "Tête de fourche",
+        "category": "Commandes",
+        "PartType": "Tête de fourche",
         "marque": "FullSix",
         "modele": "Tête de fourche carbone mat",
         "reference": "MD-DV4-FP21M",
@@ -448,8 +448,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Commandes",
-        "type": "Tête de fourche",
+        "category": "Commandes",
+        "PartType": "Tête de fourche",
         "marque": "FullSix",
         "modele": "Tête de fourche carbone brillant",
         "reference": "MD-DV4-FP21G",
@@ -460,8 +460,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Coque arrière",
+        "category": "Carénage",
+        "PartType": "Coque arrière",
         "marque": "FullSix",
         "modele": "Coque arrière carbone mat",
         "reference": "MD-DV4-TP21M",
@@ -472,8 +472,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Coque arrière",
+        "category": "Carénage",
+        "PartType": "Coque arrière",
         "marque": "FullSix",
         "modele": "Coque arrière carbone brillant",
         "reference": "MD-DV4-TP21G",
@@ -484,8 +484,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Support de plaque",
+        "category": "Carénage",
+        "PartType": "Support de plaque",
         "marque": "FullSix",
         "modele": "Support de plaque carbone mat",
         "reference": "MD-DV4-LPH21M",
@@ -496,8 +496,8 @@
         "remarques": "Carbone finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Support de plaque",
+        "category": "Carénage",
+        "PartType": "Support de plaque",
         "marque": "FullSix",
         "modele": "Support de plaque carbone brillant",
         "reference": "MD-DV4-LPH21G",
@@ -508,8 +508,8 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Carénage",
-        "type": "Caches latéraux réservoir",
+        "category": "Carénage",
+        "PartType": "Caches latéraux réservoir",
         "marque": "FullSix",
         "modele": "Caches latéraux réservoir carbone mat",
         "reference": "MD-DV4-TSC21M",
@@ -520,8 +520,8 @@
         "remarques": "Paire, finition mate"
     },
     {
-        "categorie": "Carénage",
-        "type": "Caches latéraux réservoir",
+        "category": "Carénage",
+        "PartType": "Caches latéraux réservoir",
         "marque": "FullSix",
         "modele": "Caches latéraux réservoir carbone brillant",
         "reference": "MD-DV4-TSC21G",
@@ -532,8 +532,8 @@
         "remarques": "Paire, finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection réservoir",
+        "category": "Protection Moto",
+        "PartType": "Protection réservoir",
         "marque": "FullSix",
         "modele": "Protection réservoir carbone mat",
         "reference": "MD-DV4-TPC21M",
@@ -544,8 +544,8 @@
         "remarques": "Finition mate"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection réservoir",
+        "category": "Protection Moto",
+        "PartType": "Protection réservoir",
         "marque": "FullSix",
         "modele": "Protection réservoir carbone brillant",
         "reference": "MD-DV4-TPC21G",
@@ -556,8 +556,8 @@
         "remarques": "Finition brillante"
     },
     {
-        "categorie": "Commandes",
-        "type": "Commandes reculées",
+        "category": "Commandes",
+        "PartType": "Commandes reculées",
         "marque": "CNC Racing",
         "modele": "RR EVO",
         "reference": "ADJDUC08",
@@ -568,8 +568,8 @@
         "remarques": "Repose-pieds réglables, usinage CNC, compatible quickshifter"
       },
       {
-        "categorie": "Accessoires",
-        "type": "Bouchon essence rapide",
+        "category": "Accessoires",
+        "PartType": "Bouchon essence rapide",
         "marque": "CNC Racing",
         "modele": "Quick Action",
         "reference": "TF511B",
@@ -580,8 +580,8 @@
         "remarques": "Bouchon racing, ouverture sans clé"
       },
       {
-        "categorie": "Commandes",
-        "type": "Leviers frein/embrayage",
+        "category": "Commandes",
+        "PartType": "Leviers frein/embrayage",
         "marque": "CNC Racing",
         "modele": "Levier frein Evo",
         "reference": "LEV33B",
@@ -592,8 +592,8 @@
         "remarques": "Aluminium, réglable, anodisé"
       },
       {
-        "categorie": "Commandes",
-        "type": "Leviers frein/embrayage",
+        "category": "Commandes",
+        "PartType": "Leviers frein/embrayage",
         "marque": "CNC Racing",
         "modele": "Levier embrayage Evo",
         "reference": "LEV34B",
@@ -604,8 +604,8 @@
         "remarques": "Aluminium, réglable, anodisé"
       },
       {
-        "categorie": "Protection Moto",
-        "type": "Protection levier frein",
+        "category": "Protection Moto",
+        "PartType": "Protection levier frein",
         "marque": "CNC Racing",
         "modele": "Protection levier frein Evo",
         "reference": "PLF02B",
@@ -616,8 +616,8 @@
         "remarques": "Aluminium, embout carbone"
       },
       {
-        "categorie": "Embrayage",
-        "type": "Embrayage sec (kit)",
+        "category": "Embrayage",
+        "PartType": "Embrayage sec (kit)",
         "marque": "CNC Racing",
         "modele": "Kit embrayage sec",
         "reference": "KDUC16",
@@ -628,8 +628,8 @@
         "remarques": "Kit complet, plug & play, bruit Ducati typique"
       },
       {
-        "categorie": "Embrayage",
-        "type": "Cloche d’embrayage",
+        "category": "Embrayage",
+        "PartType": "Cloche d’embrayage",
         "marque": "CNC Racing",
         "modele": "Cloche d’embrayage Racing",
         "reference": "CCM03",
@@ -640,8 +640,8 @@
         "remarques": "Pour kit embrayage sec CNC ou Ducati"
       },
       {
-        "categorie": "Embrayage",
-        "type": "Couvercle d’embrayage ajouré",
+        "category": "Embrayage",
+        "PartType": "Couvercle d’embrayage ajouré",
         "marque": "CNC Racing",
         "modele": "Couvercle ajouré carbone",
         "reference": "CCM11",
@@ -652,8 +652,8 @@
         "remarques": "Protection, look racing, carbone"
       },
       {
-        "categorie": "Accessoires",
-        "type": "Bouchon de réservoir de liquide de frein",
+        "category": "Accessoires",
+        "PartType": "Bouchon de réservoir de liquide de frein",
         "marque": "CNC Racing",
         "modele": "Bouchon maître-cylindre avant",
         "reference": "TF441B",
@@ -664,8 +664,8 @@
         "remarques": "Aluminium, anodisé, plusieurs couleurs"
       },
       {
-        "categorie": "Accessoires",
-        "type": "Bouchon de réservoir de liquide de frein",
+        "category": "Accessoires",
+        "PartType": "Bouchon de réservoir de liquide de frein",
         "marque": "CNC Racing",
         "modele": "Bouchon maître-cylindre arrière",
         "reference": "TF442B",
@@ -676,8 +676,8 @@
         "remarques": "Aluminium, anodisé, plusieurs couleurs"
       },
       {
-        "categorie": "Embrayage",
-        "type": "Bouchon de purge d’embrayage",
+        "category": "Embrayage",
+        "PartType": "Bouchon de purge d’embrayage",
         "marque": "CNC Racing",
         "modele": "Bouchon purge embrayage",
         "reference": "TF451B",
@@ -688,8 +688,8 @@
         "remarques": "Aluminium, anodisé"
       },
       {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
+        "category": "Protection Moto",
+        "PartType": "Protections moteur",
         "marque": "CNC Racing",
         "modele": "Protection carter embrayage",
         "reference": "PES01B",
@@ -700,8 +700,8 @@
         "remarques": "Aluminium taillé masse, protection crash"
       },
       {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
+        "category": "Protection Moto",
+        "PartType": "Protections moteur",
         "marque": "CNC Racing",
         "modele": "Protection carter alternateur",
         "reference": "PES02B",
@@ -712,8 +712,8 @@
         "remarques": "Aluminium taillé masse, protection crash"
       },
       {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
+        "category": "Protection Moto",
+        "PartType": "Protections moteur",
         "marque": "CNC Racing",
         "modele": "Protection carter allumage",
         "reference": "PES03B",
@@ -724,8 +724,8 @@
         "remarques": "Aluminium taillé masse, protection crash"
       },
       {
-        "categorie": "Carénage",
-        "type": "Support de plaque",
+        "category": "Carénage",
+        "PartType": "Support de plaque",
         "marque": "CNC Racing",
         "modele": "Support de plaque Racing",
         "reference": "PT210B",
@@ -736,8 +736,8 @@
         "remarques": "Aluminium, léger, clignotants compatibles"
       },
       {
-        "categorie": "Accessoires",
-        "type": "Embouts de guidon",
+        "category": "Accessoires",
+        "PartType": "Embouts de guidon",
         "marque": "CNC Racing",
         "modele": "Embouts Evo",
         "reference": "RPP01B",
@@ -748,8 +748,8 @@
         "remarques": "Aluminium, plusieurs couleurs"
       },
       {
-        "categorie": "Accessoires",
-        "type": "Embouts de cadre",
+        "category": "Accessoires",
+        "PartType": "Embouts de cadre",
         "marque": "CNC Racing",
         "modele": "Kit protections cadre",
         "reference": "TPR01B",
@@ -760,8 +760,8 @@
         "remarques": "Tampons anti-chute"
       },
       {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
+        "category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte",
         "marque": "CNC Racing",
         "modele": "Cache pignon carbone",
         "reference": "CPR01C",
@@ -772,8 +772,8 @@
         "remarques": "Carbone, look racing"
       },
       {
-        "categorie": "Transmission",
-        "type": "Tendeur de chaîne",
+        "category": "Transmission",
+        "PartType": "Tendeur de chaîne",
         "marque": "CNC Racing",
         "modele": "Tendeur de chaîne Evo",
         "reference": "TCE01B",
@@ -784,8 +784,8 @@
         "remarques": "Aluminium, réglage précis"
       },
       {
-        "categorie": "Accessoires",
-        "type": "Support de béquille de stand",
+        "category": "Accessoires",
+        "PartType": "Support de béquille de stand",
         "marque": "CNC Racing",
         "modele": "Diabolo stand",
         "reference": "DA200B",
@@ -796,8 +796,8 @@
         "remarques": "Pour béquille atelier, aluminium"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Kit suppression rétroviseurs",
+        "category": "Accessoires",
+        "PartType": "Kit suppression rétroviseurs",
         "marque": "Ducati Performance",
         "modele": "Kit bouchons rétroviseurs",
         "reference": "96981211AA",
@@ -808,8 +808,8 @@
         "remarques": "Permet de boucher proprement les fixations lors d’un usage piste"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection cadre",
+        "category": "Protection Moto",
+        "PartType": "Protection cadre",
         "marque": "Ducati Performance",
         "modele": "Kit sliders avant/arrière",
         "reference": "97380871A",
@@ -820,8 +820,8 @@
         "remarques": "Protection en cas de glissade, montage plug & play"
     },
     {
-        "categorie": "Carénage",
-        "type": "Bulle haute racing",
+        "category": "Carénage",
+        "PartType": "Bulle haute racing",
         "marque": "Ducati Performance",
         "modele": "Bulle racing haute",
         "reference": "96781231AA",
@@ -832,8 +832,8 @@
         "remarques": "Polycarbonate, meilleure protection aérodynamique"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Bouchon essence rapide",
+        "category": "Accessoires",
+        "PartType": "Bouchon essence rapide",
         "marque": "Ducati Performance",
         "modele": "Bouchon de réservoir à ouverture rapide",
         "reference": "97380921AA",
@@ -844,8 +844,8 @@
         "remarques": "Ouverture sans clé, aluminium anodisé"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection moteur",
+        "category": "Protection Moto",
+        "PartType": "Protection moteur",
         "marque": "Ducati Performance",
         "modele": "Kit protections carters moteur aluminium",
         "reference": "97181091AA",
@@ -856,8 +856,8 @@
         "remarques": "Protection usinée pour carters, recommandée pour la piste"
     },
     {
-        "categorie": "Commandes",
-        "type": "Kit leviers racing",
+        "category": "Commandes",
+        "PartType": "Kit leviers racing",
         "marque": "Ducati Performance",
         "modele": "Leviers de frein et embrayage réglables",
         "reference": "96180561A",
@@ -868,8 +868,8 @@
         "remarques": "Leviers taillés masse, réglables, pour adaptation ergonomique"
     },
      {
-        "categorie": "Protection Moto",
-        "type": "Protection embrayage",
+        "category": "Protection Moto",
+        "PartType": "Protection embrayage",
         "marque": "Ducati Performance",
         "modele": "Protection carter embrayage carbone",
         "reference": "96981331A",
@@ -880,8 +880,8 @@
         "remarques": "Protection carbone pour carter d’embrayage, montage plug&play"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection radiateur",
+        "category": "Protection Moto",
+        "PartType": "Protection radiateur",
         "marque": "Ducati Performance",
         "modele": "Grille de radiateur eau carbone",
         "reference": "97381261A",
@@ -892,8 +892,8 @@
         "remarques": "Protection légère et efficace, finition carbone mat"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection radiateur huile",
+        "category": "Protection Moto",
+        "PartType": "Protection radiateur huile",
         "marque": "Ducati Performance",
         "modele": "Grille de radiateur huile carbone",
         "reference": "97381271A",
@@ -904,8 +904,8 @@
         "remarques": "Protection radiateur huile, carbone, look racing"
     },
     {
-        "categorie": "Carénage",
-        "type": "Cache pignon sortie de boîte",
+        "category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte",
         "marque": "Ducati Performance",
         "modele": "Cache pignon carbone",
         "reference": "96981191A",
@@ -916,8 +916,8 @@
         "remarques": "Cache pignon carbone, finition haut de gamme"
     },
     {
-        "categorie": "Carénage",
-        "type": "Caches latéraux de radiateur",
+        "category": "Carénage",
+        "PartType": "Caches latéraux de radiateur",
         "marque": "Ducati Performance",
         "modele": "Caches latéraux radiateur carbone",
         "reference": "96981311A",
@@ -928,8 +928,8 @@
         "remarques": "Caches latéraux pour radiateur, carbone, look racing"
     },
     {
-        "categorie": "Carénage",
-        "type": "Support plaque carbone",
+        "category": "Carénage",
+        "PartType": "Support plaque carbone",
         "marque": "Ducati Performance",
         "modele": "Support de plaque carbone",
         "reference": "97381281A",
@@ -940,8 +940,8 @@
         "remarques": "Support de plaque allégé, carbone"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection bras oscillant",
+        "category": "Protection Moto",
+        "PartType": "Protection bras oscillant",
         "marque": "Ducati Performance",
         "modele": "Protection bras oscillant carbone",
         "reference": "96981321A",
@@ -952,8 +952,8 @@
         "remarques": "Protection carbone pour bras oscillant, piste/route"
     },
      {
-        "categorie": "Protection Moto",
-        "type": "Protection levier embrayage",
+        "category": "Protection Moto",
+        "PartType": "Protection levier embrayage",
         "marque": "CNC Racing",
         "modele": "Protection levier embrayage Evo",
         "reference": "PLF03B",
@@ -964,8 +964,8 @@
         "remarques": "Aluminium, embout carbone, look racing"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection bras oscillant",
+        "category": "Protection Moto",
+        "PartType": "Protection bras oscillant",
         "marque": "CNC Racing",
         "modele": "Protection bras oscillant carbone",
         "reference": "PRC01C",
@@ -976,8 +976,8 @@
         "remarques": "Carbone, protège le bras oscillant contre les chutes"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie moteur titane",
+        "category": "Visserie",
+        "PartType": "Kit visserie moteur titane",
         "marque": "CNC Racing",
         "modele": "Kit visserie moteur titane complet",
         "reference": "KV429X",
@@ -988,8 +988,8 @@
         "remarques": "Kit complet titane grade 5, gain de poids, look racing"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie carénage titane",
+        "category": "Visserie",
+        "PartType": "Kit visserie carénage titane",
         "marque": "CNC Racing",
         "modele": "Kit visserie carénage titane",
         "reference": "KV428X",
@@ -1000,8 +1000,8 @@
         "remarques": "Titane, complet pour carénage, look racing"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie platines repose-pieds",
+        "category": "Visserie",
+        "PartType": "Kit visserie platines repose-pieds",
         "marque": "CNC Racing",
         "modele": "Kit visserie platines titane",
         "reference": "KV431X",
@@ -1012,8 +1012,8 @@
         "remarques": "Pour fixation platines repose-pieds, titane"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie réservoir",
+        "category": "Visserie",
+        "PartType": "Kit visserie réservoir",
         "marque": "CNC Racing",
         "modele": "Kit visserie réservoir titane",
         "reference": "KV432X",
@@ -1024,8 +1024,8 @@
         "remarques": "Kit titane pour fixation du réservoir"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie étriers de frein avant/arrière",
+        "category": "Visserie",
+        "PartType": "Kit visserie étriers de frein avant/arrière",
         "marque": "CNC Racing",
         "modele": "Kit visserie étriers titane",
         "reference": "KV433X",
@@ -1036,8 +1036,8 @@
         "remarques": "Kit titane pour étriers avant et arrière"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie bras oscillant",
+        "category": "Visserie",
+        "PartType": "Kit visserie bras oscillant",
         "marque": "CNC Racing",
         "modele": "Kit visserie bras oscillant titane",
         "reference": "KV434X",
@@ -1048,8 +1048,8 @@
         "remarques": "Kit titane pour bras oscillant"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie roue avant",
+        "category": "Visserie",
+        "PartType": "Kit visserie roue avant",
         "marque": "Pro-Bolt",
         "modele": "Kit visserie roue avant titane",
         "reference": "TIFDUC100",
@@ -1060,8 +1060,8 @@
         "remarques": "Kit titane pour axe de roue avant"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie roue arrière",
+        "category": "Visserie",
+        "PartType": "Kit visserie roue arrière",
         "marque": "Pro-Bolt",
         "modele": "Kit visserie roue arrière titane",
         "reference": "TIRDUC100",
@@ -1072,8 +1072,8 @@
         "remarques": "Kit titane pour axe de roue arrière"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie carter embrayage",
+        "category": "Visserie",
+        "PartType": "Kit visserie carter embrayage",
         "marque": "Ducabike",
         "modele": "Kit visserie carter embrayage titane",
         "reference": "KTEM01",
@@ -1084,8 +1084,8 @@
         "remarques": "Kit titane pour carter d’embrayage"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection radiateur",
+        "category": "Protection Moto",
+        "PartType": "Protection radiateur",
         "marque": "Ducati Performance",
         "modele": "Grille de protection radiateur eau/huile",
         "reference": "4841C941BA",
@@ -1096,8 +1096,8 @@
         "remarques": "Protection officielle Ducati pour radiateur eau et huile, montage plug&play MY25"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection axes",
+        "category": "Protection Moto",
+        "PartType": "Protection axes",
         "marque": "Ducati Performance",
         "modele": "Sliders axes de roue avant/arrière",
         "reference": "97381561AA",
@@ -1108,8 +1108,8 @@
         "remarques": "Tampons de protection pour axes, montage rapide"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection levier",
+        "category": "Protection Moto",
+        "PartType": "Protection levier",
         "marque": "Ducati Performance",
         "modele": "Protection de levier de frein",
         "reference": "96180571A",
@@ -1120,8 +1120,8 @@
         "remarques": "Obligatoire en compétition piste"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection culasse",
+        "category": "Protection Moto",
+        "PartType": "Protection culasse",
         "marque": "Ducati Performance",
         "modele": "Couvre-culasse carbone",
         "reference": "96981361A",
@@ -1132,8 +1132,8 @@
         "remarques": "Protection esthétique et fonctionnelle"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Acquisition de données",
+        "category": "Accessoires",
+        "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "Ducati Data Analyzer+ (DDA+)",
         "reference": "97980061A",
@@ -1144,8 +1144,8 @@
         "remarques": "Acquisition de données GPS intégrée, indispensable circuit"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Chronométrage",
+        "category": "Accessoires",
+        "PartType": "Chronométrage",
         "marque": "Ducati Performance",
         "modele": "Module GPS Lap Timer",
         "reference": "96680571A",
@@ -1156,8 +1156,8 @@
         "remarques": "Chronométrage automatique compatible tableau de bord MY25"
     },
     {
-        "categorie": "Accessoires",
-        "type": "TPMS",
+        "category": "Accessoires",
+        "PartType": "TPMS",
         "marque": "Ducati Performance",
         "modele": "Kit capteurs pression pneus TPMS",
         "reference": "96680491A",
@@ -1168,8 +1168,8 @@
         "remarques": "Affichage pression pneus au tableau de bord"
     },
     {
-        "categorie": "Échappement",
-        "type": "Echappement racing",
+        "category": "Échappement",
+        "PartType": "Echappement racing",
         "marque": "Akrapovič pour Ducati",
         "modele": "Kit échappement titane complet",
         "reference": "96481701A",
@@ -1180,8 +1180,8 @@
         "remarques": "Gain de poids et puissance, nécessite cartographie dédiée"
     },
     {
-        "categorie": "Admission",
-        "type": "Filtration",
+        "category": "Admission",
+        "PartType": "Filtration",
         "marque": "Ducati Performance",
         "modele": "Filtre à air racing",
         "reference": "42610672A",
@@ -1192,8 +1192,8 @@
         "remarques": "Débit d'air optimisé pour usage piste"
     },
     {
-        "categorie": "Commandes",
-        "type": "Commandes reculées",
+        "category": "Commandes",
+        "PartType": "Commandes reculées",
         "marque": "Ducati Performance",
         "modele": "Repose-pieds réglables racing",
         "reference": "96280671A",
@@ -1204,8 +1204,8 @@
         "remarques": "Position multi-réglable, kit racing"
     },
     {
-        "categorie": "Commandes",
-        "type": "Guidons racing",
+        "category": "Commandes",
+        "PartType": "Guidons racing",
         "marque": "Ducati Performance",
         "modele": "Guidons racing aluminium",
         "reference": "96180511A",
@@ -1216,8 +1216,8 @@
         "remarques": "Position optimisée pour usage circuit"
     },
     {
-        "categorie": "Commandes",
-        "type": "Selle",
+        "category": "Commandes",
+        "PartType": "Selle",
         "marque": "Ducati Performance",
         "modele": "Selle confort/racing",
         "reference": "96880961A",
@@ -1228,8 +1228,8 @@
         "remarques": "Absorption vibration, usage intensif"
     },
     {
-        "categorie": "Carénage",
-        "type": "Bulle",
+        "category": "Carénage",
+        "PartType": "Bulle",
         "marque": "Ducati Performance",
         "modele": "Bulle haute racing",
         "reference": "97180751A",
@@ -1240,8 +1240,8 @@
         "remarques": "Protection aérodynamique accrue"
     },
     {
-        "categorie": "Carénage",
-        "type": "Capot de selle",
+        "category": "Carénage",
+        "PartType": "Capot de selle",
         "marque": "Ducati Performance",
         "modele": "Capot de selle monoplace",
         "reference": "97180851A",
@@ -1252,8 +1252,8 @@
         "remarques": "Cache selle passager pour config monoplace"
     },
     {
-        "categorie": "Carénage",
-        "type": "Stickers",
+        "category": "Carénage",
+        "PartType": "Stickers",
         "marque": "Ducati Performance",
         "modele": "Kit stickers Ducati Corse",
         "reference": "97480251AA",
@@ -1264,8 +1264,8 @@
         "remarques": "Personnalisation officielle Ducati Corse"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Outils spéciaux",
+        "category": "Accessoires",
+        "PartType": "Outils spéciaux",
         "marque": "Ducati",
         "modele": "Kit outils spéciaux Panigale V4",
         "reference": "voir catalogue OUTILS",
@@ -1276,8 +1276,8 @@
         "remarques": "Outils spécifiques pour maintenance moteur/châssis"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Support paddock",
+        "category": "Accessoires",
+        "PartType": "Support paddock",
         "marque": "Ducati Performance",
         "modele": "Support de paddock avant/arrière",
         "reference": "96780571A",
@@ -1288,8 +1288,8 @@
         "remarques": "Entretien et stockage sécurisé"
     },
     {
-        "categorie": "Jantes",
-        "type": "Jantes Magnesium",
+        "category": "Jantes",
+        "PartType": "Jantes Magnesium",
         "marque": "Ducati Performance",
         "modele": "Kit jantes forgées magnesium",
         "reference": "96380751A",
@@ -1300,8 +1300,8 @@
         "remarques": "Gain de poids, usage piste"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Chauffe-pneus",
+        "category": "Accessoires",
+        "PartType": "Chauffe-pneus",
         "marque": "Ducati Performance",
         "modele": "Chauffe-pneus racing",
         "reference": "96780661A",
@@ -1312,8 +1312,8 @@
         "remarques": "Homologué pour usage racing"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Suppression béquille",
+        "category": "Accessoires",
+        "PartType": "Suppression béquille",
         "marque": "Ducati Performance",
         "modele": "Kit suppression béquille latérale",
         "reference": "",
@@ -1324,8 +1324,8 @@
         "remarques": "Kit pour usage piste, nécessite shunt sécurité"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Purge rapide",
+        "category": "Accessoires",
+        "PartType": "Purge rapide",
         "marque": "Ducati Performance",
         "modele": "Kit purge rapide frein/embrayage",
         "reference": "96180591A",
@@ -1336,8 +1336,8 @@
         "remarques": "Facilite la maintenance circuit hydraulique"
     },
     {
-        "categorie": "Échappement",
-        "type": "Échappement complet",
+        "category": "Échappement",
+        "PartType": "Échappement complet",
         "marque": "Akrapovič Ducati Performance",
         "modele": "Ligne complète titane Racing",
         "reference": "96481741AA",
@@ -1350,8 +1350,8 @@
         "remarques": "Kit compétition Ducati Corse, nécessite reprogrammation ECU"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
+        "category": "Protection Moto",
+        "PartType": "Protections cadre",
         "marque": "Ducati Performance",
         "modele": "Kit protections fourche/bras oscillant",
         "reference": "97381081A/97381091A",
@@ -1364,8 +1364,8 @@
         "remarques": "Pack double protection usinage CNC"
     },
     {
-        "categorie": "Commandes",
-        "type": "Commandes CNC",
+        "category": "Commandes",
+        "PartType": "Commandes CNC",
         "marque": "Ducati Performance",
         "modele": "Kit leviers frein/embrayage usinés",
         "reference": "96981391A",
@@ -1378,8 +1378,8 @@
         "remarques": "Réglage micrométrique 6 positions"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Électronique",
+        "category": "Accessoires",
+        "PartType": "Électronique",
         "marque": "Ducati Performance",
         "modele": "Data Logger GPS Racing",
         "reference": "97780321AA",
@@ -1392,8 +1392,8 @@
         "remarques": "Intègre les données DTC/EBC/DWC"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection radiateur",
+        "category": "Protection Moto",
+        "PartType": "Protection radiateur",
         "marque": "Evotech Performance",
         "modele": "Grille de radiateur supérieure et inférieure",
         "reference": "PRN014875-01",
@@ -1406,8 +1406,8 @@
         "remarques": "Protection aluminium, montage sans modification"
   },
   {
-        "categorie": "Protection Moto",
-        "type": "Protection carter moteur",
+        "category": "Protection Moto",
+        "PartType": "Protection carter moteur",
         "marque": "Evotech Performance",
         "modele": "Kit protections carter moteur",
         "reference": "PRN015183-01",
@@ -1420,8 +1420,8 @@
         "remarques": "Protection CNC, montage plug & play"
   },
   {
-        "categorie": "Protection Moto",
-        "type": "Protection axe de roue avant",
+        "category": "Protection Moto",
+        "PartType": "Protection axe de roue avant",
         "marque": "Evotech Performance",
         "modele": "Protections fourche avant",
         "reference": "PRN014876-01",
@@ -1434,8 +1434,8 @@
         "remarques": "Tampons de protection, installation rapide"
   },
   {
-        "categorie": "Protection Moto",
-        "type": "Protection axe de roue arrière",
+        "category": "Protection Moto",
+        "PartType": "Protection axe de roue arrière",
         "marque": "Evotech Performance",
         "modele": "Protections bras oscillant",
         "reference": "PRN014877-01",
@@ -1448,8 +1448,8 @@
         "remarques": "Tampons de protection, montage sans outil spécifique"
   },
   {
-        "categorie": "Carénage",
-        "type": "Support de plaque",
+        "category": "Carénage",
+        "PartType": "Support de plaque",
         "marque": "Evotech Performance",
         "modele": "Support de plaque court",
         "reference": "PRN014878-01",
@@ -1462,8 +1462,8 @@
         "remarques": "Inclut support clignotants et éclairage LED"
   },
   {
-        "categorie": "Protection Moto",
-        "type": "Protection leviers",
+        "category": "Protection Moto",
+        "PartType": "Protection leviers",
         "marque": "Evotech Performance",
         "modele": "Protège-levier de frein",
         "reference": "PRN015184-01",
@@ -1476,8 +1476,8 @@
         "remarques": "Obligatoire en compétition, réglable"
   },
   {
-        "categorie": "Rétroviseurs",
-        "type": "Rétroviseurs embout de guidon",
+        "category": "Rétroviseurs",
+        "PartType": "Rétroviseurs embout de guidon",
         "marque": "Evotech Performance",
         "modele": "Kit rétroviseurs embout de guidon",
         "reference": "PRN015185-01",
@@ -1490,8 +1490,8 @@
         "remarques": "Montage sans modification, design racing"
   },
  {
-        "categorie": "Carénage",
-        "type": "Support de plaque",
+        "category": "Carénage",
+        "PartType": "Support de plaque",
         "marque": "Rizoma",
         "modele": "Fox Panigale V4 2025",
         "reference": "RIZ-FOX-V4-2025",
@@ -1504,8 +1504,8 @@
         "remarques": "Homologué, design racing"
   },
   {
-        "categorie": "Échappement",
-        "type": "Échappement complet",
+        "category": "Échappement",
+        "PartType": "Échappement complet",
         "marque": "Arrow",
         "modele": "Works Racing Line complète",
         "reference": "ARROW-WRL-V4-2025",
@@ -1518,8 +1518,8 @@
         "remarques": "Acier inoxydable, perte de poids 4.2 kg"
   },
   {
-        "categorie": "Carénage",
-        "type": "Garde-boue arrière",
+        "category": "Carénage",
+        "PartType": "Garde-boue arrière",
         "marque": "Carbonvani",
         "modele": "Garde-boue arrière carbone",
         "reference": "CV-GB-AR-V4-2025",
@@ -1532,8 +1532,8 @@
         "remarques": "Tissu 2x2 twill, montage direct"
   },
   {
-        "categorie": "Carénage",
-        "type": "Carénage complet",
+        "category": "Carénage",
+        "PartType": "Carénage complet",
         "marque": "S2 CONCEPT",
         "modele": "Set complet carénage racing",
         "reference": "S2-FULL-V4-2025",
@@ -1546,8 +1546,8 @@
         "remarques": "Fibre de verre + renforts carbone/kevlar"
   },
   {
-        "categorie": "Admission",
-        "type": "Filtre à air",
+        "category": "Admission",
+        "PartType": "Filtre à air",
         "marque": "Sprint Filter",
         "modele": "Filtre racing lavable",
         "reference": "SF-RA-V4-2025",
@@ -1560,8 +1560,8 @@
         "remarques": "Augmentation débit air +15%"
   },
   {
-        "categorie": "Protection Moto",
-        "type": "Protection cadre",
+        "category": "Protection Moto",
+        "PartType": "Protection cadre",
         "marque": "Evotech Performance",
         "modele": "Kit protections fourche/bras oscillant",
         "reference": "EVO-PROT-V4-2025",
@@ -1574,8 +1574,8 @@
         "remarques": "Montage sans perçage, aluminium CNC"
   },
        {
-        "categorie": "Échappement",
-        "type": "Échappement",
+        "category": "Échappement",
+        "PartType": "Échappement",
         "marque": "Akrapovič / Ducati Performance",
         "modele": "Ligne complète titane Euro5",
         "reference": "96482051AA",
@@ -1588,8 +1588,8 @@
         "remarques": "Référence officielle Ducati Performance 2025, nécessite reprogrammation ECU"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Électronique/Data",
+        "category": "Accessoires",
+        "PartType": "Électronique/Data",
         "marque": "Ducati Performance",
         "modele": "Data Analyzer+ GPS",
         "reference": "69929951A",
@@ -1602,8 +1602,8 @@
         "remarques": "Intègre capteurs GPS/accéléromètre, compatible DDA+"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protection commandes",
+        "category": "Protection Moto",
+        "PartType": "Protection commandes",
         "marque": "Ducati Performance",
         "modele": "Kit protections leviers",
         "reference": "97381041A",
@@ -1616,8 +1616,8 @@
         "remarques": "Aluminium CNC avec insert carbone, montage direct"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Acquisition de données",
+        "category": "Accessoires",
+        "PartType": "Acquisition de données",
         "marque": "Ducati Performance",
         "modele": "DDA+ GPS",
         "reference": "97980061C",
@@ -1628,8 +1628,8 @@
         "remarques": "Data logger officiel Ducati, compatible MY25"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Connectivité",
+        "category": "Accessoires",
+        "PartType": "Connectivité",
         "marque": "Ducati Performance",
         "modele": "DMS (Ducati Multimedia System)",
         "reference": "96681181A",
@@ -1640,8 +1640,8 @@
         "remarques": "Module Bluetooth pour smartphone, navigation, musique, appels"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Capteurs",
+        "category": "Accessoires",
+        "PartType": "Capteurs",
         "marque": "Ducati Performance",
         "modele": "TPMS (Tire Pressure Monitoring System)",
         "reference": "96680431A",
@@ -1652,8 +1652,8 @@
         "remarques": "Capteurs pression pneus, affichage au tableau de bord"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Acquisition de données",
+        "category": "Accessoires",
+        "PartType": "Acquisition de données",
         "marque": "AIM",
         "modele": "Solo 2 DL Kit Ducati V4",
         "reference": "X47DKD4S25",
@@ -1664,8 +1664,8 @@
         "remarques": "Lap timer GPS, compatible acquisition CAN Panigale V4 S 2025"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections radiateur",
+        "category": "Protection Moto",
+        "PartType": "Protections radiateur",
         "marque": "Evotech Performance",
         "modele": "Radiator + Oil Cooler Guard",
         "reference": "PRN014672-01",
@@ -1676,8 +1676,8 @@
         "remarques": "Grille aluminium, protection radiateur et huile"
     },
     {
-        "categorie": "Commandes",
-        "type": "Commandes reculées",
+        "category": "Commandes",
+        "PartType": "Commandes reculées",
         "marque": "Bonamici Racing",
         "modele": "Repose-pieds réglables Panigale V4 S MY25",
         "reference": "PEV4S25",
@@ -1688,8 +1688,8 @@
         "remarques": "Commandes racing réglables, compatible quickshifter d’origine"
     },
     {
-        "categorie": "Suspensions",
-        "type": "Suspension",
+        "category": "Suspensions",
+        "PartType": "Suspension",
         "marque": "Öhlins",
         "modele": "Steering Damper Upgrade Kit 2025",
         "reference": "SDU-V4S25",
@@ -1700,8 +1700,8 @@
         "remarques": "Amortisseur de direction racing, plug & play"
     },
     {
-        "categorie": "Jantes",
-        "type": "Jantes Magnésium",
+        "category": "Jantes",
+        "PartType": "Jantes Magnésium",
         "marque": "Marchesini",
         "modele": "Kit jantes magnésium forgé Panigale V4 S 2025",
         "reference": "96481281AA",
@@ -1712,8 +1712,8 @@
         "remarques": "Gain de poids, montage direct, homologué FIM"
     },
     {
-        "categorie": "Freinage",
-        "type": "Maître-cylindre",
+        "category": "Freinage",
+        "PartType": "Maître-cylindre",
         "marque": "Brembo",
         "modele": "Maître-cylindre RCS Corsa Corta",
         "reference": "110C74010",
@@ -1724,8 +1724,8 @@
         "remarques": "Réglage course morte, feeling piste"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Batterie",
+        "category": "Accessoires",
+        "PartType": "Batterie",
         "marque": "Skyrich",
         "modele": "Batterie lithium YT12B-BS",
         "reference": "HJT12B-FP",
@@ -1736,8 +1736,8 @@
         "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Outillage spécifique",
+        "category": "Accessoires",
+        "PartType": "Outillage spécifique",
         "marque": "Ducati",
         "modele": "Kit outils spéciaux V4 S 2025",
         "reference": "887133003",
@@ -1748,8 +1748,8 @@
         "remarques": "Kit atelier officiel Ducati pour V4 S 2025 (voir catalogue pièces origine[1])"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Accessoires paddock",
+        "category": "Accessoires",
+        "PartType": "Accessoires paddock",
         "marque": "Ducati Performance",
         "modele": "Housse de transport officielle",
         "reference": "96780611A",
@@ -1760,8 +1760,8 @@
         "remarques": "Housse Ducati Performance, adaptée Panigale V4 S MY25"
     },
     {
-        "categorie": "Freinage",
-        "type": "Kit durites aviation frein",
+        "category": "Freinage",
+        "PartType": "Kit durites aviation frein",
         "marque": "HEL Performance",
         "modele": "Kit durites aviation Panigale V4 S 2025",
         "reference": "HEL-DUC-V4S25",
@@ -1772,8 +1772,8 @@
         "remarques": "Kit complet durites tressées inox, améliore le feeling et la sécurité au freinage"
     },
     {
-        "categorie": "Visserie",
-        "type": "Kit visserie carénage aluminium",
+        "category": "Visserie",
+        "PartType": "Kit visserie carénage aluminium",
         "marque": "Pro-Bolt",
         "modele": "Kit visserie carénage alu Panigale V4 S 2025",
         "reference": "PB-ALU-V4S25",
@@ -1784,8 +1784,8 @@
         "remarques": "Kit complet visserie carénage en aluminium anodisé, plusieurs coloris"
     },
     {
-        "categorie": "Refroidissement",
-        "type": "Kit durites silicone radiateur",
+        "category": "Refroidissement",
+        "PartType": "Kit durites silicone radiateur",
         "marque": "Samco Sport",
         "modele": "Kit durites silicone Panigale V4 S 2025",
         "reference": "SAMCO-V4S25",
@@ -1796,8 +1796,8 @@
         "remarques": "Kit complet durites silicone haute performance pour refroidissement optimal"
     },
     {
-        "categorie": "Admission",
-        "type": "Filtre à air performance",
+        "category": "Admission",
+        "PartType": "Filtre à air performance",
         "marque": "BMC",
         "modele": "Filtre à air racing Panigale V4 S 2025",
         "reference": "FM01054",
@@ -1808,8 +1808,8 @@
         "remarques": "Filtre à air lavable, débit d'air optimisé, compatible usage piste et route"
     },
     {
-        "categorie": "Commandes",
-        "type": "Poignées racing",
+        "category": "Commandes",
+        "PartType": "Poignées racing",
         "marque": "Domino",
         "modele": "Poignées racing Panigale V4 S 2025",
         "reference": "A26041C4540-0",
