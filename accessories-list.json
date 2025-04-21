@@ -842,18 +842,6 @@
         "remarques": "Ouverture sans clé, aluminium anodisé"
     },
     {
-        "categorie": "Accessoires",
-        "type": "Kit repose-pieds racing",
-        "marque": "Ducati Performance",
-        "modele": "Repose-pieds réglables racing",
-        "reference": "96280671A",
-        "homologation": "Piste",
-        "prixmoyeneur": 680,
-        "compatibilitesellepassager": false,
-        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96280671A",
-        "remarques": "Position réglable, aluminium taillé masse, usage piste"
-    },
-    {
         "categorie": "Protection Moto",
         "type": "Protection moteur",
         "marque": "Ducati Performance",
@@ -1107,18 +1095,6 @@
     },
     {
         "categorie": "Protection Moto",
-        "type": "Protection carter moteur",
-        "marque": "Ducati Performance",
-        "modele": "Kit protections carters moteur",
-        "reference": "97381561AA",
-        "homologation": "Route",
-        "prixmoyeneur": 250,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/kit-protection-carters-moteur-panigale-v4",
-        "remarques": "Protection indispensable pour usage piste, homologuée route"
-    },
-    {
-        "categorie": "Protection Moto",
         "type": "Protection axes",
         "marque": "Ducati Performance",
         "modele": "Sliders axes de roue avant/arrière",
@@ -1224,18 +1200,6 @@
         "compatibilitesellepassager": false,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/repose-pieds-racing-panigale-v4",
         "remarques": "Position multi-réglable, kit racing"
-    },
-    {
-        "categorie": "Commandes",
-        "type": "Leviers",
-        "marque": "Ducati Performance",
-        "modele": "Leviers réglables Performance",
-        "reference": "96180571A",
-        "homologation": "Route",
-        "prixmoyeneur": 180,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/leviers-performance-panigale-v4",
-        "remarques": "Aluminium, réglage précis"
     },
     {
         "categorie": "Commandes",
@@ -1720,18 +1684,6 @@
         "compatibilitesellepassager": false,
         "lienficheproduit": "https://www.bonamiciracing.it/en/ducati/pe-v4s25.html",
         "remarques": "Commandes racing réglables, compatible quickshifter d’origine"
-    },
-    {
-        "categorie": "Accessoires",
-        "type": "Kit conversion racing",
-        "marque": "Ducati Performance",
-        "modele": "Kit suppression route (bouchons, récupérateurs, purgeurs rapides)",
-        "reference": "97180751A",
-        "homologation": "Piste",
-        "prixmoyeneur": 180,
-        "compatibilitesellepassager": false,
-        "lienficheproduit": "https://shop.ducati.com/fr/fr/p/97180751A",
-        "remarques": "Kit complet pour conversion full piste"
     },
     {
         "categorie": "Suspensions",
