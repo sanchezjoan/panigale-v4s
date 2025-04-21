@@ -79,18 +79,6 @@
     },
     {
         "categorie": "Commandes",
-        "type": "Commandes reculées",
-        "marque": "CNC Racing",
-        "modele": "RR EVO",
-        "reference": "ADJDUC08",
-        "homologation": "Route",
-        "prixmoyeneur": 750,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-        "remarques": "Repose-pieds réglables"
-    },
-    {
-        "categorie": "Commandes",
         "type": "Leviers frein/embrayage",
         "marque": "Rizoma",
         "modele": "3D",
@@ -148,18 +136,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/garde-boue-carbone-96981232aa.html",
         "remarques": "Carbone finition brillante"
-    },
-    {
-        "categorie": "Protection Moto",
-        "type": "Protections radiateur",
-        "marque": "Evotech Performance",
-        "modele": "Radiator guard",
-        "reference": "PRN014672-01",
-        "homologation": "Route",
-        "prixmoyeneur": 150,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://evotech-performance.com/products/ep-ducati-panigale-v4-radiator-guard-2025",
-        "remarques": "Grille aluminium"
     },
     {
         "categorie": "Protection Moto",
@@ -257,18 +233,6 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Freinage",
-        "type": "Kit durites aviation",
-        "marque": "HEL Performance",
-        "modele": "Kit durites aviation complet",
-        "reference": "DUC-4-1455",
-        "homologation": "Route",
-        "prixmoyeneur": 220,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://auto.helperformance.com/fr/ducati-panigale-v4-s-2025",
-        "remarques": "Meilleure consistance du freinage, montage plug & play"
-    },
-    {
         "categorie": "Carénage",
         "type": "Garde-boue avant",
         "marque": "FullSix",
@@ -279,18 +243,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fender-ducati-panigale-v4-v4s-v4r-carbon-matte/",
         "remarques": "Carbone finition mate"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Garde-boue avant",
-        "marque": "FullSix",
-        "modele": "Garde-boue avant carbone brillant",
-        "reference": "MD-DV4-FC21G",
-        "homologation": "Route",
-        "prixmoyeneur": 340,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fender-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Carbone finition brillante"
     },
     {
         "categorie": "Carénage",
@@ -329,18 +281,6 @@
         "remarques": "Kit complet, finition mate"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
-        "marque": "FullSix",
-        "modele": "Kit protections carters carbone brillant",
-        "reference": "MD-DV4-ENGG",
-        "homologation": "Route",
-        "prixmoyeneur": 320,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/engine-cover-kit-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Kit complet, finition brillante"
-    },
-    {
         "categorie": "Carénage",
         "type": "Cache pignon sortie de boîte",
         "marque": "FullSix",
@@ -365,30 +305,6 @@
         "remarques": "Carbone finition brillante"
     },
     {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
-        "marque": "FullSix",
-        "modele": "Protections cadre carbone mat",
-        "reference": "MD-DV4-FPG21M",
-        "homologation": "Route",
-        "prixmoyeneur": 210,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/frame-protectors-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Paire, finition mate"
-    },
-    {
-        "categorie": "Protection Moto",
-        "type": "Protections cadre",
-        "marque": "FullSix",
-        "modele": "Protections cadre carbone brillant",
-        "reference": "MD-DV4-FPG21G",
-        "homologation": "Route",
-        "prixmoyeneur": 210,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/frame-protectors-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-        "remarques": "Paire, finition brillante"
-    },
-    {
         "categorie": "Ailerons",
         "marque": "FullSix",
         "modele": "Ailerons carbone mat",
@@ -410,18 +326,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/winglets-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
         "remarques": "Paire, finition brillante"
-    },
-    {
-        "categorie": "Protection Moto",
-        "type": "Protection levier frein",
-        "marque": "FullSix",
-        "modele": "Protection levier frein carbone mat",
-        "reference": "MD-DV4-BPL21M",
-        "homologation": "Route",
-        "prixmoyeneur": 120,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/brake-lever-protector-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Carbone finition mate"
     },
     {
         "categorie": "Protection Moto",
@@ -463,18 +367,6 @@
         "categorie": "Carénage",
         "type": "Garde-boue arrière",
         "marque": "FullSix",
-        "modele": "Garde-boue arrière carbone mat",
-        "reference": "MD-DV4-RR21M",
-        "homologation": "Route",
-        "prixmoyeneur": 260,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/rear-fender-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Carbone finition mate"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Garde-boue arrière",
-        "marque": "FullSix",
         "modele": "Garde-boue arrière carbone brillant",
         "reference": "MD-DV4-RR21G",
         "homologation": "Route",
@@ -482,18 +374,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/rear-fender-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
         "remarques": "Carbone finition brillante"
-    },
-    {
-        "categorie": "Protection Moto",
-        "type": "Protections moteur",
-        "marque": "FullSix",
-        "modele": "Kit protections carters carbone mat",
-        "reference": "MD-DV4-ENGM",
-        "homologation": "Route",
-        "prixmoyeneur": 320,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/engine-cover-kit-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Kit complet, finition mate"
     },
     {
         "categorie": "Protection Moto",
@@ -559,18 +439,6 @@
         "categorie": "Carénage",
         "type": "Ailerons",
         "marque": "FullSix",
-        "modele": "Ailerons carbone mat",
-        "reference": "MD-DV4-WING21M",
-        "homologation": "Route",
-        "prixmoyeneur": 520,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/winglets-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Paire, finition mate"
-    },
-    {
-        "categorie": "Carénage",
-        "type": "Ailerons",
-        "marque": "FullSix",
         "modele": "Ailerons carbone brillant",
         "reference": "MD-DV4-WING21G",
         "homologation": "Route",
@@ -578,18 +446,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.fullsixcarbon.com/product/winglets-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
         "remarques": "Paire, finition brillante"
-    },
-    {
-        "categorie": "Protection Moto",
-        "type": "Protection levier frein",
-        "marque": "FullSix",
-        "modele": "Protection levier frein carbone mat",
-        "reference": "MD-DV4-BPL21M",
-        "homologation": "Route",
-        "prixmoyeneur": 120,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.fullsixcarbon.com/product/brake-lever-protector-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-        "remarques": "Carbone finition mate"
     },
     {
         "categorie": "Protection Moto",
@@ -1226,30 +1082,6 @@
         "compatibilitesellepassager": true,
         "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf03b",
         "remarques": "Aluminium, embout carbone, look racing"
-    },
-    {
-        "categorie": "Visserie",
-        "type": "Kit visserie moteur",
-        "marque": "CNC Racing",
-        "modele": "Kit visserie moteur titane",
-        "reference": "KV429X",
-        "homologation": "Route",
-        "prixmoyeneur": 380,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-moteur-titane-kv429x",
-        "remarques": "Gain de poids, look racing, titane grade 5"
-    },
-    {
-        "categorie": "Visserie",
-        "type": "Kit visserie carénage",
-        "marque": "CNC Racing",
-        "modele": "Kit visserie carénage titane",
-        "reference": "KV428X",
-        "homologation": "Route",
-        "prixmoyeneur": 180,
-        "compatibilitesellepassager": true,
-        "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-carenage-titane-kv428x",
-        "remarques": "Titane, complet pour carénage"
     },
     {
         "categorie": "Protection Moto",
