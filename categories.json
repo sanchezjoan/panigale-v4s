@@ -1,0 +1,394 @@
+[
+    {
+        "Category": "Accessoires",
+        "PartType": "Accessoires paddock"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Acquisition de données"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Batterie"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Bouchon de réservoir de liquide de frein"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Bouchon essence rapide"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Capteurs"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Chauffe-pneus"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Chronométrage"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Connectivité"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Électronique"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Électronique/Data"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Embouts de cadre"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Embouts de guidon"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Kit suppression rétroviseurs"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Outillage spécifique"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Outils spéciaux"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Purge rapide"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Support de béquille de stand"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Support paddock"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "Suppression béquille"
+    },
+    {
+        "Category": "Accessoires",
+        "PartType": "TPMS"
+    },
+    {
+        "Category": "Admission",
+        "PartType": "Filtration"
+    },
+    {
+        "Category": "Admission",
+        "PartType": "Filtre à air"
+    },
+    {
+        "Category": "Admission",
+        "PartType": "Filtre à air performance"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Ailerons"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Bulle"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Bulle haute racing"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Cache pignon sortie de boîte"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Caches latéraux de radiateur"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Caches latéraux réservoir"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Capot de selle"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Carénage complet"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Coque arrière"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Flanc de carénage droit"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Flanc de carénage gauche"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Garde-boue arrière"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Garde-boue avant"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Sabot moteur"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Stickers"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Support de plaque"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Support plaque carbone"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Commandes CNC"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Commandes reculées"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Guidons racing"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Kit leviers racing"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Leviers frein/embrayage"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Poignées racing"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Selle"
+    },
+    {
+        "Category": "Commandes",
+        "PartType": "Tête de fourche"
+    },
+    {
+        "Category": "Échappement",
+        "PartType": "Échappement"
+    },
+    {
+        "Category": "Échappement",
+        "PartType": "Echappement complet"
+    },
+    {
+        "Category": "Échappement",
+        "PartType": "Échappement complet"
+    },
+    {
+        "Category": "Échappement",
+        "PartType": "Echappement racing"
+    },
+    {
+        "Category": "Échappement",
+        "PartType": "Echappement slip-on"
+    },
+    {
+        "Category": "Embrayage",
+        "PartType": "Bouchon de purge d’embrayage"
+    },
+    {
+        "Category": "Embrayage",
+        "PartType": "Cloche d’embrayage"
+    },
+    {
+        "Category": "Embrayage",
+        "PartType": "Couvercle d’embrayage ajouré"
+    },
+    {
+        "Category": "Embrayage",
+        "PartType": "Embrayage sec (kit)"
+    },
+    {
+        "Category": "Freinage",
+        "PartType": "Kit durites aviation frein"
+    },
+    {
+        "Category": "Freinage",
+        "PartType": "Maître-cylindre"
+    },
+    {
+        "Category": "Jantes",
+        "PartType": "Aluminium Forgé"
+    },
+    {
+        "Category": "Jantes",
+        "PartType": "Carbone"
+    },
+    {
+        "Category": "Jantes",
+        "PartType": "Jantes Magnesium"
+    },
+    {
+        "Category": "Jantes",
+        "PartType": "Jantes Magnésium"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection axe de roue arrière"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection axe de roue avant"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection axes"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection bras oscillant"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection cadre"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection carter moteur"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection commandes"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection culasse"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection embrayage"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection levier"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection levier embrayage"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection levier frein"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection leviers"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection moteur"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection radiateur"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection radiateur huile"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protection réservoir"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protections cadre"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protections moteur"
+    },
+    {
+        "Category": "Protection Moto",
+        "PartType": "Protections radiateur"
+    },
+    {
+        "Category": "Refroidissement",
+        "PartType": "Kit durites silicone radiateur"
+    },
+    {
+        "Category": "Rétroviseurs",
+        "PartType": "Rétroviseurs embout de guidon"
+    },
+    {
+        "Category": "Suspensions",
+        "PartType": "Suspension"
+    },
+    {
+        "Category": "Transmission",
+        "PartType": "Tendeur de chaîne"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie bras oscillant"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie carénage aluminium"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie carénage titane"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie carter embrayage"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie étriers de frein avant/arrière"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie moteur titane"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie platines repose-pieds"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie réservoir"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie roue arrière"
+    },
+    {
+        "Category": "Visserie",
+        "PartType": "Kit visserie roue avant"
+    }
+]
