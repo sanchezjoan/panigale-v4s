@@ -59,8 +59,8 @@
       "SKU": "New2",
       "PointOfOrigin": { "X": 434.82087, "Y": 298.75803 },
       "CanvasOrigin": { "X": 455.667, "Y": 211.207 },
-      "Width": 80,
-      "Height": 45,
+      "Width": 45,
+      "Height": 43,
       "IsClosed": "true",
       "LineSegments": 
       [
