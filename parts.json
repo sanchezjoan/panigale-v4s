@@ -564,5 +564,335 @@
     "PartType": "Support Batterie",
     "SKU": "77156453B",
     "Model": "VIS"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "75812291A",
+    "Model": "PASSE-CABLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "71615691AA",
+    "Model": "ENTRETOISE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "76412501A",
+    "Model": "CAOUTCHOUC"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "8291R561A",
+    "Model": "SUPPORT CABLAGE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "8291S551A",
+    "Model": "SUPPORT CABLAGE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77244173B",
+    "Model": "VIS TBEI M5X12"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "86614001A",
+    "Model": "TAMPON"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "51610053C",
+    "Model": "KLAXON"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "77157203B",
+    "Model": "VIS TCEIF M8X14 8,8"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "71316061AA",
+    "Model": "ENTRETOISE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "59340621A",
+    "Model": "MOTEUR ELECTRIQUE SOUPAPE ECHAPPEMENT"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "38540093B",
+    "Model": "PIATTAFORMA INERZIALE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "73211153A",
+    "Model": "JEU CABLE SOUPAPE ECHAPPEMENT"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "74841091AA",
+    "Model": "ECROU"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "70010901A",
+    "Model": "ANTIVIBRATION"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "8301N392AA",
+    "Model": "EQUERRE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "74810361A",
+    "Model": "ECROU"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "76411671A",
+    "Model": "CAOUTCHOUC"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "74941108B",
+    "Model": "ECROU"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "75011551A",
+    "Model": "ECROU M22X1.5"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "59820611AB",
+    "Model": ""
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "82716141A",
+    "Model": "PLAQUETTE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "8291Q161A",
+    "Model": "SUPPORT MOTEUR SOUPAPE ECHAPPEMENT"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "77210423C",
+    "Model": "VIS TBEIF M6X16"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "59822821AB",
+    "Model": "GR. SERRURE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "51840051B",
+    "Model": "ANTENNE IMMOBILIZER"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "59810551B",
+    "Model": "CLE AVEC TRANSPONDER ACTIF"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "55219421B",
+    "Model": "CAPTEUR VITESSE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "65220441A",
+    "Model": "COMMUTATEUR À CLÉ"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "86640081A",
+    "Model": "JOINT, BOUCHON RESERVOIR ESSENCE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "89520411AE",
+    "Model": "BOUCHON DE RESERVOIR COMPLET"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "55240121A",
+    "Model": "CAPTEUR TEMPERATURE AIR"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "77440213C",
+    "Model": "VIS 3X10"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "77916811AA",
+    "Model": "VIS SPECIAL"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "55219411D",
+    "Model": "CAPTEUR VITESSE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "71314901A",
+    "Model": "GARNITURE EP. 0,2"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "71319201A",
+    "Model": "JOINT 0,5 MM"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "77210601A",
+    "Model": "VIS TEF M6X16"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "75812781A",
+    "Model": "PASSE-CABLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "78811041A",
+    "Model": "JOINT CAPTEUR"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "75841091A",
+    "Model": "PASSE-FIL FEMELLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Dispositifs Electriques",
+    "SKU": "75841101A",
+    "Model": "PASSE-FIL MÂLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "52010621D",
+    "Model": "PROJECTEUR AVANT AVANT"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "52010641D",
+    "Model": "PROJECTEUR AVANT AVANT"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "4421A492A",
+    "Model": "RESONATEUR"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "8291R471B",
+    "Model": "SUPPORT PHARE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "77251018B",
+    "Model": "VIS TEF M6X20"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "71611731AA",
+    "Model": "ENTRETOISE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "85211601B",
+    "Model": "RONDELLE 6.4X14X1.2"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "77156453B",
+    "Model": "VIS"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "71614381AA",
+    "Model": "ENTRETOISE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "76411361A",
+    "Model": "JOINT EN CAOUTCHOUC ANTI-VIBRATION"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "77440251A",
+    "Model": "VIS"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "77214411AA",
+    "Model": "VIS TCEIF M5X9"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Feu Avant",
+    "SKU": "77156443B",
+    "Model": "VIS"
   }
 ]
