@@ -72,5 +72,143 @@
     "PartType": "Visserie",
     "SKU": "85310031A",
     "Model": "RONDELLE ELASTIQUE 6 MM"
+  },
+    {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "590Z0021A",
+    "Model": "TUYAU AVANT GAUCHE"
+  },
+  {
+    "Category": "",
+    "PartType": "",
+    "SKU": "935Z0021A",
+    "Model": "TUYAU AVANT DROIT"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "590Z0031A",
+    "Model": "TUYAU ARRIÈRE GAUCHE"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "590Z0011A",
+    "Model": "TUYAU ARRIÈRE DROIT"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "67040511A",
+    "Model": "BOUGIE"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "74141711A",
+    "Model": "COLLIER 10-7 MM"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "69929311A",
+    "Model": "KIT SONDE DE PRESSION ET SUPPORT"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "69929291A",
+    "Model": "KIT SONDE DE PRESSION ET SUPPORT"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "77550171A",
+    "Model": "VIS TBEI M4X8"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "85250311AB",
+    "Model": "RONDELLE"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "76412451A",
+    "Model": "CAOUTCHOUC"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "71615501AA",
+    "Model": "ENTRETOISE"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "77150208B",
+    "Model": "VIS TCEIF M6X14 8,8"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "76411671A",
+    "Model": "CAOUTCHOUC"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "74142371A",
+    "Model": "COLLIER"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "75840801A",
+    "Model": "COLLIER"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "76414251A",
+    "Model": "CAOUTCHOUC"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "87613921A",
+    "Model": "TUYAU AIR"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "87613931A",
+    "Model": "TUYAU AIR"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "65540081A",
+    "Model": "ACTUATEUR"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "77240323C",
+    "Model": "VIS"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "55243731C",
+    "Model": "SONDE PRESSION"
+  },
+  {
+    "Category": "Système Air Secondaire",
+    "PartType": "Circuit Electrique",
+    "SKU": "81414592A",
+    "Model": "SUPPORT"
   }
 ]
