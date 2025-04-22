@@ -34,5 +34,43 @@
     "PartType": "Bouchon essence",
     "SKU": "89520411AE",
     "Model": "Bouchon essence Origine à Clé"
+  },
+  {
+    "Category": "Circuit Electrique",
+    "PartType": "Faisceau",
+    "SKU": "5101M581E",
+    "Model": "CABLAGE ELECTRIQUE",
+    "ValidCountries": [ "XST","BLG","EUR","JPN","GSO"]
+  },
+  {
+    "Category": "Circuit Electrique",
+    "PartType": "Faisceau",
+    "SKU": "5101Q041B",
+    "Model": "CABLAGE ELECTRIQUE",
+    "ValidCountries": ["AUS","VNZ"]
+  },
+  {
+    "Category": "Accessoires",
+    "PartType": "ACTUATEUR",
+    "SKU": "59340661A",
+    "Model": "ACTUATEUR Origine"
+  },
+  {
+    "Category": "Circuit Electrique",
+    "PartType": "Visserie",
+    "SKU": "77244213B",
+    "Model": "VIS TBEI M5X20 3"
+  },
+  {
+    "Category": "Circuit Electrique",
+    "PartType": "Visserie",
+    "SKU": "75011211A",
+    "Model": "ECROU"
+  },
+  {
+    "Category": "Circuit Electrique",
+    "PartType": "Visserie",
+    "SKU": "85310031A",
+    "Model": "RONDELLE ELASTIQUE 6 MM"
   }
 ]
