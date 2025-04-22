@@ -22,5 +22,12 @@
     "PartType": "Bulle",
     "SKU": "48711431A",
     "Model": "Bulle d'Origine Transparente"
+  },
+  
+  {
+    "Category": "Carénage",
+    "PartType": "Ailreons",
+    "SKU": "4801E411BA",
+    "Model": "Aileron Gauche d'Origine Rouge"
   }
 ]
