@@ -56,10 +56,10 @@
       ]
     },
     {
-      "SKU": "New2",
+      "SKU": "Protection Cylindre Gauche Arrriere",
       "PointOfOrigin": { "X": 434.82087, "Y": 298.75803 },
       "CanvasOrigin": { "X": 455.667, "Y": 211.207 },
-      "Width": 45,
+      "Width": 47,
       "Height": 43,
       "IsClosed": "true",
       "LineSegments": 
@@ -77,7 +77,7 @@
       "SKU": "New3",
       "PointOfOrigin": { "X": 435.57916, "Y": 299.11074 },
       "CanvasOrigin": { "X": 616.167, "Y": 298.123 },
-      "Width": 130,
+      "Width": 108,
       "Height": 93,
       "IsClosed": "true",
       "LineSegments": 
