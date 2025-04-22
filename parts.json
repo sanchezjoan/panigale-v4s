@@ -210,5 +210,359 @@
     "PartType": "Circuit Electrique",
     "SKU": "81414592A",
     "Model": "SUPPORT"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "5101G101B",
+    "Model": "CABLAGE"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "5101P301C",
+    "Model": "FAISCEAU ARRIERE 500 H/G"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "54140151A",
+    "Model": "RELAIS"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "53940035A",
+    "Model": "INTERRUPTEUR STOP ARRIERE"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "5101E421A",
+    "Model": "CABLAGE ELECTRIQUE"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "069191030",
+    "Model": "COLLIER"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "74110551A",
+    "Model": "COLLIER CAOUTCHOUC 39MM"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "74140381A",
+    "Model": "COLLIER"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "5101M571E",
+    "Model": "CÂBLAGE PRINCIPAL"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "5101P121E",
+    "Model": "CÂBLAGE PRINCIPAL"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "74110121A",
+    "Model": "COLLIER CAOUTCHOUC 62MM"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "74110131A",
+    "Model": "COLLIER CAOUTCHOUC 82MM"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "75840801A",
+    "Model": "COLLIER"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38940191A",
+    "Model": "FUSIBILE 5A"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38940201A",
+    "Model": "FUSIBLE 10A"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38940211A",
+    "Model": "FUSIBLE 15A"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38940221A",
+    "Model": "FUSIBLE 20A"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38940241A",
+    "Model": "FUSIBLE 7.5A"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38940261A",
+    "Model": "FUSIBILE 25A"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "5101F301A",
+    "Model": "EXTENSION, FAISCEAU DE FILS"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "87211681A",
+    "Model": "BOUCHON"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "75840951A",
+    "Model": "COLLIER"
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38620061A",
+    "Model": ""
+  },
+  {
+    "Category": "Groupe Electrique",
+    "PartType": "Circuit Eléctrique Véhicule",
+    "SKU": "38620081A",
+    "Model": ""
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "93640011AA",
+    "Model": "CENTRALE CONTRÔLE MOTEUR EUR,GSO"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "93640011AC",
+    "Model": "CENTRALE CONTRÔLE MOTEUR VNZ"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "93640011AE",
+    "Model": "CENTRALE CONTRÔLE MOTEUR BLG"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "93640011AN",
+    "Model": "CENTRALE CONTRÔLE MOTEUR AUS"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "70011071A",
+    "Model": "SUPPORT ANTI-VIBRATION"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "69610181A",
+    "Model": "ARRESTO BATTERIA"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "8301N381A",
+    "Model": "ARRESTO BATTERIA"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "51410831C",
+    "Model": "CABLE BATTERIE - TELERUPTEUR"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77440141A",
+    "Model": "VIS TARAUD 4X8 WN1412"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "86614251A",
+    "Model": "TAMPON"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77156628B",
+    "Model": "VIS TCEIF M6X10"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77550171A",
+    "Model": "VIS TBEI M4X8"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "39540311A",
+    "Model": "BATTERIE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "39540601A",
+    "Model": "BATTERIE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "70011061A",
+    "Model": "SUPPORT ANTI-VIBRATION"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "94010051AC",
+    "Model": "CENTRALE BLACKBOX VNZ"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "94010053AA",
+    "Model": "CENTRALE BLACKBOX AUS,BLG,EUR,GSO"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "83019481AB",
+    "Model": "EQUERRE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "85550001B",
+    "Model": "RONDELLE ELASTIQUE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77211061A",
+    "Model": "VIS TEF M6X14"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "8291R361A",
+    "Model": "SUPPORT BATTERIE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "85350101A",
+    "Model": "RONDELLE ELASTIQUE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "85044691A",
+    "Model": "FIXATION RAPIDE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "54040391A",
+    "Model": "REGULATEUR DE TENSION"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77244213B",
+    "Model": "VIS TBEI M5X20"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "38940251A",
+    "Model": "FUSIBLE 30A"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "88640891A",
+    "Model": "JOINT TORIQUE 18.64X3.53"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "39740081B",
+    "Model": "RELAIS DEMARRAGE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "76410901A",
+    "Model": "CAOUTCHOUC"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "85250311AB",
+    "Model": "RONDELLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "51311031A",
+    "Model": "CABLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "51411001A",
+    "Model": "CABLE"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "86613851A",
+    "Model": "SUPPORT"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "8301N471B",
+    "Model": "SUPPORT CONNECTEUR"
+  },
+  {
+    "Category": "Groupe Eléctrique",
+    "PartType": "Support Batterie",
+    "SKU": "77156453B",
+    "Model": "VIS"
   }
 ]
