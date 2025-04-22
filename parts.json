@@ -23,11 +23,16 @@
     "SKU": "48711431A",
     "Model": "Bulle d'Origine Transparente"
   },
-  
   {
     "Category": "Carénage",
-    "PartType": "Ailreons",
+    "PartType": "Ailerons",
     "SKU": "4801E411BA",
     "Model": "Aileron Gauche d'Origine Rouge"
+  },
+  {
+    "Category": "Accessoires",
+    "PartType": "Bouchon essence",
+    "SKU": "89520411AE",
+    "Model": "Bouchon essence Origine à Clé"
   }
 ]
