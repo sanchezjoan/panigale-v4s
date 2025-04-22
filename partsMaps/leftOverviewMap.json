@@ -1,14 +1,14 @@
 {
   "MapImageName": "DSC02159-détourée.png",
   "Description": "Vue du flanc gauche de la moto",
-  "CanvasOrigin": { "X": 449.333, "Y": 274.123 },
-  "Width": 43,
-  "Height": 48,
   "SKUS":
   [
     {
       "SKU": "4601R941A",
       "PointOfOrigin": { "X": 448.74569, "Y": 309.08066 },
+      "CanvasOrigin": { "X": 449.333, "Y": 274.123 },
+      "Width": 43,
+      "Height": 48,
       "IsClosed": "true",
       "LineSegments": 
       [
@@ -19,6 +19,23 @@
         { "X": 459.54446, "Y": 282.10922 },
         { "X": 449.26404, "Y": 296.36783 },
         { "X": 448.61609, "Y": 308.12936 }
+      ]
+    },
+    {
+      "SKU": "CacheChaine",
+      "PointOfOrigin": { "X": 465.3171, "Y": 319.60969 },
+      "CanvasOrigin": { "X": 425, "Y": 190 },
+      "Width": 103,
+      "Height": 38,
+      "IsClosed": "true",
+      "LineSegments": 
+      [
+        { "X": 470.89305, "Y": 319.81749 },
+        { "X": 493.96453, "Y": 310.16381 },
+        { "X": 522.74968, "Y": 302.00879 },
+        { "X": 501.65467, "Y": 294.3921 },
+        { "X": 482.93448, "Y": 299.07531 },
+        { "X": 468.52472, "Y": 308.22087 }
       ]
     }
   ]
