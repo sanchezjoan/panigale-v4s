@@ -158,5 +158,25 @@
     "Name": "Carbonvani",
     "MakerType": "Maker",
     "Url": "https://www.carbonvani.com/panigale-v4-2025"
+  },
+  {
+    "Name": "Puig",
+    "MakerType": "Maker",
+    "Url": "https://puig.tv/fr/motos/ducati/panigale-1100-v4/2025?q="
+  },
+  {
+    "Name": "Ducati Performance",
+    "MakerType": "Maker",
+    "Url": "https://www.ducatistore.fr/fr/"
+  },
+  {
+    "Name": "Ermax",
+    "MakerType": "Maker",
+    "Url": "https://www.ermax.com/Ducati/"
+  },
+  {
+    "Name": "Zero Gravity",
+    "MakerType": "Maker",
+    "Url": "https://zerogravity-racing.com/collections/ducati-superbike-1098-1299"
   }
 ]
