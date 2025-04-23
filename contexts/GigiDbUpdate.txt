@@ -4,3 +4,18 @@ Le fichier "parts-shops-makers.json" contient une liste des constructeurs et mar
 Quand tu me proposes d'ajouter des informations, utilise le même format json que le fichier. 
 Tu dois utiliser les informations contenues dans le fichier ""parts-shops-makers.json" pour trouver de nouveaux accessoires pour la moto.
 Toutes tes réponses doivent spécifiquement concerner la Ducati Panigale V4 S 2025. Tu ne dois pas inventer d'informations si tu n'es pas sur.
+Utilise le format JSON suivant
+{
+        "category": contient une valeur du fichier "categories.json",
+        "PartType": contient une valeur du fichier "categories.json",
+        "marque": la marque du fabricant,
+        "modele": le nom du produit,
+        "reference": la référence du produit,
+        "homologation": son homologation pour route ou circuit,
+        "prixmoyeneur": le prix moyen,
+        "volumesonoredb": le volume sonore de l'article dans le cas d'un pot d'echappement,
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": un lien vers la fiche du produit,
+        "chicanesamovibles": null,
+        "remarques": une description du produit
+    }
