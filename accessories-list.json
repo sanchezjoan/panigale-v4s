@@ -2263,5 +2263,62 @@
     "compatibilitesellepassager": "Oui",
     "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
     "remarques": "Optimise le refroidissement des freins en usage piste."
-  }
+  },
+    {
+        "category": "Carénage",
+        "PartType": "Bulle",
+        "marque": "WRS",
+        "modele": "Race Fumée Clair DU034F",
+        "reference": "DU034F",
+        "OriginalSKU": "48711431A",
+        "homologation": "DOT626",
+        "prixmoyeneur": 96.61,
+        "lienficheproduit": "https://www.sport-classic.com/top-bike-ducati-panigale-v4-2025/223997-bulle-ducati-panigale-v4-2025-wrs-race-fumee-clair.html",
+        "remarques": "Bulle sport en plexiglas PMMA fumé clair, 10 mm plus haute que l'origine, design parfaitement intégré à la Panigale V4 S 2025."
+    },
+    {
+        "category": "Carénage",
+        "PartType": "Bulle",
+        "marque": "WRS",
+        "modele": "Race Fumée Noir",
+        "reference": "5056826700155",
+        "OriginalSKU": "48711431A",
+        "homologation": "DOT626",
+        "prixmoyeneur": null,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.wrs.it/fr/bulles-pare-brises/460271-bulle-race-fumee-noir-wrs-ducati-panigale-v4-s-2025-5056826700155.html",
+        "chicanesamovibles": null,
+        "remarques": "Bulle Race haute, 10 mm plus haute que l'origine, élimine les turbulences, montage direct sans modification, PMMA 2 mm."
+    },
+    {
+        "category": "Carénage",
+        "PartType": "Bulle",
+        "marque": "S2 Concept",
+        "modele": "Bulle Racing",
+        "reference": null,
+        "OriginalSKU": "48711431A",
+        "homologation": null,
+        "prixmoyeneur": null,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.s2-concept.com/fr/20596-bulle-racing-ducati-panigale-v4-2025.html",
+        "chicanesamovibles": null,
+        "remarques": "Bulle racing en acrylique haute résistance 3 mm, testée en soufflerie virtuelle, améliore l'aérodynamisme et la protection du pilote."
+    },
+    {
+        "category": "Carénage",
+        "PartType": "Bulle",
+        "marque": "Puig",
+        "modele": "R-Racer 22333",
+        "reference": "22333",
+        "OriginalSKU": "48711431A",
+        "homologation": "TÜV",
+        "prixmoyeneur": null,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.tech2roo.com/bulle-moto/188124-bulle-r-racer-puig-22333-pour-ducati-panigale-v4-s-2025-et-.html",
+        "chicanesamovibles": null,
+        "remarques": "Bulle racing issue de la compétition, +50 mm de hauteur par rapport à l'origine, PMMA CI30 3 mm, bords arrondis, visibilité optimale."
+    }
 ]
