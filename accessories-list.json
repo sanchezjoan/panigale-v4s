@@ -56,7 +56,7 @@
         "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
     },
     {
-        "category": "Accessoires",
+        "category": "Freinage",
         "PartType": "Bouchon de réservoir de liquide de frein",
         "marque": "CNC Racing",
         "modele": "Bouchon maître-cylindre avant",
@@ -70,7 +70,7 @@
         "remarques": "Aluminium, anodisé, plusieurs couleurs"
     },
     {
-        "category": "Accessoires",
+        "category": "Freinage",
         "PartType": "Bouchon de réservoir de liquide de frein",
         "marque": "CNC Racing",
         "modele": "Bouchon maître-cylindre arrière",
@@ -85,7 +85,7 @@
     },
     {
         "category": "Accessoires",
-        "PartType": "Bouchon essence",
+        "PartType": "Bouchon de reservoir essence",
         "marque": "CNC Racing",
         "modele": "Bouchon de réservoir essence à ouverture rapide.",
         "reference": "TF511B",
@@ -100,7 +100,7 @@
     },
     {
         "category": "Accessoires",
-        "PartType": "Bouchon essence",
+        "PartType": "Bouchon de reservoir essence",
         "marque": "Ducati Performance",
         "modele": "Bouchon de réservoir essence à ouverture rapide. Rizoma By Ducati.",
         "reference": "97380921AA",
