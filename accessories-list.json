@@ -2320,5 +2320,61 @@
         "lienficheproduit": "https://www.tech2roo.com/bulle-moto/188124-bulle-r-racer-puig-22333-pour-ducati-panigale-v4-s-2025-et-.html",
         "chicanesamovibles": null,
         "remarques": "Bulle racing issue de la compétition, +50 mm de hauteur par rapport à l'origine, PMMA CI30 3 mm, bords arrondis, visibilité optimale."
+    },
+    {
+        "category": "Accessoires",
+        "PartType": "Bouchon de réservoir essence",
+        "marque": "Lightech",
+        "modele": "Bouchon de réservoir à vis",
+        "reference": "TFN229",
+        "homologation": "route",
+        "prixmoyeneur": null,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.wrs.it/fr/bouchon-reservoir-essence/466318-coupa-ducati-panigale-v4-2025-8052393418353.html",
+        "chicanesamovibles": null,
+        "remarques": "Nouveau bouchon de réservoir essence en aluminium CNC pour Ducati Panigale V4 S 2025, système de fermeture à vis sans clé, disponible en plusieurs couleurs, design élégant et fonctionnel."
+    },
+    {
+        "category": "Accessoires",
+        "PartType": "Bouchon de réservoir essence",
+        "marque": "Ducati Performance",
+        "modele": "Bouchon de réservoir aluminium Rizoma",
+        "reference": "97780051BA",
+        "homologation": "route",
+        "prixmoyeneur": 298.84,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.ebay.fr/itm/306057556704",
+        "chicanesamovibles": null,
+        "remarques": "Bouchon de réservoir officiel Ducati Performance en aluminium usiné, design exclusif Rizoma, livré avec clé spéciale Ducati, haute résistance et durabilité, compatible Panigale V4 S 2025."
+    },
+    {
+        "category": "Accessoires",
+        "PartType": "Bouchon de réservoir essence",
+        "marque": "Ducati Performance",
+        "modele": "Bouchon de réservoir aluminium Rizoma (noir)",
+        "reference": "97780051BB",
+        "homologation": "route",
+        "prixmoyeneur": null,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.carbon4us.com/fr/10795-bouchons-d-essence-et-d-huile-ducati-Panigale-V4-2025",
+        "chicanesamovibles": null,
+        "remarques": "Version noire du bouchon de réservoir Ducati Performance, aluminium usiné, design Rizoma, livré avec clé spéciale Ducati, pour Panigale V4 S 2025."
+    },
+    {
+        "category": "Accessoires",
+        "PartType": "Bouchon de réservoir essence",
+        "marque": "CNC Racing",
+        "modele": "Bouchon de réservoir GEAR",
+        "reference": "TSB11",
+        "homologation": "route",
+        "prixmoyeneur": null,
+        "volumesonoredb": "n/a",
+        "compatibilitesellepassager": "n/a",
+        "lienficheproduit": "https://www.desmo-racing.com/bouchon-reservoir-dessence-gear-cnc-racing-ducati-tsb11-xml-360_379-3518.html",
+        "chicanesamovibles": null,
+        "remarques": "Bouchon de réservoir essence type 'GEAR' en aluminium taillé masse, finition anodisée, fabrication CNC Racing Made in Italy, compatible Panigale V4 S 2025."
     }
 ]
