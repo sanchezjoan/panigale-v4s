@@ -17,7 +17,7 @@
     },
     {
         "Category": "Accessoires",
-        "PartType": "Bouchon essence rapide"
+        "PartType": "Bouchon de réservoir essence"
     },
     {
         "Category": "Accessoires",
@@ -34,14 +34,6 @@
     {
         "Category": "Accessoires",
         "PartType": "Connectivité"
-    },
-    {
-        "Category": "Accessoires",
-        "PartType": "Électronique"
-    },
-    {
-        "Category": "Accessoires",
-        "PartType": "Électronique/Data"
     },
     {
         "Category": "Accessoires",
@@ -153,7 +145,15 @@
     },
     {
         "Category": "Carénage",
+        "PartType": "Kit cache cylindre"
+    },
+    {
+        "Category": "Carénage",
         "PartType": "Sabot moteur"
+    },
+    {
+        "Category": "Carénage",
+        "PartType": "Sous-carénage"
     },
     {
         "Category": "Carénage",
@@ -165,11 +165,7 @@
     },
     {
         "Category": "Carénage",
-        "PartType": "Support plaque carbone"
-    },
-    {
-        "Category": "Commandes",
-        "PartType": "Commandes CNC"
+        "PartType": "Support de pare-brise"
     },
     {
         "Category": "Commandes",
@@ -181,15 +177,11 @@
     },
     {
         "Category": "Commandes",
-        "PartType": "Kit leviers racing"
+        "PartType": "Leviers"
     },
     {
         "Category": "Commandes",
-        "PartType": "Leviers frein/embrayage"
-    },
-    {
-        "Category": "Commandes",
-        "PartType": "Poignées racing"
+        "PartType": "Poignées"
     },
     {
         "Category": "Commandes",
@@ -205,10 +197,6 @@
     },
     {
         "Category": "Échappement",
-        "PartType": "Echappement complet"
-    },
-    {
-        "Category": "Échappement",
         "PartType": "Échappement complet"
     },
     {
@@ -218,6 +206,14 @@
     {
         "Category": "Échappement",
         "PartType": "Echappement slip-on"
+    },
+    {
+        "Category": "Éléctronique",
+        "PartType": "Acquisition de données"
+    },
+    {
+        "Category": "Éléctronique",
+        "PartType": "Capteurs"
     },
     {
         "Category": "Embrayage",
@@ -234,6 +230,10 @@
     {
         "Category": "Embrayage",
         "PartType": "Embrayage sec (kit)"
+    },
+    {
+        "Category": "Freinage",
+        "PartType": "Bouchon de réservoir de liquide de frein"
     },
     {
         "Category": "Freinage",
