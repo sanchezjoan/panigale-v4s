@@ -1,16 +1,5 @@
 [
-  {
-    "category": "Accessoires",
-    "PartType": "Accessoires paddock",
-    "marque": "Ducati Performance",
-    "modele": "Housse de transport officielle",
-    "reference": "96780611A",
-    "homologation": "N/A",
-    "prixmoyeneur": "190",
-    "compatibilitesellepassager": "n/a",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96780611A",
-    "remarques": "Housse Ducati Performance, adaptée Panigale V4 S MY25"
-  },
+
   {
     "category": "Accessoires",
     "PartType": "Batterie",
@@ -23,19 +12,7 @@
     "lienficheproduit": "https://www.skyrichbattery.com/yt12b-bs.html",
     "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
   },
-  
-  {
-    "category": "Accessoires",
-    "PartType": "Chauffe-pneus",
-    "marque": "Ducati Performance",
-    "modele": "Chauffe-pneus racing",
-    "reference": "96780661A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "420",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/chauffe-pneus-panigale-v4",
-    "remarques": "Homologué pour usage racing"
-  },
+
   {
     "category": "Accessoires",
     "PartType": "Électronique",
@@ -266,54 +243,7 @@
     "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
     "remarques": "Permet de transformer la moto en monoplace, finition carbone haut de gamme."
   },
-  {
-    "category": "Carénage",
-    "PartType": "Flanc de carénage droit",
-    "marque": "FullSix",
-    "modele": "Flanc droit carbone mat",
-    "reference": "MD-DV4-RS21M",
-    "homologation": "Route",
-    "prixmoyeneur": "620",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/right-side-panel-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Flanc de carénage droit",
-    "marque": "FullSix",
-    "modele": "Flanc droit carbone brillant",
-    "reference": "MD-DV4-RS21G",
-    "homologation": "Route",
-    "prixmoyeneur": "620",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/right-side-panel-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Flanc de carénage gauche",
-    "marque": "FullSix",
-    "modele": "Flanc gauche carbone mat",
-    "reference": "MD-DV4-LS21M",
-    "homologation": "Route",
-    "prixmoyeneur": "620",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/left-side-panel-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Flanc de carénage gauche",
-    "marque": "FullSix",
-    "modele": "Flanc gauche carbone brillant",
-    "reference": "MD-DV4-LS21G",
-    "homologation": "Route",
-    "prixmoyeneur": "620",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/left-side-panel-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
+ 
  
   {
     "category": "Carénage",
