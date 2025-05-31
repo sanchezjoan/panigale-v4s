@@ -2,7 +2,7 @@
 
 ## Dimensions et Geometrie
 
-<image src="Images/dimensions.png" alt="Dimensions" width="800" >
+<image src="images/dimensions.png" alt="Dimensions" width="800" >
 
 * Poids en ordre de marche sans carburant 187 kg
 * Hauteur de selle 850 mm
@@ -28,7 +28,7 @@ Couleur Rouge Ducati
 - Conforme à la norme Euro 5+ avec le système de distribution desmodromique, unique en termes de vilebrequin contrarotatif et d'ordre d'allumage « Twin Pulse ».
 - Commande des gaz ride by wire.
 
-<image src="image-9.png" alt="Moteur V4 à 90°" width="800" >
+<image src="moteur-pistons.png" alt="Moteur V4 à 90°" width="800" >
 
 ### Puissance mesurée
 
