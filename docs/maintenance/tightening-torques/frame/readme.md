@@ -37,16 +37,6 @@
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|AIR INTAKE-OIL BREATHER ASSEMBLY                                            |    |            |                                                     |                                  |
-|Upper to lower airbox front fastener                                        |2   |M4          |3                                                    |                                  |
-|Filter upstream-downstream duct fastener                                    |4   |M5          |6                                                    |                                  |
-|Wirings fastener                                                            |3   |            |                                                     |                                  |
-|LH support cover to duct fastener                                           |2   |Self-tapping|                                                     |                                  |
-|RH support cover to duct fastener                                           |2   |Self-tapping|                                                     |                                  |
-|Spring clamp on airbox drain pipe                                           |1   |            |                                                     |                                  |
-
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |FAIRING ASSEMBLY                                                            |    |            |                                                     |                                  |
 |Upper headlight fairing/subframe/headlight fastener                         |2   |M5          |2.5                                                  |                                  |
 |Subframe to rear headlight fairing fastener                                 |2   |M5          |-                                                    |                                  |
