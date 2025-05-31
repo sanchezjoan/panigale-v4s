@@ -2,7 +2,7 @@
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|Dowel to bottom yoke fastener                                               |2   |M6          |10                                                   |LOCK 2                            |
+|Dowel to bottom yoke fastener (Fixation de goupille sur té inférieur)                                              |2   |M6          |10                                                   |LOCK 2                            |
 |Steering ring nut tightening                                                |1   |M35         |35*                                                  |GREASE D                          |
 |Steering head on forks tightening                                           |2   |M8          |18*                                                  |GREASE B (On thread only)         |
 |Steering head clamp tightening                                              |6   |M8          |18*                                                  |GREASE M (On thread and underhead)|
