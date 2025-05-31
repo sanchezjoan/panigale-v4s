@@ -1,6 +1,5 @@
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|FAIRING ASSEMBLY                                                            |    |            |                                                     |                                  |
 |Upper headlight fairing/subframe/headlight fastener                         |2   |M5          |2.5                                                  |                                  |
 |Subframe to rear headlight fairing fastener                                 |2   |M5          |-                                                    |                                  |
 |Windscreen to headlight fairing fastener                                    |8   |M4          |0.2                                                  |                                  |
@@ -9,11 +8,17 @@
 |Lower headlight fairing to upper half fairing fastener                      |2   |M5          |2.5                                                  |                                  |
 |LH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
 |RH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |LH half fairing to frame (bollhoff) fastener                                |1   |M6          |2.9                                                  |                                  |
 |LH half fairing to frame fastener                                           |1   |M5          |5                                                    |                                  |
 |Upper LH half fairing to Rad Duct fastener                                  |1   |M5          |2.5                                                  |                                  |
 |RH half fairing to frame (bollhoff) fastener                                |1   |M6          |2.9                                                  |                                  |
 |RH half fairing to frame fastener                                           |1   |M5          |5                                                    |                                  |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |Upper RH half fairing to Rad Duct fastener                                  |1   |M5          |2.5                                                  |                                  |
 |Fastener securing tank LH side cover to tank                                |1   |M5          |2.5                                                  |                                  |
 |Fastener securing tank RH side cover to tank                                |1   |M5          |2.5                                                  |                                  |
@@ -28,6 +33,9 @@
 |Lower RH half fairing to Rad Duct fastener                                  |2   |M5          |2.5                                                  |                                  |
 |RH lower half fairings to fastener (bollhoff)                               |1   |M6          |2.9                                                  |                                  |
 |RH lower half fairing to support fastener                                   |1   |M5          |6                                                    |GREASE M                          |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |LH panel to upper half fairing fastener                                     |1   |M5          |2.5                                                  |                                  |
 |LH panel to headlight subframe fastener                                     |1   |M5          |2.5                                                  |                                  |
 |RH panel to upper half fairing fastener                                     |1   |M5          |2.5                                                  |                                  |
@@ -37,6 +45,9 @@
 |Tank cover to tank fastener                                                 |2   |M5          |2.5                                                  |                                  |
 |LH rear head cover to rear head cover fastener                              |2   |M5          |2.5                                                  |                                  |
 |Head cover to wiring support fastener                                       |2   |M5          |-                                                    |                                  |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |Tail guard cover to LH side body panel (bollhoff) fastener                  |1   |            |-                                                    |                                  |
 |Side body panel to lower tail guard cover (bollhoff) fastener               |1   |            |-                                                    |                                  |
 |LH tail guard side body panels to subframe fastener                         |1   |M5          |2.5                                                  |                                  |
