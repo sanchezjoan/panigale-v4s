@@ -19,13 +19,6 @@
 |Silent block to instrument panel                                            |4   |M5          |-                                                    |Manual snug                       |
 |Silent-block to front subframe retainer                                     |4   |M5          |3                                                    |                                  |
 
-
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|FRONT MUDGUARD ASSEMBLY                                                     |    |            |                                                     |                                  |
-|Mudguard brackets to fork axle lugs fastener                                |4   |M6          |8                                                    |Pre-applied threadlocker          |
-|Front mudguard to brackets fastener                                         |4   |M5          |6                                                    |Pre-applied threadlocker          |
-
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |LIQUID COOLING ASSEMBLY                                                     |    |            |                                                     |                                  |
