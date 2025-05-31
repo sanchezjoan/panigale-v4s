@@ -33,3 +33,12 @@
 - **Compatible selle passager** : Oui
 - **Lien** : [Voir la fiche produit](https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025)
 - **Remarque** : Finition brillante, haute résistance, look premium.
+
+---
+
+## Carbonvani - Garde-boue arrière carbone
+-  reference: CV-GB-AR-V4-2025
+-  homologation: "Route et piste
+- prixmoyeneur: "269"
+- lienficheproduit: [Voir la fiche produit]()
+- "remarques": "Tissu 2x2 twill, montage direct
