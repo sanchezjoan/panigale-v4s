@@ -15,3 +15,9 @@ Boite de vitesse 6 vitesses avec Shifter Ducati (DQS) montée/descente 2.0
   * 5 : 30/22
   * 6 : 27/22
 * Transmission finale : Chaine de 520, pignon de sortie de boite de 16 dents, couronne de 41 dents
+
+### Embrayage
+
+Embrayage multidisque à bain d'huile à glissement limité. Maître cylindre auto purgeur.
+
+<image src="Images/embrayage-multidisques.png" alt="Embrayage multidisque à bain d'huile à glissement limité" width="800" >
