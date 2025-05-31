@@ -1,5 +1,4 @@
 [
-
   {
     "category": "Accessoires",
     "PartType": "Batterie",
@@ -12,7 +11,6 @@
     "lienficheproduit": "https://www.skyrichbattery.com/yt12b-bs.html",
     "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
   },
-
   {
     "category": "Accessoires",
     "PartType": "Électronique",
@@ -527,18 +525,7 @@
     "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
     "remarques": "Pour kit embrayage sec CNC ou Ducati"
   },
-  {
-    "category": "Embrayage",
-    "PartType": "Couvercle d’embrayage ajouré",
-    "marque": "CNC Racing",
-    "modele": "Couvercle ajouré carbone",
-    "reference": "CCM11",
-    "homologation": "Route",
-    "prixmoyeneur": "170",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Protection, look racing, carbone"
-  },
+ 
   {
     "category": "Embrayage",
     "PartType": "Embrayage sec (kit)",
@@ -760,18 +747,7 @@
     "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
     "remarques": "Protection contre les projections et les rayures, carbone véritable."
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection embrayage",
-    "marque": "Ducati Performance",
-    "modele": "Protection carter embrayage carbone",
-    "reference": "96981331A",
-    "homologation": "Piste",
-    "prixmoyeneur": "220",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981331A",
-    "remarques": "Protection carbone pour carter d’embrayage, montage plug&play"
-  },
+
   ,
   {
     "category": "Protection Moto",
@@ -835,30 +811,6 @@
     "compatibilitesellepassager": "true",
     "lienficheproduit": "https://www.rg-racing.com/browsebike/Ducati/Panigale_V4_S/2025/CP0507BL",
     "remarques": "Tampons anti-chute spécifiques, montage sans perçage"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections moteur",
-    "marque": "CNC Racing",
-    "modele": "Protection carter embrayage",
-    "reference": "PES01B",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium taillé masse, protection crash"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections moteur",
-    "marque": "CNC Racing",
-    "modele": "Protection carter alternateur",
-    "reference": "PES02B",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium taillé masse, protection crash"
   },
   {
     "category": "Protection Moto",
