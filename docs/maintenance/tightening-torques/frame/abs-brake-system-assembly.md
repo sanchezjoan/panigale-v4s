@@ -28,3 +28,4 @@
 |Front brake master cylinder bleeding                                        |1   |M8          |14 (Min. 12 - Max. 16)                               |                                  |
 |Front brake calliper bleeding                                               |1   |M6          |6 (Min. 5 - Max. 7)                                  |                                  |
 |Rear brake master cylinder bleeding                                         |1   |M8          |14 (Min. 12 - Max. 16)                               |                                  |
+|*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%.|    |            |                                                     |                                  |
