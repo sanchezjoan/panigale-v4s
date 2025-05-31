@@ -156,10 +156,6 @@
     "lienficheproduit": "",
     "remarques": "Kit pour usage piste, nécessite shunt sécurité"
   },
-  
- 
- 
- 
   {
     "category": "Carénage",
     "PartType": "Caches latéraux de radiateur",
@@ -332,102 +328,7 @@
     "chicanesamovibles": "false",
     "remarques": "Tissu 2x2 twill, montage direct"
   },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue arrière",
-    "marque": "FullSix",
-    "modele": "Garde-boue arrière carbone mat",
-    "reference": "MD-DV4-RR21M",
-    "homologation": "Route",
-    "prixmoyeneur": "260",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/rear-fender-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue arrière",
-    "marque": "FullSix",
-    "modele": "Garde-boue arrière carbone brillant",
-    "reference": "MD-DV4-RR21G",
-    "homologation": "Route",
-    "prixmoyeneur": "260",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/rear-fender-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue arrière",
-    "marque": "Ilmberger Carbon",
-    "modele": "Garde-boue arrière carbone brillant",
-    "reference": "ILM-GBAA-PV425",
-    "homologation": "Oui",
-    "prixmoyeneur": "339.90",
-    "compatibilitesellepassager": "Oui",
-    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
-    "remarques": "Finition brillante, haute résistance, look premium."
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue avant",
-    "marque": "Carbonvani",
-    "modele": "Garde-boue avant carbone",
-    "reference": "DV4S25-11",
-    "homologation": "Oui",
-    "prixmoyeneur": "252.00",
-    "compatibilitesellepassager": "Oui",
-    "lienficheproduit": "https://www.carbonvani.com/product-page/parafango-anteriore-26",
-    "remarques": "Allège la partie avant et améliore l’esthétique racing."
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue avant",
-    "marque": "Ducati Performance",
-    "modele": "Garde-boue carbone mat",
-    "reference": "96981231AA",
-    "homologation": "Route",
-    "prixmoyeneur": "390",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/garde-boue-carbone-96981231aa.html",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue avant",
-    "marque": "Ducati Performance",
-    "modele": "Garde-boue carbone brillant",
-    "reference": "96981232AA",
-    "homologation": "Route",
-    "prixmoyeneur": "400",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/garde-boue-carbone-96981232aa.html",
-    "remarques": "Carbone finition brillante"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue avant",
-    "marque": "FullSix",
-    "modele": "Garde-boue avant carbone mat",
-    "reference": "MD-DV4-FC21M",
-    "homologation": "Route",
-    "prixmoyeneur": "340",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fender-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue avant",
-    "marque": "FullSix",
-    "modele": "Garde-boue avant carbone brillant",
-    "reference": "MD-DV4-FC21G",
-    "homologation": "Route",
-    "prixmoyeneur": "340",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fender-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
+ 
   {
     "category": "Carénage",
     "PartType": "Kit cache cylindre",
@@ -685,88 +586,7 @@
     "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fairing-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
     "remarques": "Carbone finition brillante"
   },
-  {
-    "category": "Échappement",
-    "PartType": "Echappement complet",
-    "marque": "Akrapovic for Ducati Performance",
-    "modele": "Kit échappement titane complet",
-    "reference": "96481701A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "5200",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/echappement-akrapovic-panigale-v4",
-    "remarques": "Gain de poids et puissance, nécessite cartographie dédiée"
-  },
-  {
-    "category": "Échappement",
-    "PartType": "Echappement complet",
-    "marque": "SC-Project",
-    "modele": "CR-T M2 WSBK",
-    "reference": "SCP-D36A-T36C",
-    "homologation": "Non (racing)",
-    "prixmoyeneur": "2200",
-    "volumesonoredb": "110-112",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.sc-project.com/fr/produit/systeme-dechappement-wsbk-pour-ducati-panigale-v4",
-    "chicanesamovibles": "true",
-    "remarques": "Look MotoGP, usage piste slip-on"
-  },
-  {
-    "category": "Échappement",
-    "PartType": "Echappement complet",
-    "marque": "Termignoni",
-    "modele": "D184 Full System",
-    "reference": "D18409400IT",
-    "homologation": "Non (racing)",
-    "prixmoyeneur": "5000",
-    "volumesonoredb": "106-110",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.termignoni.it/prodotto/ducati-panigale-v4-v4s-v4r-2022-2023-d184-full-system",
-    "chicanesamovibles": "true",
-    "remarques": "Titane, usage piste"
-  },
-  {
-    "category": "Échappement",
-    "PartType": "Échappement complet",
-    "marque": "Akrapovic for Ducati Performance",
-    "modele": "Ligne complète titane Euro5",
-    "reference": "96482051AA",
-    "homologation": "Euro 5",
-    "prixmoyeneur": "5890",
-    "volumesonoredb": "98-102",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/echappement-akrapovic-titane-96482051aa.html",
-    "chicanesamovibles": "true",
-    "remarques": "Référence officielle Ducati Performance 2025, nécessite reprogrammation ECU"
-  },
-  {
-    "category": "Échappement",
-    "PartType": "Échappement complet",
-    "marque": "Akrapovic for Ducati Performance",
-    "modele": "Ligne complète titane Racing",
-    "reference": "96481741AA",
-    "homologation": "Racing (non homologué route)",
-    "prixmoyeneur": "6200",
-    "volumesonoredb": "102-105",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/echappement-racing-akrapovic-titane-96481741aa.html",
-    "chicanesamovibles": "true",
-    "remarques": "Kit compétition Ducati Corse, nécessite reprogrammation ECU"
-  },
-  {
-    "category": "Échappement",
-    "PartType": "Échappement complet",
-    "marque": "Arrow",
-    "modele": "Works Racing Line complète",
-    "reference": "ARROW-WRL-V4-2025",
-    "homologation": "Racing",
-    "prixmoyeneur": "2489",
-    "volumesonoredb": "105-108 dB",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
-    "chicanesamovibles": "true",
-    "remarques": "Acier inoxydable, perte de poids 4.2 kg"
-  },
+ 
   {
     "category": "Éléctronique",
     "PartType": "Acquisition de données",
@@ -963,54 +783,7 @@
     "lienficheproduit": "https://www.brembo.com/fr/auto/pièces-de-rechange/maitre-cylindre-rcs-corsa-corta-110c74010",
     "remarques": "Réglage course morte, feeling piste"
   },
-  {
-    "category": "Jantes",
-    "PartType": "Aluminium Forgé",
-    "marque": "OZ Racing",
-    "modele": "Piega R",
-    "reference": "W0112A0R01T",
-    "homologation": "Route",
-    "prixmoyeneur": "3200",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.ozmotorbike.com/en/products/piega-r",
-    "remarques": "Aluminium forgé"
-  },
-  {
-    "category": "Jantes",
-    "PartType": "Carbone",
-    "marque": "Rotobox",
-    "modele": "Boost Carbon",
-    "reference": "RBX2DUCAV4S",
-    "homologation": "Route",
-    "prixmoyeneur": "3800",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.rotobox-wheels.com/products/boost-ducati-panigale-v4",
-    "remarques": "Carbone"
-  },
-  {
-    "category": "Jantes",
-    "PartType": "Jantes Magnesium",
-    "marque": "Ducati Performance",
-    "modele": "Kit jantes forgées magnesium",
-    "reference": "96380751A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "3800",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/jantes-magnesium-panigale-v4",
-    "remarques": "Gain de poids, usage piste"
-  },
-  {
-    "category": "Jantes",
-    "PartType": "Jantes Magnésium",
-    "marque": "Marchesini",
-    "modele": "Kit jantes magnésium forgé Panigale V4 S 2025",
-    "reference": "96481281AA",
-    "homologation": "Piste",
-    "prixmoyeneur": "3900",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96481281AA",
-    "remarques": "Gain de poids, montage direct, homologué FIM"
-  },
+
   {
     "category": "Protection Moto",
     "PartType": "Protection axe de roue arrière",
@@ -1183,18 +956,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981331A",
     "remarques": "Protection carbone pour carter d’embrayage, montage plug&play"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection levier",
-    "marque": "Ducati Performance",
-    "modele": "Protection de levier de frein",
-    "reference": "96180571A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "99",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protection-levier-frein-panigale-v4",
-    "remarques": "Obligatoire en compétition piste"
-  },
+  ,
   {
     "category": "Protection Moto",
     "PartType": "Protection levier embrayage",
@@ -1207,56 +969,7 @@
     "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf03b",
     "remarques": "Aluminium, embout carbone, look racing"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection levier frein",
-    "marque": "CNC Racing",
-    "modele": "Protection levier frein Evo",
-    "reference": "PLF02B",
-    "homologation": "Route",
-    "prixmoyeneur": "110",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, embout carbone"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection levier frein",
-    "marque": "Ducati Performance",
-    "modele": "Protection levier frein avant carbone",
-    "reference": "96180541A",
-    "homologation": "Route",
-    "prixmoyeneur": "110",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protection-levier-frein-96180541a.html",
-    "remarques": "Obligatoire en compétition, carbone, montage plug & play"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection levier frein",
-    "marque": "FullSix",
-    "modele": "Protection levier frein carbone brillant",
-    "reference": "MD-DV4-BPL21G",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/brake-lever-protector-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection leviers",
-    "marque": "Evotech Performance",
-    "modele": "Protège-levier de frein",
-    "reference": "PRN015184-01",
-    "homologation": "Track",
-    "prixmoyeneur": "120",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://evotech-performance.com/products/ep-brake-lever-protector-ducati-panigale-v4-v4s-v4r",
-    "chicanesamovibles": "false",
-    "remarques": "Obligatoire en compétition, réglable"
-  },
+  ,
   {
     "category": "Protection Moto",
     "PartType": "Protection moteur",
@@ -1269,56 +982,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97181091AA",
     "remarques": "Protection usinée pour carters, recommandée pour la piste"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection radiateur",
-    "marque": "Ducati Performance",
-    "modele": "Grille de radiateur eau carbone",
-    "reference": "97381261A",
-    "homologation": "Route",
-    "prixmoyeneur": "280",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97381261A",
-    "remarques": "Protection légère et efficace, finition carbone mat"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection radiateur",
-    "marque": "Ducati Performance",
-    "modele": "Grille de protection radiateur eau/huile",
-    "reference": "4841C941BA",
-    "homologation": "Route",
-    "prixmoyeneur": "180",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protection-radiateur-panigale-v4",
-    "remarques": "Protection officielle Ducati pour radiateur eau et huile, montage plug&play MY25"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection radiateur",
-    "marque": "Evotech Performance",
-    "modele": "Grille de radiateur supérieure et inférieure",
-    "reference": "PRN014875-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "150",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://evotech-performance.com/products/ep-radiator-guard-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
-    "chicanesamovibles": "false",
-    "remarques": "Protection aluminium, montage sans modification"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection radiateur huile",
-    "marque": "Ducati Performance",
-    "modele": "Grille de radiateur huile carbone",
-    "reference": "97381271A",
-    "homologation": "Route",
-    "prixmoyeneur": "210",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97381271A",
-    "remarques": "Protection radiateur huile, carbone, look racing"
-  },
+
   {
     "category": "Protection Moto",
     "PartType": "Protection réservoir",
@@ -1343,69 +1007,7 @@
     "lienficheproduit": "https://www.fullsixcarbon.com/product/tank-protector-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
     "remarques": "Finition brillante"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections cadre",
-    "marque": "Ducati Performance",
-    "modele": "Protections cadre carbone mat",
-    "reference": "97381291AA",
-    "homologation": "Route",
-    "prixmoyeneur": "320",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protections-cadre-carbone-97381291aa.html",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections cadre",
-    "marque": "Ducati Performance",
-    "modele": "Protections cadre carbone brillant",
-    "reference": "97381292AA",
-    "homologation": "Route",
-    "prixmoyeneur": "340",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protections-cadre-carbone-97381292aa.html",
-    "remarques": "Carbone finition brillante"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections cadre",
-    "marque": "Ducati Performance",
-    "modele": "Kit protections fourche/bras oscillant",
-    "reference": "97381081A/97381091A",
-    "OriginalSKU": "96981321A",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "890",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/protections-carbone-panigale-v4s-2025",
-    "chicanesamovibles": "false",
-    "remarques": "Pack double protection usinage CNC"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections cadre",
-    "marque": "FullSix",
-    "modele": "Protections cadre carbone mat",
-    "reference": "MD-DV4-FPG21M",
-    "homologation": "Route",
-    "prixmoyeneur": "210",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/frame-protectors-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Paire, finition mate"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections cadre",
-    "marque": "FullSix",
-    "modele": "Protections cadre carbone brillant",
-    "reference": "MD-DV4-FPG21G",
-    "homologation": "Route",
-    "prixmoyeneur": "210",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/frame-protectors-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Paire, finition brillante"
-  },
+ 
   {
     "category": "Protection Moto",
     "PartType": "Protections cadre",
@@ -1575,125 +1177,5 @@
     "compatibilitesellepassager": "true",
     "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
     "remarques": "Aluminium, réglage précis"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie bras oscillant",
-    "marque": "CNC Racing",
-    "modele": "Kit visserie bras oscillant titane",
-    "reference": "KV434X",
-    "homologation": "Route",
-    "prixmoyeneur": "58",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-bras-oscillant-titane-kv434x",
-    "remarques": "Kit titane pour bras oscillant"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie carénage aluminium",
-    "marque": "Pro-Bolt",
-    "modele": "Kit visserie carénage alu Panigale V4 S 2025",
-    "reference": "PB-ALU-V4S25",
-    "homologation": "Route",
-    "prixmoyeneur": "90",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://motomillion.com/collections/ducati-panigale-v4-2025",
-    "remarques": "Kit complet visserie carénage en aluminium anodisé, plusieurs coloris"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie carénage titane",
-    "marque": "CNC Racing",
-    "modele": "Kit visserie carénage titane",
-    "reference": "KV428X",
-    "homologation": "Route",
-    "prixmoyeneur": "180",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-carenage-titane-kv428x",
-    "remarques": "Titane, complet pour carénage, look racing"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie carter embrayage",
-    "marque": "Ducabike",
-    "modele": "Kit visserie carter embrayage titane",
-    "reference": "KTEM01",
-    "homologation": "Route",
-    "prixmoyeneur": "42",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.ducabike.com/kit-viti-titanio-carter-frizione-ducati-v4",
-    "remarques": "Kit titane pour carter d’embrayage"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie étriers de frein avant/arrière",
-    "marque": "CNC Racing",
-    "modele": "Kit visserie étriers titane",
-    "reference": "KV433X",
-    "homologation": "Route",
-    "prixmoyeneur": "50",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-etrier-frein-titane-kv433x",
-    "remarques": "Kit titane pour étriers avant et arrière"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie moteur titane",
-    "marque": "CNC Racing",
-    "modele": "Kit visserie moteur titane complet",
-    "reference": "KV429X",
-    "homologation": "Route",
-    "prixmoyeneur": "380",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-moteur-titane-kv429x",
-    "remarques": "Kit complet titane grade 5, gain de poids, look racing"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie platines repose-pieds",
-    "marque": "CNC Racing",
-    "modele": "Kit visserie platines titane",
-    "reference": "KV431X",
-    "homologation": "Route",
-    "prixmoyeneur": "65",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-platines-titane-kv431x",
-    "remarques": "Pour fixation platines repose-pieds, titane"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie réservoir",
-    "marque": "CNC Racing",
-    "modele": "Kit visserie réservoir titane",
-    "reference": "KV432X",
-    "homologation": "Route",
-    "prixmoyeneur": "55",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/kit-visserie-reservoir-titane-kv432x",
-    "remarques": "Kit titane pour fixation du réservoir"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie roue arrière",
-    "marque": "Pro-Bolt",
-    "modele": "Kit visserie roue arrière titane",
-    "reference": "TIRDUC100",
-    "homologation": "Route",
-    "prixmoyeneur": "65",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.pro-bolt.com/titanium-rear-axle-nut-kit-ducati-panigale-v4-s.html",
-    "remarques": "Kit titane pour axe de roue arrière"
-  },
-  {
-    "category": "Visserie",
-    "PartType": "Kit visserie roue avant",
-    "marque": "Pro-Bolt",
-    "modele": "Kit visserie roue avant titane",
-    "reference": "TIFDUC100",
-    "homologation": "Route",
-    "prixmoyeneur": "60",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.pro-bolt.com/titanium-front-axle-nut-kit-ducati-panigale-v4-s.html",
-    "remarques": "Kit titane pour axe de roue avant"
   }
 ]
