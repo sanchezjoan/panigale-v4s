@@ -9,20 +9,16 @@ Les informations techniques, schémas, procédures et données publiées sur ce 
 L'utilisation des contenus de ce site relève **uniquement de votre responsabilité**. En aucun cas l'éditeur du site ne pourra être tenu pour responsable de dommages matériels, physiques, financiers ou légaux résultant de l'application des informations présentées.
 
 ### 📸 Crédits Photographiques et Propriété Intellectuelle  
-**Tous les contenus visuels** (images, schémas, illustrations) sont utilisés sous :  
-- Licence Creative Commons avec attribution obligatoire  
-- Droit de citation pédagogique (article L122-5 CPI)  
-- Autorisations écrites des détenteurs de droits  
+**Tous les contenus visuels** (images, schémas, illustrations) sont utilisés à fin informative et restent la propriété de leur auteur.
 
 **Sources principales des médias empruntés :**  
-1. Constructeurs motocyclistes : Ducati, Yamaha, Kawasaki, BMW Motorrad, KTM  
+1. Constructeurs motocyclistes : Ducati 
 2. Fabricants d'accessoires : Akrapovič, Termignoni, Öhlins, Brembo  
-3. Plateformes techniques : Motorcycle.com, CycleWorld, Bennetts  
+3. Plateformes techniques : 
 4. Photographes indépendants : Crédits complets disponibles sur demande  
 
 **Pour réclamation de droits d'auteur :**  
 › Contact immédiat à [email@domain.com] avec preuve de propriété  
-› Retrait sous 72h maximum après vérification  
 
 ### ⚖️ Limitation de Garanties  
 Aucune garantie n'est fournie concernant :  
@@ -32,7 +28,7 @@ Aucune garantie n'est fournie concernant :
 - La conformité légale des modifications suggérées  
 
 Les données techniques proviennent de sources tierces non vérifiées :  
-- Forums spécialisés (Ducati.ms, PanigaleV4Forum)  
+- Forums spécialisés 
 - Documentation technique obsolète  
 - Retours d'expérience utilisateurs non certifiés  
 
