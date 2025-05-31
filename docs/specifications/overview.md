@@ -28,7 +28,7 @@ Couleur Rouge Ducati
 - Conforme à la norme Euro 5+ avec le système de distribution desmodromique, unique en termes de vilebrequin contrarotatif et d'ordre d'allumage « Twin Pulse ».
 - Commande des gaz ride by wire.
 
-<image src="moteur-pistons.png" alt="Moteur V4 à 90°" width="800" >
+<image src="images/moteur-pistons.png" alt="Moteur V4 à 90°" width="800" >
 
 ### Puissance mesurée
 
@@ -53,8 +53,8 @@ C’est chez Ducati que l’ingénieur en chef Fabio TAGLIONI (alias Papa di Des
 Le système, ici la distribution, qui transforme un mouvement de rotation en un mouvement de translation bidirectionnel, est dit desmodromique si cette action est provoquée dans les deux sens par un moyen rigide (sans l’utilisation d’un ressort de rappel).
 Le petit ressort accessoire faiblement taré (en bleu sur certains schémas) ne sert qu’à rattraper le jeu de fonctionnement afin d’assurer un parfait appui de la soupape sur son siège lorsque ce jeu augmente à cause de l’usure ou de la température.
 
-<image src="Images/culasse-avant-distribution.png" alt="Culasse Avant Distribution" width="400" >
-<image src="Images/culasse-arriere-distribution.png" alt="Culasse Arrière Distribution" width="400" >
+<image src="images/culasse-avant-distribution.png" alt="Culasse Avant Distribution" width="400" >
+<image src="images/culasse-arriere-distribution.png" alt="Culasse Arrière Distribution" width="400" >
 
 - Système d'injection de carburant éléctronique, 2 injecteurs par cylindre.
 - Corps de papillons elliptiques.
