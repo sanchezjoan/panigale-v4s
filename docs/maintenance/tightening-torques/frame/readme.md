@@ -15,18 +15,6 @@
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|SIDE STAND ASSEMBLY                                                         |    |            |                                                     |                                  |
-| Magnet retainer for side stand sensor                                      |1   |            |Glueing with bi-component Loctite EA9394 + chamfering|                                  |
-|Side stand pivot fastener                                                   |1   |M8          |25                                                   |Pre-applied threadlocker          |
-|Hinge pin retainer for spring on stand                                      |1   |M8          |5                                                    |LOCK 5                            |
-|CHAIN-SPROCKET ASSEMBLY                                                     |    |            |                                                     |                                  |
-|Fastener to secondary                                                       |1   |M10         |55*                                                  |GREASE B                          |
-|Sprocket cover fastener                                                     |1   |M6          |10                                                   |                                  |
-|Cover, metal sheet and slave cylinder to engine block retainer              |1   |M6          |10                                                   |                                  |
-|Chain splash guard to silencer cover retainers                              |1   |M5          |4                                                    |                                  |
-
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |LIGHT ASSEMBLY                                                              |    |            |                                                     |                                  |
 |Lower headlight to support fastener                                         |2   |M5          |5                                                    |                                  |
 |Front SUBFRAME to frame fastener (upper RH)                                 |1   |M6          |10                                                   |(Seq.: 1-2-3-4-1-2)               |
