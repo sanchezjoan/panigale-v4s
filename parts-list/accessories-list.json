@@ -314,20 +314,6 @@
     "lienficheproduit": "https://www.fullsixcarbon.com/product/left-side-panel-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
     "remarques": "Carbone finition brillante"
   },
-  {
-    "category": "Carénage",
-    "PartType": "Garde-boue arrière",
-    "marque": "Carbonvani",
-    "modele": "Garde-boue arrière carbone",
-    "reference": "CV-GB-AR-V4-2025",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "269",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
-    "chicanesamovibles": "false",
-    "remarques": "Tissu 2x2 twill, montage direct"
-  },
  
   {
     "category": "Carénage",
@@ -586,107 +572,7 @@
     "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fairing-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
     "remarques": "Carbone finition brillante"
   },
- 
-  {
-    "category": "Éléctronique",
-    "PartType": "Acquisition de données",
-    "marque": "Ducati Performance",
-    "modele": "Ducati Data Analyzer+ (DDA+)",
-    "reference": "97980061A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "390",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/dda-plus-panigale-v4",
-    "remarques": "Acquisition de données GPS intégrée, indispensable circuit"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Acquisition de données",
-    "marque": "Ducati Performance",
-    "modele": "DDA+ GPS",
-    "reference": "97980061C",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "350",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/p/97980061C",
-    "remarques": "Data logger officiel Ducati, compatible MY25"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Acquisition de données",
-    "marque": "Ducati Performance",
-    "modele": "Data Logger GPS Racing",
-    "reference": "97780321AA",
-    "homologation": "Piste",
-    "prixmoyeneur": "2150",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/data-logger-racing-panigale-v4s",
-    "chicanesamovibles": "true",
-    "remarques": "Intègre les données DTC/EBC/DWC"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Acquisition de données",
-    "marque": "Ducati Performance",
-    "modele": "Data Analyzer+ GPS",
-    "reference": "69929951A",
-    "homologation": "N/A",
-    "prixmoyeneur": "850",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/analyseur-de-donnees-69929951a.html",
-    "chicanesamovibles": "false",
-    "remarques": "Intègre capteurs GPS/accéléromètre, compatible DDA+"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Acquisition de données",
-    "marque": "Ducati Performance",
-    "modele": "Kit capteurs pression pneus TPMS",
-    "reference": "96680491A",
-    "homologation": "Route",
-    "prixmoyeneur": "220",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/tpms-panigale-v4",
-    "remarques": "Affichage pression pneus au tableau de bord"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Capteurs",
-    "marque": "Ducati Performance",
-    "modele": "TPMS (Tire Pressure Monitoring System)",
-    "reference": "96680431A",
-    "homologation": "Route",
-    "prixmoyeneur": "320",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96680431A",
-    "remarques": "Capteurs pression pneus, affichage au tableau de bord"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Chronométrage",
-    "marque": "Ducati Performance",
-    "modele": "Module GPS Lap Timer",
-    "reference": "96680571A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "250",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/gps-lap-timer-panigale-v4",
-    "remarques": "Chronométrage automatique compatible tableau de bord MY25"
-  },
-  {
-    "category": "Éléctronique",
-    "PartType": "Connectivité",
-    "marque": "Ducati Performance",
-    "modele": "DMS (Ducati Multimedia System)",
-    "reference": "96681181A",
-    "homologation": "Route",
-    "prixmoyeneur": "250",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/p/96681181A",
-    "remarques": "Module Bluetooth pour smartphone, navigation, musique, appels"
-  },
+
   {
     "category": "Embrayage",
     "PartType": "Bouchon de purge d’embrayage",
