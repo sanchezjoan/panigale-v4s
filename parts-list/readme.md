@@ -1,3 +1,3 @@
 All parts :
-[Fuel Tank Caps](/fuel-tank-caps)
-[Exhausts](/exhausts)
+[Fuel Tank Caps](/fuel-tank-caps.md)
+[Exhausts](exhausts)
