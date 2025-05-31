@@ -1,6 +1,5 @@
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|REAR SWINGING ARM ASSEMBLY                                                  |    |            |                                                     |                                  |
 |Pin on LH swingarm shaft support                                            |1   |            |Press-fitting + caulking                             |                                  |
 |LH support to engine block fastener                                         |2   |M8          |25                                                   |GREASE B                          |
 |LH swingarm shaft                                                           |1   |M20         |100*                                                 |GREASE B                          |
