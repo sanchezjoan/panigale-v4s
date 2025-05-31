@@ -29,12 +29,6 @@
 |SEAT ASSEMBLY                                                               |    |            |                                                     |                                  |
 |Rider seat to tank fastener                                                 |1   |M5          |5                                                    |                                  |
 
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|OIL COOLER                                                                  |    |            |                                                     |                                  |
-|Oil cooler to Rad Duct fastener                                             |2   |M5          |5                                                    |                                  |
-|Oil pipes fastener                                                          |4   |M6          |10                                                   |Pre-applied threadlocker          |
-
 |*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%.|    |            |                                                     |                                  |
 
 
