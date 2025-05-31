@@ -4,15 +4,17 @@
 
 <image src="images/dimensions.png" alt="Dimensions" width="800" >
 
-* Poids en ordre de marche sans carburant 187 kg
-* Hauteur de selle 850 mm
-* Empattement 1485 mm
-* Angle de chasse 24°
-* Chasse 98mm
-* Capacité du réservoir 17L
-* consommation moyenne 6.5L
-* Nombre de places : 2 avec le kit passager
-* Emissions CO2 151g/km
+|Caractéristique|Valeur|
+|-|-|
+|Poids en ordre de marche sans carburant| 187 kg|
+| Hauteur de selle| 850 mm|
+|Empattement |1485 mm|
+| Angle de chasse |24°|
+|Chasse |98mm|
+| Capacité du réservoir |17L|
+| consommation moyenne| 6.5L|
+| Nombre de places | 2 avec le kit passager|
+|Emissions CO2 |151g/km|
 
 ## Peinture
 
