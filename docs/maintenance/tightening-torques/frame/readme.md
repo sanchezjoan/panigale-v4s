@@ -24,10 +24,6 @@
 |REAR MUDGUARD ASSEMBLY                                                      |    |            |                                                     |                                  |
 |Rear mudguard to swinging arm fastener                                      |3   |M5          |5                                                    |Pre-applied  threadlocker         |
 
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|SEAT ASSEMBLY                                                               |    |            |                                                     |                                  |
-|Rider seat to tank fastener                                                 |1   |M5          |5                                                    |                                  |
 
 |*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%.|    |            |                                                     |                                  |
 
