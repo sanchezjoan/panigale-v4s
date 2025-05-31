@@ -19,11 +19,6 @@
 |Silent block to instrument panel                                            |4   |M5          |-                                                    |Manual snug                       |
 |Silent-block to front subframe retainer                                     |4   |M5          |3                                                    |                                  |
 
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|REAR MUDGUARD ASSEMBLY                                                      |    |            |                                                     |                                  |
-|Rear mudguard to swinging arm fastener                                      |3   |M5          |5                                                    |Pre-applied  threadlocker         |
-
 
 |*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%.|    |            |                                                     |                                  |
 
