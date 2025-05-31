@@ -13,12 +13,6 @@
 |RH rear footpeg fastener                                                    |2   |M8          |22                                                   |                                  |
 |LH rear footpeg fastener                                                    |2   |M8          |22                                                   |                                  |
 
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|INSTRUMENT PANEL ASSEMBLY                                                   |    |            |                                                     |                                  |
-|Silent block to instrument panel                                            |4   |M5          |-                                                    |Manual snug                       |
-|Silent-block to front subframe retainer                                     |4   |M5          |3                                                    |                                  |
-
 
 |*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%.|    |            |                                                     |                                  |
 
