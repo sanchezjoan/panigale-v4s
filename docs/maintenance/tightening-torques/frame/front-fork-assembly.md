@@ -1,3 +1,5 @@
+<img src="front-fork.png" height="500" style="text-align:center" align="center"/>
+
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |Dowel to bottom yoke fastener                                               |2   |M6          |10                                                   |LOCK 2                            |
