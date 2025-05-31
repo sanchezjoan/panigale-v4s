@@ -19,17 +19,6 @@
 |Silent block to instrument panel                                            |4   |M5          |-                                                    |Manual snug                       |
 |Silent-block to front subframe retainer                                     |4   |M5          |3                                                    |                                  |
 
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|REAR SUSPENSION ASSEMBLY                                                    |    |            |                                                     |                                  |
-|Upper suspension support fastener                                           |2   |M8          |30*                                                  |GREASE B (On thread only)         |
-|Central suspension support fastener                                         |2   |M8          |35*                                                  |GREASE B (On thread only)         |
-|Lower suspension support fastener                                           |2   |M8          |35*                                                  |GREASE B (On thread only)         |
-|Shock-absorber to partition fastener                                        |1   |M10         |45*                                                  |GREASE B (On thread and underhead)|
-|Shock-absorber to rocker arm fastener                                       |1   |M10         |65*                                                  |GREASE B (On thread and underhead)|
-|Rocker arm to suspension support fastener                                   |1   |M12         |90*                                                  |GREASE B (On thread only)         |
-|Linkage on rocker arm fastener                                              |1   |M10         |65*                                                  |GREASE B (On thread and underhead)|
-|Linkage to swinging arm fastener                                            |1   |M10         |45*                                                  |GREASE B (On thread only)         |
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
@@ -268,3 +257,8 @@
 |Lower half fairing to Rad Duct retainer                                     |2   |M5          |-                                                    |                                  |
 |Headlight fairing to subframe fastener                                      |2   |M5          |5                                                    |                                  |
 |*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%.|    |            |                                                     |                                  |
+
+
+Credits 
+
+hxxps://ducatiforum.com/t/2025-panigale-v4-service-manual-and-torque-specs.64014/
