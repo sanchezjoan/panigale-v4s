@@ -26,13 +26,6 @@
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|FRONT WHEEL ASSEMBLY                                                        |    |            |                                                     |                                  |
-|Front brake discs to front rim retainer                                     |10  |M8          |30*                                                  |Pre-applied threadlocker          |
-|Wheel shaft fastener                                                        |1   |M25         |63*                                                  |GREASE B (On thread and underhead)|
-|Valve to front wheel fastener                                               |1   |M25         |9                                                    |                                  |
-
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |EXHAUST ASSEMBLY                                                            |    |            |                                                     |                                  |
 |Crosspieces to heads fastener                                               |4   |M6          |10                                                   |                                  |
 |Front pipe set to head fastener                                             |2   |M6          |10                                                   |GREASE I(On thread and underhead) |
