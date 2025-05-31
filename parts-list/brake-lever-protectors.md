@@ -1,6 +1,13 @@
 # Protections levier de frein pour Ducati Panigale V4 S 2025
 
-# Protection levier frein Evo (CNC Racing)
+## Ducati Performance - Protection de levier de frein
+- reference": "96180571A",
+- "prixmoyeneur": "99",
+- "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protection-levier-frein-panigale-v4"
+- 
+---
+
+## Protection levier frein Evo (CNC Racing)
 
 - **Modèle** : Protection levier frein Evo
 - **Référence** : PLF02B
