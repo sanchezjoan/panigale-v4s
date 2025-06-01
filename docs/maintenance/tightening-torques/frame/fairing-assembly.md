@@ -11,17 +11,19 @@
 | |LH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
 | |RH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
 
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|LH half fairing to frame (bollhoff) fastener                                |1   |M6          |2.9                                                  |                                  |
-|LH half fairing to frame fastener                                           |1   |M5          |5                                                    |                                  |
-|Upper LH half fairing to Rad Duct fastener                                  |1   |M5          |2.5                                                  |                                  |
-|RH half fairing to frame (bollhoff) fastener                                |1   |M6          |2.9                                                  |                                  |
-|RH half fairing to frame fastener                                           |1   |M5          |5                                                    |                                  |
+<img src="right-fairing.png" height="500" />
+
+|REFERENCE|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+| --- |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
+| |LH half fairing to frame (bollhoff) fastener                                |1   |M6          |2.9                                                  |                                  |
+| |LH half fairing to frame fastener                                           |1   |M5          |5                                                    |                                  |
+| |Upper LH half fairing to Rad Duct fastener                                  |1   |M5          |2.5                                                  |                                  |
+| |RH half fairing to frame (bollhoff) fastener                                |1   |M6          |2.9                                                  |                                  |
+| 77214411AA ? |RH half fairing to frame fastener                             |1   |M5          |5                                                    |                                  |
+| |Upper RH half fairing to Rad Duct fastener                                  |1   |M5          |2.5                                                  |                                  |
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|Upper RH half fairing to Rad Duct fastener                                  |1   |M5          |2.5                                                  |                                  |
 |Fastener securing tank LH side cover to tank                                |1   |M5          |2.5                                                  |                                  |
 |Fastener securing tank RH side cover to tank                                |1   |M5          |2.5                                                  |                                  |
 |LH lower fairing to silencer cover fastener                                 |3   |Self-tapping|                                                     |                                  |
