@@ -22,8 +22,14 @@
 |LH lower half fairing to LH upper half fairing fastener                     |1   |M5          |2.5                                                  |                                  |
 |Lower LH half fairing to Rad Duct fastener                                  |2   |M5          |2.5                                                  |                                  |
 |LH lower half fairings to fastener (bollhoff)                               |1   |M6          |2.9                                                  |                                  |
-|Lower half-fairings fastener                                                |2   |M5          |2.5                                                  |                                  |
 |LH lower half fairing to support fastener                                   |1   |M5          |6                                                    |GREASE M                          |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
+|Lower half-fairings fastener                                                |2   |M5          |2.5                                                  |                                  |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |RH lower fairing to silencer cover fastener                                 |3   |Self-tapping|-                                                    |                                  |
 |RH lower half fairing to RH upper half fairing fastener                     |1   |M5          |2.5                                                  |                                  |
 |Lower RH half fairing to Rad Duct fastener                                  |2   |M5          |2.5                                                  |                                  |
@@ -32,13 +38,13 @@
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|LH panel to upper half fairing fastener                                     |1   |M5          |2.5                                                  |                                  |
-|LH panel to headlight subframe fastener                                     |1   |M5          |2.5                                                  |                                  |
-|RH panel to upper half fairing fastener                                     |1   |M5          |2.5                                                  |                                  |
-|RH panel to headlight subframe fastener                                     |1   |M5          |2.5                                                  |                                  |
+|LH panel to upper half fairing fastener  (flan gauche vers demi-flan superieur gauche) |1   |M5          |2.5                                                  |                                  |
+|LH panel to headlight subframe fastener  (flan gauche vers sub frame phares)  |1   |M5          |2.5                                                  |                                  |
+|RH panel to upper half fairing fastener  (flan droit vers demi-flan superieur gauche) |1   |M5          |2.5                                                  |                                  |
+|RH panel to headlight subframe fastener  (flan gauche vers sub frame phares) |1   |M5          |2.5                                                  |                                  |
 |Double-sided adhesive tape on tank cover LH attachment                      |1   |            |                                                     |                                  |
 |Double-sided adhesive tape on tank cover RH attachment                      |1   |            |                                                     |                                  |
-|Tank cover to tank fastener                                                 |2   |M5          |2.5                                                  |                                  |
+|Tank cover to tank fastener (Couvercle de reservoir sur fixation de reservoir) |2   |M5          |2.5                                                  |                                  |
 |LH rear head cover to rear head cover fastener                              |2   |M5          |2.5                                                  |                                  |
 |Head cover to wiring support fastener                                       |2   |M5          |-                                                    |                                  |
 
