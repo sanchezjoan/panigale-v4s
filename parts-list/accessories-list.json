@@ -645,18 +645,7 @@
     "lienficheproduit": "https://www.rg-racing.com/browsebike/Ducati/Panigale_V4_S/2025/CP0507BL",
     "remarques": "Tampons anti-chute spécifiques, montage sans perçage"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections moteur",
-    "marque": "CNC Racing",
-    "modele": "Protection carter allumage",
-    "reference": "PES03B",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium taillé masse, protection crash"
-  },
+
   {
     "category": "Protection Moto",
     "PartType": "Protections moteur",
