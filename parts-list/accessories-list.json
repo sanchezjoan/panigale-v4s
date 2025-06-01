@@ -541,46 +541,6 @@
 
   {
     "category": "Protection Moto",
-    "PartType": "Protection bras oscillant",
-    "marque": "Ducati Performance",
-    "modele": "Protection bras oscillant carbone",
-    "reference": "96981321A",
-    "OriginalSKU": "96981321A",
-    "homologation": "Piste",
-    "prixmoyeneur": "240",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981321A",
-    "remarques": "Protection carbone pour bras oscillant, piste/route"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection cadre",
-    "marque": "Ducati Performance",
-    "modele": "Kit sliders avant/arrière",
-    "reference": "97380871A",
-    "homologation": "Piste",
-    "prixmoyeneur": "185",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97380871A",
-    "remarques": "Protection en cas de glissade, montage plug & play"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection cadre",
-    "marque": "Evotech Performance",
-    "modele": "Kit protections fourche/bras oscillant",
-    "reference": "EVO-PROT-V4-2025",
-    "OriginalSKU": "96981321A",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "90.15",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://gen-performance.com/collections/ducati-panigale-v4-2025",
-    "chicanesamovibles": "false",
-    "remarques": "Montage sans perçage, aluminium CNC"
-  },
-  {
-    "category": "Protection Moto",
     "PartType": "Protection carter moteur",
     "marque": "Evotech Performance",
     "modele": "Kit protections carter moteur",
