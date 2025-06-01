@@ -579,32 +579,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/couvre-culasse-carbone-panigale-v4",
     "remarques": "Protection esthétique et fonctionnelle"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection de bras oscillant",
-    "marque": "Ilmberger Carbon",
-    "modele": "Couvre-bras oscillant gauche carbone mat",
-    "reference": "ILM-CBOM-PV425",
-    "OriginalSKU": "96981321A",
-    "homologation": "Oui",
-    "prixmoyeneur": "399.90",
-    "compatibilitesellepassager": "Oui",
-    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
-    "remarques": "Protection côté gauche, finition mat, installation facile."
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection de cadre",
-    "marque": "Ilmberger Carbon",
-    "modele": "Couvre-bras oscillant droit carbone brillant",
-    "reference": "ILM-CBOB-PV425",
-    "OriginalSKU": "96981321A",
-    "homologation": "Oui",
-    "prixmoyeneur": "339.90",
-    "compatibilitesellepassager": "Oui",
-    "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
-    "remarques": "Protection contre les projections et les rayures, carbone véritable."
-  },
+ 
 
   ,
   {
