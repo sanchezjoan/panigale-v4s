@@ -1,3 +1,5 @@
+<img src="front-wheel-right-assembly.png" height="500" />
+
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |Front brake discs to front rim retainer                                     |10  |M8          |30*                                                  |Pre-applied threadlocker          |
