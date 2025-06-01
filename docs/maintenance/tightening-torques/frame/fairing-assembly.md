@@ -1,13 +1,15 @@
-|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
-|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
-|Upper headlight fairing/subframe/headlight fastener                         |2   |M5          |2.5                                                  |                                  |
-|Subframe to rear headlight fairing fastener                                 |2   |M5          |-                                                    |                                  |
-|Windscreen to headlight fairing fastener                                    |8   |M4          |0.2                                                  |                                  |
-|Lower to upper headlight fairing fastener                                   |2   |M5          |2.5                                                  |                                  |
-|Lower headlight fairing (cowlings) to headlight fastener                    |4   |M5          |-                                                    |                                  |
-|Lower headlight fairing to upper half fairing fastener                      |2   |M5          |2.5                                                  |                                  |
-|LH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
-|RH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
+<img src="front-fairing.png" height="500" />
+
+|REFERENCE|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|---|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
+| |Upper headlight fairing/subframe/headlight fastener                         |2   |M5          |2.5                                                  |                                  |
+| |Subframe to rear headlight fairing fastener                                 |2   |M5          |-                                                    |                                  |
+| 77510071AB |Windscreen to headlight fairing fastener (vis de bulle)          |8   |M4          |0.2                                                  |                                  |
+| |Lower to upper headlight fairing fastener                                   |2   |M5          |2.5                                                  |                                  |
+| |Lower headlight fairing (cowlings) to headlight fastener                    |4   |M5          |-                                                    |                                  |
+| |Lower headlight fairing to upper half fairing fastener                      |2   |M5          |2.5                                                  |                                  |
+| |LH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
+| |RH cowling to headlight fairing fastener                                    |2   |M5          |5                                                    |                                  |
 
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
