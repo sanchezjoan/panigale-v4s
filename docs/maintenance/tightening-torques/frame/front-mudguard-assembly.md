@@ -1,6 +1,6 @@
 # Couples de Serrage - Garde Boue Avant
 
-<img src="front-mudguard.png" />
+<img src="front-mudguard.png" height="400"/>
 
 |REF|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |-----------------------------------------------|---------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
