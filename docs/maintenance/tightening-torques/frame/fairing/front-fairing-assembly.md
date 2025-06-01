@@ -15,6 +15,9 @@
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |Fastener securing tank LH side cover to tank                                |1   |M5          |2.5                                                  |                                  |
 |Fastener securing tank RH side cover to tank                                |1   |M5          |2.5                                                  |                                  |
+
+|APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
+|----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |LH lower fairing to silencer cover fastener                                 |3   |Self-tapping|                                                     |                                  |
 |LH lower half fairing to LH upper half fairing fastener                     |1   |M5          |2.5                                                  |                                  |
 |Lower LH half fairing to Rad Duct fastener                                  |2   |M5          |2.5                                                  |                                  |
