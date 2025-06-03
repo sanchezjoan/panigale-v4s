@@ -7,7 +7,6 @@ PLEASE READ THE [DISCLAIMER](disclaimer.md) !
 - [Parts](/parts-list//readme.md)
 - [Prompts](/prompts/readme.md)
 
-YouTube Resources
-## 
+## YouTube Resources
 - [MotoMillion - 2025 Motomillion Panigale V4 2025](https://www.youtube.com/watch?v=41jwbxReopQ&list=PLpzj_CrGYHPKRoWg4F0yCs3FCM6Yn_GD7)
 - [BT Moto - Motorcycle Research and Development - 2025 Motomillion Panigale V4 2025](https://www.youtube.com/watch?v=QrLEFwghSX4&list=PLJGdZbnCP_CaESBfuhNdvXIHFIHOQ83yc)
