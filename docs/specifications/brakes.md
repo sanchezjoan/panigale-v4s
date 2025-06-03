@@ -2,16 +2,31 @@
 
 ### Frein avant
 
-2 disques semi-flottants de 330mm
+La Ducati Panigale V4S est équipée de 2 disques semi-flottants de 330mm pincés par 2 étriers radiaux monobloc Brembo Hypure à 4 pistons avec Race eCBS. 
 
 #### Etriers Radiaux monobloc Brembo Hypure
+Lancés officiellement en 2023, introduits en production en 2024, les étriers Hypure ont fait leurs débuts en équipement d'origine sur la nouvelle Ducati Panigale V4 2025.
 
 <img src="images/brembo-hypure.webp" height="500" />
 
-2 étriers radiaux monobloc Brembo Hypure à 4 pistons avec Race eCBS. Design a construction asymétrique, les Hypure ont réussi à perdre 30 grammes (10%) par rapport au Stylema. L'impact des masses non-suspendues étant très important sur le comportement d'une moto. Brembo aurait également breveté un nouveau système de fixation des plaquettes (essort/goupille), pour agrandir encore la surface de contact sur le disque et réduire encore un peu le couple résiduel (qui correspond au glissement des plaquettes sur le disque lorsqu'aucune force n'est appliquée au levier). 
-- Maitre cylindre autopurgeur.
+Les étriers Brembo Hypure se distinguent par leur design asymétrique révolutionnaire, une première dans l'histoire de la marque italienne. Cette approche conceptuelle inédite permet d'atteindre une réduction de poids de 10% (30 g) par rapport aux étriers de référence pour la même application comme les Stylema, faisant du Hypure l'étrier le plus léger de sa catégorie.
+
+Le nom "Hypure" lui-même reflète l'esprit innovant de Brembo, fusionnant les termes "Hyper" et "Pure" pour exprimer les performances supérieures et la conception rationnelle de l'étrier.
+
+Les étriers Hypure utilisent la technologie monobloc éprouvée de Brembo, fabriqués à partir d'un seul bloc d'aluminium grâce à un processus de coulée avancé.
+
+Les étriers Hypure intègrent quatre pistons de 30 mm de diamètre avec un espacement radial standard de 100 mm. Cette configuration assure une compatibilité optimale avec les systèmes existants tout en offrant une puissance de freinage supérieure . Il est recommandé de les associer à un maître-cylindre de 17 mm tel que le Brembo RCS 17 ou le RCS 17 Corsa Corta pour une performance optimale.
+
+Le Hypure intègre un système unique de ressort/plaquette/goupille basé sur une conception brevetée. Cette innovation, associée à une surface d'appui spécialement conçue entre l'étrier et la plaquette, minimise le couple résiduel et optimise le contact avec le disque.
+
+Les étriers Hypure utilisent des plaquettes spécifiques, disponibles en différentes compositions selon l'usage. Les plaquettes Z04 Racing sont destinées à un usage strictement piste avec un prix d'environ 170-190€ par étrier, tandis que les plaquettes Z03 Endurance offrent une durabilité exceptionnelle pour les courses d'endurance .
+
 
 ### Frein arrière
+
+
+- Maitre cylindre autopurgeur.
+
 
 Disque de 245mm, étrier 2 piston avec Race eCBS.
 
