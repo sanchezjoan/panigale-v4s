@@ -1,16 +1,5 @@
 [
-  {
-    "category": "Accessoires",
-    "PartType": "Batterie",
-    "marque": "Skyrich",
-    "modele": "Batterie lithium YT12B-BS",
-    "reference": "HJT12B-FP",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.skyrichbattery.com/yt12b-bs.html",
-    "remarques": "Batterie lithium allégée, compatible chargeur Ducati"
-  },
+ 
   {
     "category": "Accessoires",
     "PartType": "Électronique",
