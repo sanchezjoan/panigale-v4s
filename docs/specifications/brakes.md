@@ -2,6 +2,8 @@
 
 ### Frein avant
 
+<img src="brembo-hypure.webp" height="500" />
+
 2 disques semi-flottants de 330mm
 
 - étriers radiaux monobloc Brembo Hypure à 4 pistons avec Race eCBS. Grâce à leur nouveau design qui induit une construction asymétrique (qui ne compromettrait en rien leur rigidité) les Hypure ont réussi à perdre 30 grammes (10%) par rapport au Stylema. L'impact des masses non-suspendues étant très important sur le comportement d'une moto. Brembo aurait également breveté un nouveau système de fixation des plaquettes (essort/goupille), pour agrandir encore la surface de contact sur le disque et réduire encore un peu le couple résiduel (qui correspond au glissement des plaquettes sur le disque lorsqu'aucune force n'est appliquée au levier). Autre avancée, plus anecdotique, ils ont gagné 4% en capacité de dispersion de la chaleur. Hâte d'essayer ça !
