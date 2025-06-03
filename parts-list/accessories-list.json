@@ -25,18 +25,6 @@
   },
   {
     "category": "Accessoires",
-    "PartType": "Kit suppression rétroviseurs",
-    "marque": "Ducati Performance",
-    "modele": "Kit bouchons rétroviseurs",
-    "reference": "96981211AA",
-    "homologation": "Piste",
-    "prixmoyeneur": "55",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981211AA",
-    "remarques": "Permet de boucher proprement les fixations lors d’un usage piste"
-  },
-  {
-    "category": "Accessoires",
     "PartType": "Outillage spécifique",
     "marque": "Ducati",
     "modele": "Kit outils spéciaux V4 S 2025",
@@ -95,18 +83,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/support-paddock-panigale-v4",
     "remarques": "Entretien et stockage sécurisé"
   },
-  {
-    "category": "Accessoires",
-    "PartType": "Suppression béquille",
-    "marque": "Ducati Performance",
-    "modele": "Kit suppression béquille latérale",
-    "reference": "",
-    "homologation": "Compétition",
-    "prixmoyeneur": "60",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "",
-    "remarques": "Kit pour usage piste, nécessite shunt sécurité"
-  },
+
   {
     "category": "Carénage",
     "PartType": "Caches latéraux de radiateur",
