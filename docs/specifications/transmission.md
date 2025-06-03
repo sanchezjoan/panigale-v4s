@@ -4,7 +4,7 @@
 
 Boite de vitesse 6 vitesses avec Shifter Ducati (DQS) montée/descente 2.0
 
-<image src="Images/boite-de-vitesse.png" alt="Boite de vitesse" width="800" >
+<image src="images/boite-de-vitesse.png" alt="Boite de vitesse" width="800" >
 
 * Transmission primaire à Pignon à denture droite, ratio 1.80:1
 * Ratio transmission :
@@ -20,4 +20,4 @@ Boite de vitesse 6 vitesses avec Shifter Ducati (DQS) montée/descente 2.0
 
 Embrayage multidisque à bain d'huile à glissement limité. Maître cylindre auto purgeur.
 
-<image src="Images/embrayage-multidisques.png" alt="Embrayage multidisque à bain d'huile à glissement limité" width="800" >
+<image src="images/embrayage-multidisques.png" alt="Embrayage multidisque à bain d'huile à glissement limité" width="800" >
