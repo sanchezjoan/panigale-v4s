@@ -72,7 +72,6 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/support-paddock-panigale-v4",
     "remarques": "Entretien et stockage sécurisé"
   },
-
   {
     "category": "Carénage",
     "PartType": "Caches latéraux de radiateur",
@@ -135,8 +134,6 @@
     "lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
     "remarques": "Permet de transformer la moto en monoplace, finition carbone haut de gamme."
   },
- 
-  
   {
     "category": "Carénage",
     "PartType": "Sabot moteur",
@@ -199,7 +196,6 @@
     "chicanesamovibles": "n/a",
     "remarques": "Support de pare-brise en Carbone"
   },
-,
   {
     "category": "Commandes",
     "PartType": "Commandes reculées",
@@ -395,8 +391,6 @@
     "lienficheproduit": "https://www.brembo.com/fr/auto/pièces-de-rechange/maitre-cylindre-rcs-corsa-corta-110c74010",
     "remarques": "Réglage course morte, feeling piste"
   },
-
-
   {
     "category": "Protection Moto",
     "PartType": "Protection carter moteur",
@@ -437,22 +431,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/couvre-culasse-carbone-panigale-v4",
     "remarques": "Protection esthétique et fonctionnelle"
   },
- 
 
-  ,
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection levier embrayage",
-    "marque": "CNC Racing",
-    "modele": "Protection levier embrayage Evo",
-    "reference": "PLF03B",
-    "homologation": "Route",
-    "prixmoyeneur": "110",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf03b",
-    "remarques": "Aluminium, embout carbone, look racing"
-  },
-  ,
   {
     "category": "Protection Moto",
     "PartType": "Protection moteur",
@@ -540,18 +519,7 @@
     "lienficheproduit": "https://www.fullsixcarbon.com/product/engine-cover-kit-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
     "remarques": "Kit complet, finition brillante"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections radiateur",
-    "marque": "Evotech Performance",
-    "modele": "Radiator + Oil Cooler Guard",
-    "reference": "PRN014672-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "150",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://evotech-performance.com/products/ep-ducati-panigale-v4-radiator-guard-2025",
-    "remarques": "Grille aluminium, protection radiateur et huile"
-  },
+
   {
     "category": "Refroidissement",
     "PartType": "Kit durites silicone radiateur",
