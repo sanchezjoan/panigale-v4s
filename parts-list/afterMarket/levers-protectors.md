@@ -23,13 +23,23 @@
 
 - **Modèle** : Protection levier frein Evo
 - **Référence** : PLF02B
-- **Homologation** : Route
+- **Homologation** : Route/Piste
 - **Prix moyen** : 110 €
 - **Compatible selle passager** : Oui
-- **Lien** : [Voir la fiche produit](https://www.cncracing.com/en/ducati/panigale-v4-s-2025)
+- **Lien** : [Voir la fiche produit]([https://www.cncracing.com/en/ducati/panigale-v4-s-2025](https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf02b)
 - **Remarque** : Aluminium, embout carbone
 
 ---
+
+### CNC Racing - Protection levier frein Evo
+
+- **Modèle** : Protection levier embrayage Evo
+- **Référence** : PLF03B
+- **Homologation** : Route/Piste
+- **Prix moyen** : 110 €
+- **Compatible selle passager** : Oui
+- **Lien** : [Voir la fiche produit]([https://www.cncracing.com/en/ducati/panigale-v4-s-2025](https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf03b)
+- **Remarque** : Aluminium, embout carbone
 
 ## FullSix
 ### FullSix - Protection levier frein Carbone brillant
