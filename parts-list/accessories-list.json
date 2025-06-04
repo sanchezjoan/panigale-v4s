@@ -1,16 +1,5 @@
 [
-  {
-    "category": "Accessoires",
-    "PartType": "Embouts de cadre",
-    "marque": "CNC Racing",
-    "modele": "Kit protections cadre",
-    "reference": "TPR01B",
-    "homologation": "Route",
-    "prixmoyeneur": "70",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Tampons anti-chute"
-  },
+
   {
     "category": "Accessoires",
     "PartType": "Embouts de guidon",
@@ -147,30 +136,7 @@
     "remarques": "Permet de transformer la moto en monoplace, finition carbone haut de gamme."
   },
  
-  {
-    "category": "Carénage",
-    "PartType": "Kit cache cylindre",
-    "marque": "Carbonvani",
-    "modele": "Kit couvercles de cylindre carbone",
-    "reference": "DV4S25-39",
-    "homologation": "Oui",
-    "prixmoyeneur": "270.00",
-    "compatibilitesellepassager": "Oui",
-    "lienficheproduit": "https://www.carbonvani.com/en/product-page/kit-cover-cilindri",
-    "remarques": "Protection thermique et esthétique du haut moteur."
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Kit cache cylindre",
-    "marque": "Carbonvani",
-    "modele": "Kit couvercles de cylindre carbone unique",
-    "reference": "DV4S25-39",
-    "homologation": "Oui",
-    "prixmoyeneur": "270.00",
-    "compatibilitesellepassager": "Oui",
-    "lienficheproduit": "https://www.carbonvani.com/en/product-page/kit-cover-cilindri-unico",
-    "remarques": "Protection thermique et esthétique du haut moteur."
-  },
+  
   {
     "category": "Carénage",
     "PartType": "Sabot moteur",
