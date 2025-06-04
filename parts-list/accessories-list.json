@@ -260,68 +260,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/guidons-racing-panigale-v4",
     "remarques": "Position optimisée pour usage circuit"
   },
-  {
-    "category": "Commandes",
-    "PartType": "Leviers",
-    "marque": "CNC Racing",
-    "modele": "Levier frein Evo",
-    "reference": "LEV33B",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, réglable, anodisé"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Leviers",
-    "marque": "CNC Racing",
-    "modele": "Levier embrayage Evo",
-    "reference": "LEV34B",
-    "homologation": "Route",
-    "prixmoyeneur": "120",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, réglable, anodisé"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Leviers",
-    "marque": "Ducati Performance",
-    "modele": "Kit leviers frein/embrayage usinés",
-    "reference": "96981391A",
-    "homologation": "Route",
-    "prixmoyeneur": "450",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/leviers-cnc-panigale-v4s-2025",
-    "chicanesamovibles": "false",
-    "remarques": "Réglage micrométrique 6 positions"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Leviers",
-    "marque": "Ducati Performance",
-    "modele": "Leviers de frein et embrayage réglables",
-    "reference": "96180561A",
-    "homologation": "Route",
-    "prixmoyeneur": "210",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96180561A",
-    "remarques": "Leviers taillés masse, réglables, pour adaptation ergonomique"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Leviers",
-    "marque": "Rizoma",
-    "modele": "3D",
-    "reference": "LBJ700B / LBJ701B",
-    "homologation": "Route",
-    "prixmoyeneur": "180",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.rizoma.com/fr/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium taillé masse"
-  },
+ 
   {
     "category": "Commandes",
     "PartType": "Poignées",
