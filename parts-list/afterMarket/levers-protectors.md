@@ -4,8 +4,7 @@
 - reference": "96180571A",
 - "prixmoyeneur": "99",
 - "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/protection-levier-frein-panigale-v4"
-- 
----
+
 ### Ducati Performance - Protection levier frein avant Carbone
 
 - **Modèle** : Protection levier frein avant carbone
@@ -16,28 +15,23 @@
 - **Lien** : [Voir la fiche produit](https://shop.ducati.com/fr/fr/accessoires/protection-levier-frein-96180541a.html)
 - **Remarque** : Obligatoire en compétition, carbone, montage plug \& play
 
----
+### Ducati Performance- Kit protections leviers",
+- reference": "97381041A",
+- prixmoyeneur": "320",
+- lienficheproduit": "https://shop.ducati.com/fr/fr/protections-leviers-97381041a.html",
+- "Aluminium CNC avec insert carbone, montage direct"
 
 ## CNC Racing
 ### CNC Racing - Protection levier frein Evo
-
 - **Modèle** : Protection levier frein Evo
 - **Référence** : PLF02B
-- **Homologation** : Route/Piste
 - **Prix moyen** : 110 €
-- **Compatible selle passager** : Oui
 - **Lien** : [Voir la fiche produit]([https://www.cncracing.com/en/ducati/panigale-v4-s-2025](https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf02b)
 - **Remarque** : Aluminium, embout carbone
 
----
-
 ### CNC Racing - Protection levier frein Evo
-
-- **Modèle** : Protection levier embrayage Evo
 - **Référence** : PLF03B
-- **Homologation** : Route/Piste
 - **Prix moyen** : 110 €
-- **Compatible selle passager** : Oui
 - **Lien** : [Voir la fiche produit]([https://www.cncracing.com/en/ducati/panigale-v4-s-2025](https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-levier-embrayage-evo-plf03b)
 - **Remarque** : Aluminium, embout carbone
 
@@ -51,8 +45,6 @@
 - **Compatible selle passager** : Oui
 - **Lien** : [Voir la fiche produit](https://www.fullsixcarbon.com/product/brake-lever-protector-ducati-panigale-v4-v4s-v4r-carbon-gloss/)
 - **Remarque** : Carbone finition brillante
-
----
 
 ## Evotech Performance
 ### Evotech Performance - Protège-levier de frein
