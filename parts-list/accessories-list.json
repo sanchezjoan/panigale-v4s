@@ -72,56 +72,7 @@
     "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/support-paddock-panigale-v4",
     "remarques": "Entretien et stockage sécurisé"
   },
-  {
-    "category": "Carénage",
-    "PartType": "Caches latéraux de radiateur",
-    "marque": "Ducati Performance",
-    "modele": "Caches latéraux radiateur carbone",
-    "reference": "96981311A",
-    "homologation": "Route",
-    "prixmoyeneur": "320",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/96981311A",
-    "remarques": "Caches latéraux pour radiateur, carbone, look racing"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Capot de selle",
-    "marque": "Ducati Performance",
-    "modele": "Capot de selle",
-    "reference": "97181061AA",
-    "homologation": "Route",
-    "prixmoyeneur": "260",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/capot-de-selle-97181061aa.html",
-    "remarques": "Remplace la selle passager"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Capot de selle",
-    "marque": "Ducati Performance",
-    "modele": "Capot de selle monoplace",
-    "reference": "97180851A",
-    "homologation": "Route",
-    "prixmoyeneur": "180",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/capot-selle-panigale-v4",
-    "remarques": "Cache selle passager pour config monoplace"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Carénage complet",
-    "marque": "S2 CONCEPT",
-    "modele": "Set complet carénage racing",
-    "reference": "S2-FULL-V4-2025",
-    "homologation": "Piste",
-    "prixmoyeneur": "1890",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://www.s2-concept.com/fr/20584-set-complet-carenage-racing-s2-concept-ducati-panigale-v4-a-partir-de-2025.html",
-    "chicanesamovibles": "true",
-    "remarques": "Fibre de verre + renforts carbone/kevlar"
-  },
+
   {
     "category": "Carénage",
     "PartType": "Dosseret de selle",
@@ -405,20 +356,7 @@
     "chicanesamovibles": "false",
     "remarques": "Protection CNC, montage plug & play"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection commandes",
-    "marque": "Ducati Performance",
-    "modele": "Kit protections leviers",
-    "reference": "97381041A",
-    "homologation": "Circuit",
-    "prixmoyeneur": "320",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/protections-leviers-97381041a.html",
-    "chicanesamovibles": "false",
-    "remarques": "Aluminium CNC avec insert carbone, montage direct"
-  },
+ 
   {
     "category": "Protection Moto",
     "PartType": "Protection culasse",
