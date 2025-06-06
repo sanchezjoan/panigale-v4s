@@ -1,6 +1,6 @@
 <img src="confident-mechanic-parts-bikini.png" height="600" />
 
-All parts :
+Aftermarket parts :
 
 - [Air Filters](air-filters.md)
 - [Alternator Covers](alternator-covers.md)
