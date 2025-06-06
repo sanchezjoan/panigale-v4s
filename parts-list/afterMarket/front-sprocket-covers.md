@@ -1,4 +1,6 @@
-# Carbonvani – Cache pignon carbone brillant
+# Cache pignon sortie de boîte
+## Carbonvani
+### Carbonvani – Cache pignon carbone brillant
 
 - **Catégorie** : Carénage
 - **Type de pièce** : Cache pignon sortie de boîte
@@ -12,9 +14,8 @@
 - **Lien fiche produit** : [Voir produit](https://www.carbonvani.com/product-page/cover-pignone-13)
 - **Remarques** : Carbone finition brillante
 
----
 
-# Carbonvani – Cache pignon carbone mat
+### Carbonvani – Cache pignon carbone mat
 
 - **Catégorie** : Carénage
 - **Type de pièce** : Cache pignon sortie de boîte
@@ -29,8 +30,8 @@
 - **Remarques** : Carbone finition mat
 
 ---
-
-# CNC Racing – Cache pignon carbone
+## CNC Racing
+### CNC Racing – Cache pignon carbone
 
 - **Catégorie** : Carénage
 - **Type de pièce** : Cache pignon sortie de boîte
@@ -45,8 +46,8 @@
 - **Remarques** : Carbone, look racing
 
 ---
-
-# Ducati Performance – Cache pignon carbone mat
+## Ducati Performance
+### Ducati Performance – Cache pignon carbone mat
 
 - **Catégorie** : Carénage
 - **Type de pièce** : Cache pignon sortie de boîte
@@ -60,9 +61,7 @@
 - **Lien fiche produit** : [Voir produit](https://shop.ducati.com/fr/fr/accessoires/cache-pignon-carbone-97381301aa.html)
 - **Remarques** : Carbone finition mate
 
----
-
-# Ducati Performance – Cache pignon carbone brillant
+### Ducati Performance – Cache pignon carbone brillant
 
 - **Catégorie** : Carénage
 - **Type de pièce** : Cache pignon sortie de boîte
@@ -76,9 +75,7 @@
 - **Lien fiche produit** : [Voir produit](https://shop.ducati.com/fr/fr/accessoires/cache-pignon-carbone-97381302aa.html)
 - **Remarques** : Carbone finition brillante
 
----
-
-# Ducati Performance – Cache pignon carbone (haut de gamme)
+### Ducati Performance – Cache pignon carbone (haut de gamme)
 
 - **Catégorie** : Carénage
 - **Type de pièce** : Cache pignon sortie de boîte
