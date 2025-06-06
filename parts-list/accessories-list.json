@@ -147,54 +147,7 @@
     "chicanesamovibles": "n/a",
     "remarques": "Support de pare-brise en Carbone"
   },
-  {
-    "category": "Commandes",
-    "PartType": "Commandes reculées",
-    "marque": "Bonamici Racing",
-    "modele": "Repose-pieds réglables Panigale V4 S MY25",
-    "reference": "PEV4S25",
-    "homologation": "Piste",
-    "prixmoyeneur": "600",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://www.bonamiciracing.it/en/ducati/pe-v4s25.html",
-    "remarques": "Commandes racing réglables, compatible quickshifter d’origine"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Commandes reculées",
-    "marque": "CNC Racing",
-    "modele": "RR EVO",
-    "reference": "ADJDUC08",
-    "homologation": "Route",
-    "prixmoyeneur": "750",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Repose-pieds réglables, usinage CNC, compatible quickshifter"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Commandes reculées",
-    "marque": "Ducati Performance",
-    "modele": "Repose-pieds réglables racing",
-    "reference": "96280671A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "490",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/repose-pieds-racing-panigale-v4",
-    "remarques": "Position multi-réglable, kit racing"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Commandes reculées",
-    "marque": "Spider",
-    "modele": "WSBK Evo",
-    "reference": "SPIDER-WSBK-EVO-2025",
-    "homologation": "Racing",
-    "prixmoyeneur": "890.00",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://www.desmo-racing.com/commande-reculees-spider-wsbk-ducati-panigale-v4-2025-xml-246_774-8420.html",
-    "remarques": "Cale pied 4 positions, selecteur racing inversé, nécessite carénage racing"
-  },
+ 
   {
     "category": "Commandes",
     "PartType": "Guidons racing",
@@ -268,32 +221,7 @@
     "compatibilitesellepassager": "true",
     "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
     "remarques": "Aluminium, anodisé"
-  },
-  {
-    "category": "Embrayage",
-    "PartType": "Cloche d’embrayage",
-    "marque": "CNC Racing",
-    "modele": "Cloche d’embrayage Racing",
-    "reference": "CCM03",
-    "homologation": "Route",
-    "prixmoyeneur": "250",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Pour kit embrayage sec CNC ou Ducati"
-  },
- 
-  {
-    "category": "Embrayage",
-    "PartType": "Embrayage sec (kit)",
-    "marque": "CNC Racing",
-    "modele": "Kit embrayage sec",
-    "reference": "KDUC16",
-    "homologation": "Route",
-    "prixmoyeneur": "1900",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Kit complet, plug & play, bruit Ducati typique"
-  },
+  }
   {
     "category": "Freinage",
     "PartType": "Bouchon de réservoir de liquide de frein",
