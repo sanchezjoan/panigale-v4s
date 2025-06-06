@@ -1,4 +1,3 @@
-
 # Protections d’embrayage et couvercles pour Ducati Panigale V4 S 2025
 ## Ducati Performance
 ### Ducati Performance – Protection carter embrayage carbone
