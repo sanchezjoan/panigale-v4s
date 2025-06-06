@@ -1,9 +1,5 @@
 # Protections bras oscillant
-## Evotech Performance
-### Evotech Performance - Protections bras oscillant
-- reference": "PRN014877-01",
-- OriginalSKU": "96981321A",
-- lienficheproduit": "https://evotech-performance.com/products/ep-rear-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp",
+  
 ## Ducati Performance
 ### Ducati Performance - Protection bras oscillant carbone
 - reference": "96981321A",
@@ -19,6 +15,11 @@
 - remarques": "Protection en cas de glissade, montage plug & play"
 
 ## Evotech Performance
+### Evotech Performance - Protections bras oscillant
+- reference": "PRN014877-01",
+- OriginalSKU": "96981321A",
+- lienficheproduit": "https://evotech-performance.com/products/ep-rear-axle-sliders-ducati-panigale-v4-v4s-v4r-streetfighter-v4-v4s-v4sp"
+  
 ### Evotech Performance - Kit protections fourche/bras oscillan
 - reference": "EVO-PROT-V4-2025",
 - OriginalSKU": "96981321A",
@@ -40,3 +41,12 @@
 - prixmoyeneur": "339.90",
 - lienficheproduit": "https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025",
 - remarques": "Protection contre les projections et les rayures, carbone véritable."
+
+## CNC Racing
+### CNC Racing - Protection bras oscillant carbone",
+- reference": "PRC01C",
+- OriginalSKU": "96981321A",
+- prixmoyeneur": "220",
+- lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025/protection-bras-oscillant-carbone-prc01c",
+- Carbone, protège le bras oscillant contre les chutes
+
