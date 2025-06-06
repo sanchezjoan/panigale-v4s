@@ -1,7 +1,6 @@
-
 # Jantes pour Ducati Panigale V4 S 2025
-
-## OZ Racing Piega R (Aluminium forgé)
+## OZ Racing 
+### OZ Racing Piega R (Aluminium forgé)
 
 - **Modèle** : Piega R
 - **Référence** : W0112A0R01T
@@ -11,9 +10,8 @@
 - **Lien** : [Voir la fiche produit](https://www.ozmotorbike.com/en/products/piega-r)
 - **Remarque** : Aluminium forgé
 
----
-
-## Rotobox Boost Carbon (Carbone)
+## Rotobox 
+### Rotobox Boost Carbon (Carbone)
 
 - **Modèle** : Boost Carbon
 - **Référence** : RBX2DUCAV4S
@@ -23,9 +21,8 @@
 - **Lien** : [Voir la fiche produit](https://www.rotobox-wheels.com/products/boost-ducati-panigale-v4)
 - **Remarque** : Carbone
 
----
-
-## Ducati Performance Kit jantes forgées magnésium
+## Ducati Performance
+### Ducati Performance Kit jantes forgées magnésium
 
 - **Modèle** : Kit jantes forgées magnésium
 - **Référence** : 96380751A
@@ -36,8 +33,8 @@
 - **Remarque** : Gain de poids, usage piste
 
 ---
-
-## Marchesini Kit jantes magnésium forgé Panigale V4 S 2025
+## Marchesini
+### Marchesini Kit jantes magnésium forgé Panigale V4 S 2025
 
 - **Modèle** : Kit jantes magnésium forgé Panigale V4 S 2025
 - **Référence** : 96481281AA
