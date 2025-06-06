@@ -1,4 +1,6 @@
-# Skyrich - Batterie lithium YT12B-BS",
+# Batteries
+## # Skyrich
+### Skyrich - Batterie lithium YT12B-BS",
 - "reference": "HJT12B-FP",
 - prixmoyeneur": "120",
 - lienficheproduit": "https://www.skyrichbattery.com/yt12b-bs.html",
