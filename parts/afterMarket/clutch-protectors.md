@@ -20,9 +20,9 @@ Non compatible avec l'embrayage à sec.
 <img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4.jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (1).jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (2).jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (3).jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (4).jpg" height="300" />
 
 ### CNC Racing – Couvercle d’embrayage ajouré carbone
-- **Référence** : CCM11
+- **Référence** : PR310BPR
 - **Homologation** : Route/Piste
-- **Prix moyen** : 170 €
-- **Compatible selle passager** : Oui
-- **Lien** : [Voir la fiche produit](https://www.cncracing.com/en/ducati/panigale-v4-s-2025)
-- Protection, look racing, carbone
+- **Prix moyen** : 219,30 €
+- **Lien** : [Voir la fiche produit](https://www.carbon4us.com/en/embrague/8141-ducati-v4-pramac-edition-clutch-cover.html?_gl=1*md6tp*_up*MQ..*_ga*NTk4NDU2NDUuMTc0OTMyNTI1Mg..*_ga_YMQWVJL8P0*czE3NDkzMjUyNTEkbzEkZzEkdDE3NDkzMjUzNTckajE4JGwwJGgxMDU1NDMyMQ..)
+  
+<img src="cnc-racing/cnc-racing-ducati-v4-pramac-edition-clutch-cover.jpg" height="300" />
