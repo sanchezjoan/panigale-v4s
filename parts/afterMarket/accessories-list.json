@@ -13,30 +13,6 @@
   },
   {
     "category": "Carénage",
-    "PartType": "Sabot moteur",
-    "marque": "FullSix",
-    "modele": "Sabot moteur carbone mat",
-    "reference": "MD-DV4-LBM21M",
-    "homologation": "Route",
-    "prixmoyeneur": "530",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/lower-belly-pan-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Carénage",
-    "PartType": "Sabot moteur",
-    "marque": "FullSix",
-    "modele": "Sabot moteur carbone brillant",
-    "reference": "MD-DV4-LBM21G",
-    "homologation": "Route",
-    "prixmoyeneur": "530",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/lower-belly-pan-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
-  {
-    "category": "Carénage",
     "PartType": "Sous-carénage",
     "marque": "Carbonvani",
     "modele": "Sous-carénage en carbone twill opaque",
@@ -81,7 +57,7 @@
     "lienficheproduit": "https://www.domino-group.com/fr/produits/ducati-panigale-v4-s",
     "remarques": "Poignées racing antidérapantes, confort et grip améliorés"
   },
- 
+ {
     "category": "Freinage",
     "PartType": "Conduits de refroidissement de freins",
     "marque": "Carbonvani",
