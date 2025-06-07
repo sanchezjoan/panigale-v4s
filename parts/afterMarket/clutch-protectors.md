@@ -8,7 +8,7 @@
 - La légèreté et la résistance des fibres de carbone et des fibres d'aramide sont combinées à un design attrayant et à une finition typiquement racing dans un accessoire qui offre une protection maximale en cas de glissade et exalte l'âme sportive et élégante de la Panigale.
 Non compatible avec l'embrayage à sec.
 
-<img src="ducati-performance/protection-embrayage-ducati-performance.png" height="400" />
+<img src="ducati-performance/protection-embrayage-ducati-performance.png" height="300" />
   
 ## CNC Racing
 ### CNC Racing – Protection carter embrayage
@@ -26,3 +26,13 @@ Non compatible avec l'embrayage à sec.
 - **Lien** : [Voir la fiche produit](https://www.carbon4us.com/en/embrague/8141-ducati-v4-pramac-edition-clutch-cover.html?_gl=1*md6tp*_up*MQ..*_ga*NTk4NDU2NDUuMTc0OTMyNTI1Mg..*_ga_YMQWVJL8P0*czE3NDkzMjUyNTEkbzEkZzEkdDE3NDkzMjUzNTckajE4JGwwJGgxMDU1NDMyMQ..)
   
 <img src="cnc-racing/cnc-racing-ducati-v4-pramac-edition-clutch-cover.jpg" height="300" />
+
+# FullSix
+## FullSix
+### FullSix - FullSix clutch cover for Ducati Streetfighter-Panigale V4
+- **Référence** :  MD-V418-C72
+- **Homologation** : Route/Piste
+- **Prix moyen** : 114 €
+Available in glossy or matte finish.
+
+<img src="fullsix/fullsix-clutch-cover-panigale-v4.jpg" height="300" /><img src="fullsix/fullsix-clutch-cover-panigale-v4 (1).jpg" height="300" /><img src="fullsix/fullsix-clutch-cover-panigale-v4 (2).jpg" height="300" />
