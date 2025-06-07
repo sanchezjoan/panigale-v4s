@@ -1,77 +1,7 @@
 [
 
-  {
-    "category": "Accessoires",
-    "PartType": "Embouts de guidon",
-    "marque": "CNC Racing",
-    "modele": "Embouts Evo",
-    "reference": "RPP01B",
-    "homologation": "Route",
-    "prixmoyeneur": "45",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, plusieurs couleurs"
-  },
-  {
-    "category": "Accessoires",
-    "PartType": "Outillage spécifique",
-    "marque": "Ducati",
-    "modele": "Kit outils spéciaux V4 S 2025",
-    "reference": "887133003",
-    "homologation": "N/A",
-    "prixmoyeneur": "850",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "",
-    "remarques": "Kit atelier officiel Ducati pour V4 S 2025 (voir catalogue pièces origine[1])"
-  },
-  {
-    "category": "Accessoires",
-    "PartType": "Outils spéciaux",
-    "marque": "Ducati",
-    "modele": "Kit outils spéciaux Panigale V4",
-    "reference": "voir catalogue OUTILS",
-    "homologation": "N/A",
-    "prixmoyeneur": "0",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://github.com/sanchezjoan/panigale-v4s/blob/main/tools-reference.json",
-    "remarques": "Outils spécifiques pour maintenance moteur/châssis"
-  },
-  {
-    "category": "Accessoires",
-    "PartType": "Purge rapide",
-    "marque": "Ducati Performance",
-    "modele": "Kit purge rapide frein/embrayage",
-    "reference": "96180591A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "55",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/purge-rapide-panigale-v4",
-    "remarques": "Facilite la maintenance circuit hydraulique"
-  },
-  {
-    "category": "Accessoires",
-    "PartType": "Support de béquille de stand",
-    "marque": "CNC Racing",
-    "modele": "Diabolo stand",
-    "reference": "DA200B",
-    "homologation": "Route",
-    "prixmoyeneur": "40",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Pour béquille atelier, aluminium"
-  },
-  {
-    "category": "Accessoires",
-    "PartType": "Support paddock",
-    "marque": "Ducati Performance",
-    "modele": "Support de paddock avant/arrière",
-    "reference": "96780571A",
-    "homologation": "N/A",
-    "prixmoyeneur": "210",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/support-paddock-panigale-v4",
-    "remarques": "Entretien et stockage sécurisé"
-  },
+ 
+ 
 
   {
     "category": "Carénage",
@@ -148,18 +78,7 @@
     "remarques": "Support de pare-brise en Carbone"
   },
  
-  {
-    "category": "Commandes",
-    "PartType": "Guidons racing",
-    "marque": "Ducati Performance",
-    "modele": "Guidons racing aluminium",
-    "reference": "96180511A",
-    "homologation": "Compétition",
-    "prixmoyeneur": "160",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/guidons-racing-panigale-v4",
-    "remarques": "Position optimisée pour usage circuit"
-  },
+  
  
   {
     "category": "Commandes",
@@ -173,18 +92,7 @@
     "lienficheproduit": "https://www.domino-group.com/fr/produits/ducati-panigale-v4-s",
     "remarques": "Poignées racing antidérapantes, confort et grip améliorés"
   },
-  {
-    "category": "Commandes",
-    "PartType": "Selle",
-    "marque": "Ducati Performance",
-    "modele": "Selle confort/racing",
-    "reference": "96880961A",
-    "homologation": "Route",
-    "prixmoyeneur": "230",
-    "compatibilitesellepassager": "false",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/selle-racing-panigale-v4",
-    "remarques": "Absorption vibration, usage intensif"
-  },
+ 
   {
     "category": "Commandes",
     "PartType": "Tête de fourche",
