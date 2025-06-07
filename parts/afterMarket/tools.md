@@ -1,0 +1,36 @@
+ {
+    "category": "Accessoires",
+    "PartType": "Outillage spécifique",
+    "marque": "Ducati",
+    "modele": "Kit outils spéciaux V4 S 2025",
+    "reference": "887133003",
+    "homologation": "N/A",
+    "prixmoyeneur": "850",
+    "compatibilitesellepassager": "true",
+    "lienficheproduit": "",
+    "remarques": "Kit atelier officiel Ducati pour V4 S 2025 (voir catalogue pièces origine[1])"
+  },
+  {
+    "category": "Accessoires",
+    "PartType": "Outils spéciaux",
+    "marque": "Ducati",
+    "modele": "Kit outils spéciaux Panigale V4",
+    "reference": "voir catalogue OUTILS",
+    "homologation": "N/A",
+    "prixmoyeneur": "0",
+    "compatibilitesellepassager": "true",
+    "lienficheproduit": "https://github.com/sanchezjoan/panigale-v4s/blob/main/tools-reference.json",
+    "remarques": "Outils spécifiques pour maintenance moteur/châssis"
+  },
+  {
+    "category": "Accessoires",
+    "PartType": "Purge rapide",
+    "marque": "Ducati Performance",
+    "modele": "Kit purge rapide frein/embrayage",
+    "reference": "96180591A",
+    "homologation": "Compétition",
+    "prixmoyeneur": "55",
+    "compatibilitesellepassager": "true",
+    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/purge-rapide-panigale-v4",
+    "remarques": "Facilite la maintenance circuit hydraulique"
+  },
