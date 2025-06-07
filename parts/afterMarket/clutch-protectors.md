@@ -1,12 +1,15 @@
 # Protections d’embrayage et couvercles pour Ducati Panigale V4 S 2025
-## Ducati Performance
+## Ducati Performance  
 ### Ducati Performance – Protection carter embrayage carbone
-- **Référence** : 96981331A
+- **Référence** : 96981071B
 - **Homologation** : Route/Piste
-- **Prix moyen** : 220 €
-- **Lien** : [Voir la fiche produit](https://shop.ducati.com/fr/fr/accessoires/96981331A)
-- Protection carbone pour carter d’embrayage, montage plug\&play
+- **Prix moyen** : 297 €
+- **Lien** : [Voir la fiche produit](https://www.ducatigrenoble.com/protection-carter-embrayage-carbone-ducati-panigale-v4-2025.html)
+- La légèreté et la résistance des fibres de carbone et des fibres d'aramide sont combinées à un design attrayant et à une finition typiquement racing dans un accessoire qui offre une protection maximale en cas de glissade et exalte l'âme sportive et élégante de la Panigale.
+Non compatible avec l'embrayage à sec.
 
+<img src="ducati-performance/protection-embrayage-ducati-performance" height="500" />
+  
 ## CNC Racing
 ### CNC Racing – Protection carter embrayage
 - **Référence** : PES01B
