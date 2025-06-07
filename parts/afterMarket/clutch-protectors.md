@@ -8,7 +8,7 @@
 - La légèreté et la résistance des fibres de carbone et des fibres d'aramide sont combinées à un design attrayant et à une finition typiquement racing dans un accessoire qui offre une protection maximale en cas de glissade et exalte l'âme sportive et élégante de la Panigale.
 Non compatible avec l'embrayage à sec.
 
-<img src="ducati-performance/protection-embrayage-ducati-performance" height="500" />
+<img src="ducati-performance/protection-embrayage-ducati-performance.png" height="500" />
   
 ## CNC Racing
 ### CNC Racing – Protection carter embrayage
