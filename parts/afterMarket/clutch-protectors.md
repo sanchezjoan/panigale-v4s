@@ -8,15 +8,16 @@
 - La légèreté et la résistance des fibres de carbone et des fibres d'aramide sont combinées à un design attrayant et à une finition typiquement racing dans un accessoire qui offre une protection maximale en cas de glissade et exalte l'âme sportive et élégante de la Panigale.
 Non compatible avec l'embrayage à sec.
 
-<img src="ducati-performance/protection-embrayage-ducati-performance.png" height="500" />
+<img src="ducati-performance/protection-embrayage-ducati-performance.png" height="400" />
   
 ## CNC Racing
 ### CNC Racing – Protection carter embrayage
-- **Référence** : PES01B
+- **Référence** : PR310BS
 - **Homologation** : Route/Piste
-- **Prix moyen** : 120 €
-- **Lien** : [Voir la fiche produit](https://www.cncracing.com/en/ducati/panigale-v4-s-2025)
-- Aluminium taillé masse, protection crash
+- **Prix moyen** : 185,64 €
+- **Lien** : [Voir la fiche Carbon4US](https://www.carbon4us.com/en/embrague/7589-cnc-racing-clutch-cover-for-panigale-v4.html?_gl=1*8xy9pz*_up*MQ..*_ga*NTk4NDU2NDUuMTc0OTMyNTI1Mg..*_ga_YMQWVJL8P0*czE3NDkzMjUyNTEkbzEkZzEkdDE3NDkzMjUzMzAkajQ1JGwwJGgxMDU1NDMyMQ..)
+
+<img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4.jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (1).jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (2).jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (3).jpg" height="300" /><img src="cnc-racing/cnc-racing-clutch-cover-for-panigale-v4 (4).jpg" height="300" />
 
 ### CNC Racing – Couvercle d’embrayage ajouré carbone
 - **Référence** : CCM11
