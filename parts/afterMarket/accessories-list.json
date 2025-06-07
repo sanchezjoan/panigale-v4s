@@ -1,8 +1,4 @@
 [
-
- 
- 
-
   {
     "category": "Carénage",
     "PartType": "Dosseret de selle",
@@ -71,90 +67,21 @@
     "reference": "DV4S24-03D",
     "homologation": "Route",
     "prixmoyeneur": "390",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
     "lienficheproduit": "https://www.carbonvani.com/product-page/supporto-cupolino",
     "chicanesamovibles": "n/a",
     "remarques": "Support de pare-brise en Carbone"
   },
- 
-  
- 
   {
     "category": "Commandes",
     "PartType": "Poignées",
     "marque": "Domino",
     "modele": "Poignées racing Panigale V4 S 2025",
     "reference": "A26041C4540-0",
-    "homologation": "Route et piste",
     "prixmoyeneur": "35",
-    "compatibilitesellepassager": "true",
     "lienficheproduit": "https://www.domino-group.com/fr/produits/ducati-panigale-v4-s",
     "remarques": "Poignées racing antidérapantes, confort et grip améliorés"
   },
  
-  {
-    "category": "Commandes",
-    "PartType": "Tête de fourche",
-    "marque": "FullSix",
-    "modele": "Tête de fourche carbone mat",
-    "reference": "MD-DV4-FP21M",
-    "homologation": "Route",
-    "prixmoyeneur": "730",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fairing-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Carbone finition mate"
-  },
-  {
-    "category": "Commandes",
-    "PartType": "Tête de fourche",
-    "marque": "FullSix",
-    "modele": "Tête de fourche carbone brillant",
-    "reference": "MD-DV4-FP21G",
-    "homologation": "Route",
-    "prixmoyeneur": "730",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/front-fairing-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Carbone finition brillante"
-  },
-
-  {
-    "category": "Embrayage",
-    "PartType": "Bouchon de purge d’embrayage",
-    "marque": "CNC Racing",
-    "modele": "Bouchon purge embrayage",
-    "reference": "TF451B",
-    "homologation": "Route",
-    "prixmoyeneur": "25",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, anodisé"
-  }
-  {
-    "category": "Freinage",
-    "PartType": "Bouchon de réservoir de liquide de frein",
-    "marque": "CNC Racing",
-    "modele": "Bouchon maître-cylindre avant",
-    "reference": "TF441B",
-    "homologation": "Route",
-    "prixmoyeneur": "40",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, anodisé, plusieurs couleurs"
-  },
-  {
-    "category": "Freinage",
-    "PartType": "Bouchon de réservoir de liquide de frein",
-    "marque": "CNC Racing",
-    "modele": "Bouchon maître-cylindre arrière",
-    "reference": "TF442B",
-    "homologation": "Route",
-    "prixmoyeneur": "35",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-    "remarques": "Aluminium, anodisé, plusieurs couleurs"
-  },
-  {
     "category": "Freinage",
     "PartType": "Conduits de refroidissement de freins",
     "marque": "Carbonvani",
@@ -178,123 +105,7 @@
     "lienficheproduit": "https://www.brembo.com/fr/auto/pièces-de-rechange/maitre-cylindre-rcs-corsa-corta-110c74010",
     "remarques": "Réglage course morte, feeling piste"
   },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection carter moteur",
-    "marque": "Evotech Performance",
-    "modele": "Kit protections carter moteur",
-    "reference": "PRN015183-01",
-    "homologation": "Route et piste",
-    "prixmoyeneur": "180",
-    "volumesonoredb": "N/A",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://evotech-performance.com/products/ep-engine-guard-ducati-panigale-v4-v4s-v4r",
-    "chicanesamovibles": "false",
-    "remarques": "Protection CNC, montage plug & play"
-  },
- 
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection culasse",
-    "marque": "Ducati Performance",
-    "modele": "Couvre-culasse carbone",
-    "reference": "96981361A",
-    "homologation": "Route",
-    "prixmoyeneur": "210",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/couvre-culasse-carbone-panigale-v4",
-    "remarques": "Protection esthétique et fonctionnelle"
-  },
-
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection moteur",
-    "marque": "Ducati Performance",
-    "modele": "Kit protections carters moteur aluminium",
-    "reference": "97181091AA",
-    "homologation": "Piste",
-    "prixmoyeneur": "320",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://shop.ducati.com/fr/fr/accessoires/97181091AA",
-    "remarques": "Protection usinée pour carters, recommandée pour la piste"
-  },
-
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection réservoir",
-    "marque": "FullSix",
-    "modele": "Protection réservoir carbone mat",
-    "reference": "MD-DV4-TPC21M",
-    "homologation": "Route",
-    "prixmoyeneur": "110",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/tank-protector-ducati-panigale-v4-v4s-v4r-carbon-matte/",
-    "remarques": "Finition mate"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protection réservoir",
-    "marque": "FullSix",
-    "modele": "Protection réservoir carbone brillant",
-    "reference": "MD-DV4-TPC21G",
-    "homologation": "Route",
-    "prixmoyeneur": "110",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/tank-protector-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Finition brillante"
-  },
- 
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections cadre",
-    "marque": "R&G Racing",
-    "modele": "Crash Protectors",
-    "reference": "CP0507BL",
-    "homologation": "Route",
-    "prixmoyeneur": "180",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.rg-racing.com/browsebike/Ducati/Panigale_V4_S/2025/CP0507BL",
-    "remarques": "Tampons anti-chute spécifiques, montage sans perçage"
-  },
-
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections moteur",
-    "marque": "DBK Special Parts",
-    "modele": "Kit protections moteur carbone mat",
-    "reference": "DBK-ENG-V4S25-MAT",
-    "homologation": "Route",
-    "prixmoyeneur": "240",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
-    "remarques": "Kit complet carbone finition mate"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections moteur",
-    "marque": "DBK Special Parts",
-    "modele": "Kit protections moteur carbone brillant",
-    "reference": "DBK-ENG-V4S25-BRI",
-    "homologation": "Route",
-    "prixmoyeneur": "250",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.carbon4us.com/fr/10709-panigale-v4-2025",
-    "remarques": "Kit complet carbone finition brillante"
-  },
-  {
-    "category": "Protection Moto",
-    "PartType": "Protections moteur",
-    "marque": "FullSix",
-    "modele": "Kit protections carters carbone brillant",
-    "reference": "MD-DV4-ENGG",
-    "homologation": "Route",
-    "prixmoyeneur": "320",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://www.fullsixcarbon.com/product/engine-cover-kit-ducati-panigale-v4-v4s-v4r-carbon-gloss/",
-    "remarques": "Kit complet, finition brillante"
-  },
-
-  {
+   {
     "category": "Refroidissement",
     "PartType": "Kit durites silicone radiateur",
     "marque": "Samco Sport",
@@ -332,18 +143,7 @@
     "lienficheproduit": "https://www.rizoma.com/fr/negozio/retroviseurs/BSS040/stealth-bss040/motorbike/18152/ducati/panigale-v4/",
     "remarques": "Embouts de Guidon, Design aéronautique, verre remplaçable, compatible Light Unit FR070BM"
   },
-  {
-    "category": "Suspensions",
-    "PartType": "Suspension",
-    "marque": "Öhlins",
-    "modele": "Steering Damper Upgrade Kit 2025",
-    "reference": "SDU-V4S25",
-    "homologation": "Piste",
-    "prixmoyeneur": "650",
-    "compatibilitesellepassager": "true",
-    "lienficheproduit": "https://ohlins.eu/fr/produits/steering-damper-upgrade-kit-panigale-v4s-2025",
-    "remarques": "Amortisseur de direction racing, plug & play"
-  },
+
   {
     "category": "Transmission",
     "PartType": "Pare-chaîne",
