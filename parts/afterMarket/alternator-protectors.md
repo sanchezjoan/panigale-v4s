@@ -19,4 +19,4 @@
 - **Prix Moyen**:  118 €
 - [Fiche Carbon4US](https://www.carbon4us.com/en/carbono/8145-fullsix-camshaft-cover-for-ducati-panigale-v4.html)
 - Entirely made of carbon fibre of premium quality, this part replaces the original, while enhancing both aesthetics and performances of the bike
-<img src="fullsix-camshaft-cover-for-ducati-panigale-v4.jpg" height="300" /><img src="fullsix-camshaft-cover-for-ducati-panigale-v4 (1).jpg" height="300" /><img src="fullsix-camshaft-cover-for-ducati-panigale-v4 (2).jpg" height="300" />
+<img src="fullsix/fullsix-camshaft-cover-for-ducati-panigale-v4.jpg" height="300" /><img src="fullsix/fullsix-camshaft-cover-for-ducati-panigale-v4 (1).jpg" height="300" /><img src="fullsix/fullsix-camshaft-cover-for-ducati-panigale-v4 (2).jpg" height="300" />
