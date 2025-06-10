@@ -1,4 +1,5 @@
-<img src="confident-mechanic-parts-bikini.png" height="600" />
+
+<img src="confident-mechanic-parts-bikini.png" height="800" />
 
 Aftermarket parts :
 
