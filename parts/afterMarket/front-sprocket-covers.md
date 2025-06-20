@@ -1,11 +1,6 @@
 # Cache pignon sortie de boîte
 ## Carbonvani
 ### Carbonvani – Cache pignon carbone brillant
-
-- **Catégorie** : Carénage
-- **Type de pièce** : Cache pignon sortie de boîte
-- **Marque** : Carbonvani
-- **Modèle** : Cache pignon carbone brillant
 - **Référence** : DV4S25-36
 - **SKU Original** : 4601R941A
 - **Homologation** : Route
@@ -16,11 +11,6 @@
 
 
 ### Carbonvani – Cache pignon carbone mat
-
-- **Catégorie** : Carénage
-- **Type de pièce** : Cache pignon sortie de boîte
-- **Marque** : Carbonvani
-- **Modèle** : Cache pignon carbone mat
 - **Référence** : DV4S25-36
 - **SKU Original** : 4601R941A
 - **Homologation** : Route
@@ -29,14 +19,9 @@
 - **Lien fiche produit** : [Voir produit](https://www.carbonvani.com/product-page/cover-pignone-13)
 - **Remarques** : Carbone finition mat
 
----
+  
 ## CNC Racing
 ### CNC Racing – Cache pignon carbone
-
-- **Catégorie** : Carénage
-- **Type de pièce** : Cache pignon sortie de boîte
-- **Marque** : CNC Racing
-- **Modèle** : Cache pignon carbone
 - **Référence** : CPR01C
 - **SKU Original** : 4601R941A
 - **Homologation** : Route
@@ -45,7 +30,21 @@
 - **Lien fiche produit** : [Voir produit](https://www.cncracing.com/en/ducati/panigale-v4-s-2025)
 - **Remarques** : Carbone, look racing
 
----
+  
+<img src="cnc-racing/panigale-v4-2025-cnc-racing-carbon-front-sprocket-cover.jpg" height="300" />
+### CNC Racing – Cache pignon Aluminium
+- **Référence** : CPR01C
+- **SKU Original** : 4601R941A
+
+  <img src="cnc-racing/protecteur-de-pignon-cnc-ducati-panigalestreetfighter-v4-2025-dore.jpg" height="300" />  <img src="cnc-racing/protecteur-de-pignon-cnc-ducati-panigalestreetfighter-v4-2025-rouge.jpg" height="300" />  <img src="cnc-racing/protecteur-de-pignon-cnc-ducati-panigalestreetfighter-v4-2025-noir.jpg" height="300" />
+    <img src="cnc-racing/protecteur-de-pignon-cnc-ducati-panigalestreetfighter-v4-2025-noir (1).jpg" height="300" />
+
+### CNC Racing – Cache pignon Aluminium Racing
+- **Référence** : CP172R
+- **SKU Original** : 4601R941A
+
+<img src="cnc-racing/couvercle-de-pignon-cnc-racing-cp172-pour-ducati-v4.jpg" height="300" />
+
 ## Ducati Performance
 ### Ducati Performance – Cache pignon carbone mat
 
