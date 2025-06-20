@@ -22,6 +22,7 @@
   
 ## CNC Racing
 ### CNC Racing – Cache pignon carbone
+
 - **Référence** : CPR01C
 - **SKU Original** : 4601R941A
 - **Homologation** : Route
@@ -32,7 +33,9 @@
 
   
 <img src="cnc-racing/panigale-v4-2025-cnc-racing-carbon-front-sprocket-cover.jpg" height="300" />
+
 ### CNC Racing – Cache pignon Aluminium
+
 - **Référence** : CPR01C
 - **SKU Original** : 4601R941A
 
