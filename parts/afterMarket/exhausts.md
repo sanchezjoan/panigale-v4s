@@ -9,8 +9,8 @@ Vis # 2 M5x10
 - **Homologation**: Route et Circuit
 - **Biplace**:
 - **Poids**:
-- **Gain CV **:
-- **Gain NM **:
+- **Gain CV**:
+- **Gain NM**:
 - **Volume Sonore**:
 - **Prix €**: 6 998,40 €
 - [Fiche Produit](https://shop.ducatimilano.com/fr/312396-ccc.html?id_currency=1&id_country=37)
@@ -22,8 +22,8 @@ Vis # 2 M5x10
 - **Homologation**: Circuit Uniquement
 - **Biplace**: Biplace
 - **Poids**: -6kg
-- **Gain CV **: +8cv
-- **Gain NM **: +3.4Nm
+- **Gain CV**: +8cv
+- **Gain NM**: +3.4Nm
 - **Volume Sonore**:
 - **Prix €**: 3 300 €
 - [Fiche Ducati Milaon](https://shop.ducatimilano.com/fr/312397-silencieux-racing-96482341aa-ducati-panigale-v4.html?id_country=8)
@@ -60,7 +60,6 @@ Vis # 2 M5x10
 <img src="akrapovic/" height="500" />
 
 ### Full Works -[Fiche Produit](https://www.arrow.it/fr/assembled/1911/Ducati-Panigale-V4-2025)
-
 Circuit
 
 <img src="akrapovic/" height="500" />
