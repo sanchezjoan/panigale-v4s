@@ -6,7 +6,7 @@ Vis # 2 M5x10
 ## Akrapovic
 ### Échappement Ducati by Akrapovic Euro5+ 
 - **SKU**: **96482331AA**
-- **Homologation**: Circuit Uniquement
+- **Homologation**: Route et Circuit
 - **Biplace**:
 - **Poids**:
 - **Gain CV **:
@@ -17,7 +17,7 @@ Vis # 2 M5x10
 
 <img src="akrapovic/silencieux 96482331AA  Ducati Panigale V4.jpg" height="500" />
 
-### [Échappements Racing Ducati Performance Slip On]() - [Vidéo Son](https://www.reddit.com/r/Ducati/comments/1ik06m7/2025_ducati_panigale_v4_stock_exhaust_vs/?tl=fr) - [Fiche Carbon4Us](https://www.carbon4us.com/fr/echappement/587198-echappements-racing-ducati-performance-par-akrapovic-panigale-v4-2025.html?_gl=1*a35hv1*_up*MQ..*_ga*MTMxMDk3NTY5OS4xNzQ2NzM2MjQw*_ga_YMQWVJL8P0*czE3NDY3MzYyMzkkbzEkZzEkdDE3NDY3MzYyNDkkajAkbDAkaDcxNjgwODY1Ng)
+### [Échappements Racing Ducati Performance Slip On]() - [Vidéo Son](https://www.reddit.com/r/Ducati/comments/1ik06m7/2025_ducati_panigale_v4_stock_exhaust_vs/?tl=fr) 
 - **SKU**: **96482341AA**
 - **Homologation**: Circuit Uniquement
 - **Biplace**: Biplace
@@ -26,8 +26,12 @@ Vis # 2 M5x10
 - **Gain NM **: +3.4Nm
 - **Volume Sonore**:
 - **Prix €**: 3 300 €
-
-<img src="akrapovic/" height="500" />
+- [Fiche Ducati Milaon](https://shop.ducatimilano.com/fr/312397-silencieux-racing-96482341aa-ducati-panigale-v4.html?id_country=8)
+- [Fiche Carbon4Us](https://www.carbon4us.com/fr/echappement/587198-echappements-racing-ducati-performance-par-akrapovic-panigale-v4-2025.html?_gl=1*a35hv1*_up*MQ..*_ga*MTMxMDk3NTY5OS4xNzQ2NzM2MjQw*_ga_YMQWVJL8P0*czE3NDY3MzYyMzkkbzEkZzEkdDE3NDY3MzYyNDkkajAkbDAkaDcxNjgwODY1Ng)
+-  À combiner avec la cuve inférieure (96981931AA) ou aux carénages pour échappements racing (97181321AA).
+-  Non homologué sur route ouverte, cartographie à faire modifier en concession
+  
+<img src="akrapovic/silencieux-racing-96482341aa-ducati-panigale-v4.jpg" height="500" />
 
 ### Ligne d'Échappement Racing en Titane 
 - **SKU**: **96482351BA**
