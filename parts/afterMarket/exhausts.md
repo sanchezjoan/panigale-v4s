@@ -38,8 +38,8 @@ Vis # 2 M5x10
 - **Homologation**: Circuit Uniquement
 - **Biplace**: Monoplace
 - **Poids**:  -6.6kg
-- **Gain CV **: +12cv
-- **Gain NM **:  +7Nm 
+- **Gain CV**: +12cv
+- **Gain NM**:  +7Nm 
 - **Volume Sonore**:  107db 105db avec Chicane
 - **Prix €**: 7 208,35 €
 
@@ -50,7 +50,6 @@ Vis # 2 M5x10
 - **Homologation**: Circuit
 
 <img src="akrapovic/" height="500" />
-
 ## Arrow
 ### Works
 - **SKU**: 71163PK
@@ -72,10 +71,10 @@ Circuit
 
 <img src="akrapovic/" height="500" />
 
-  
 ## Spark
 ### LIGNE D' ECHAPPEMENT TITANE SPARK DYNO RACING -[Fiche Desmo Racing](https://www.desmo-racing.com/ligne-echappement-titane-spark-dyno-racing-ducati-panigale-v4-2025-gdu8854t-xml-447_773-8669.html) 
 GDU8854T
 - **Homologation**: Circuit  
 - **Prix €**: 8,314.00€ TTC
+  
 <img src="akrapovic/" height="500" />
