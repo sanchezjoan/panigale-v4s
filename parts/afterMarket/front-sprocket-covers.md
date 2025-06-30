@@ -85,8 +85,17 @@
 - **Modèle** : Cache pignon carbone
 - **Référence** : 96981191A
 - **SKU Original** : 4601R941A
-- **Homologation** : Route
 - **Prix moyen (EUR)** : 135
 - **Compatibilité selle passager** : true
 - **Lien fiche produit** : [Voir produit](https://shop.ducati.com/fr/fr/accessoires/96981191A)
 - **Remarques** : Cache pignon carbone, finition haut de gamme
+
+## MotoCorse
+## MotoCorse Couvercle pignon en Aluminium Anticorodal usiné.
+- **Référence**: 102111004G
+- Disponible en Rouge, Or, Argent et Noir
+- **Prix moyen (EUR)** : 470
+- **Lien fiche produit** : [Fiche Carbon4US](https://www.carbon4us.com/fr/detachees-et-consommables/15530-couvercle-pignon-moto-corse-ducati-panigale-et-streetfighter-v4.html#/649-couleur-or)
+
+  <img src="motocorse/couvercle-pignon-moto-corse-ducati-panigale-et-streetfighter-v4.jpg" height="300" /> <img src="motocorse/couvercle-pignon-moto-corse-ducati-panigale-et-streetfighter-v4 (1).jpg" height="300" />
+    <img src="motocorse/couvercle-pignon-moto-corse-ducati-panigale-et-streetfighter-v4 (2).jpg" height="300" />    <img src="motocorse/couvercle-pignon-moto-corse-ducati-panigale-et-streetfighter-v4 (2).jpg" height="300" />    <img src="motocorse/couvercle-pignon-moto-corse-ducati-panigale-et-streetfighter-v4 (4).jpg" height="300" />
