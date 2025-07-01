@@ -1,6 +1,6 @@
 # Echappements
 
-![Echappement](image.png)
+<img src="echappement.png" height="400" />
 
 Vis # 2 M5x10
 ## Akrapovic
