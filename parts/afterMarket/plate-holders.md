@@ -8,7 +8,8 @@
 - **Lien fiche produit** : [Voir produit](https://www.carbonvani.com/en/product-page/porta-targa-9)
 - **Remarques** : Look racing, poids réduit, homologué route.
 
-<img src="carbonvani/carbonvani-support-de-plaque.avif"  height"300" /><img src="carbonvani/carbonvani-support-de-plaque-2.avif"  height"300" /><img src="carbonvani/carbonvani-support-de-plaque-3.png" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-4.png" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-5.pngg" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-6.jpg" height"300" />
+<img src="carbonvani/carbonvani-support-de-plaque.avif" height"300" />
+<img src="carbonvani/carbonvani-support-de-plaque-2.avif" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-3.png" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-4.png" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-5.pngg" height"300" /><img src="carbonvani/carbonvani-support-de-plaque-6.jpg" height"300" />
 
 ## CNC Racing
 ### CNC Racing – Support de plaque Racing
