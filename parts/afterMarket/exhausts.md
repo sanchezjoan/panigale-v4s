@@ -30,7 +30,7 @@ Vis # 2 M5x10
 - [Fiche Carbon4Us](https://www.carbon4us.com/fr/echappement/587198-echappements-racing-ducati-performance-par-akrapovic-panigale-v4-2025.html?_gl=1*a35hv1*_up*MQ..*_ga*MTMxMDk3NTY5OS4xNzQ2NzM2MjQw*_ga_YMQWVJL8P0*czE3NDY3MzYyMzkkbzEkZzEkdDE3NDY3MzYyNDkkajAkbDAkaDcxNjgwODY1Ng)
 -  À combiner avec la cuve inférieure (96981931AA) ou aux carénages pour échappements racing (97181321AA).
 -  Non homologué sur route ouverte, cartographie à faire modifier en concession
-  
+- [Installation Video](https://www.youtube.com/watch?v=r9i_0lrS_lw&t=180s)
 <img src="akrapovic/silencieux-racing-96482341aa-ducati-panigale-v4.jpg" height="500" />
 
 ### Ligne d'Échappement Racing en Titane 
@@ -45,21 +45,21 @@ Vis # 2 M5x10
 
 <img src="akrapovic/gruppo-di-scarico-racing-completo-in-titanio-96482351ba-ducati-panigale-v4-s.jpg" height="500" />
 
-### SC Project
+### SC Project - Modele 2024 "compatible"
 [Youtube 1](https://www.youtube.com/watch?v=0-bqUD-j3RA) 
 - **Homologation**: Circuit
 
-<img src="akrapovic/" height="500" />
 ## Arrow
 ### Works
 - **SKU**: 71163PK
-- **Homologation**: 
-- **Prix €**:
+- **Homologation**: Circuit uniquement
+- **Prix €**: 3500 €
 
-<img src="akrapovic/" height="500" />
+<img src="arrow/463529-works-full-titanium-racing-terminal-with-fittings-arrow-ducati-panigale-v4-2025.png" height="300" /><img src="arrow/470726-works-full-dark-titanium-racing-terminal-with-fittings-arrow-ducati-panigale-v4-2025.png" height="300" />
 
-### Full Works -[Fiche Produit](https://www.arrow.it/fr/assembled/1911/Ducati-Panigale-V4-2025)
-Circuit
+### Full Works
+-[Fiche Produit](https://www.arrow.it/fr/assembled/1911/Ducati-Panigale-V4-2025)
+- **Homologation**: Circuit uniquement
 
 <img src="akrapovic/" height="500" />
 
@@ -67,14 +67,15 @@ Circuit
 ### LIGNE D' ECHAPPEMENT TERMIGNONI SBK D231[Fiche Produit](https://termignoni.store/fr/echappements-termignoni-ducati-panigale-v4-s-2025/1380-ligne-termignoni-ducati-panigale-v4-2025.html)                                  - **SKU**: **D23109400ITC**
 - **Homologation**:  Circuit
 -  Monoplace   
-- **Prix €**:  4,968.00€ TTC
+- **Prix €**:  4968 €
 
 <img src="akrapovic/" height="500" />
 
 ## Spark
-### LIGNE D' ECHAPPEMENT TITANE SPARK DYNO RACING -[Fiche Desmo Racing](https://www.desmo-racing.com/ligne-echappement-titane-spark-dyno-racing-ducati-panigale-v4-2025-gdu8854t-xml-447_773-8669.html) 
+### LIGNE D' ECHAPPEMENT TITANE SPARK DYNO RACING
 GDU8854T
 - **Homologation**: Circuit  
 - **Prix €**: 8,314.00€ TTC
-  
+-[Fiche Desmo Racing](https://www.desmo-racing.com/ligne-echappement-titane-spark-dyno-racing-ducati-panigale-v4-2025-gdu8854t-xml-447_773-8669.html)
+
 <img src="akrapovic/" height="500" />
