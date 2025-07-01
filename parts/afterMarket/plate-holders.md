@@ -52,23 +52,6 @@
 - **Chicanes amovibles** : false
 - **Remarques** : Inclut support clignotants et éclairage LED
 
-## FullSix
-### FullSix – Support de plaque carbone mat
-- **Référence** : MD-DV4-LPH21M
-- **Homologation** : Route
-- **Prix moyen (EUR)** : 170
-- **Compatibilité selle passager** : true
-- **Lien fiche produit** : [Voir produit](https://www.fullsixcarbon.com/product/license-plate-holder-ducati-panigale-v4-v4s-v4r-carbon-matte/)
-- **Remarques** : Carbone finition mate
-
-### FullSix – Support de plaque carbone brillant
-- **Référence** : MD-DV4-LPH21G
-- **Homologation** : Route
-- **Prix moyen (EUR)** : 170
-- **Compatibilité selle passager** : true
-- **Lien fiche produit** : [Voir produit](https://www.fullsixcarbon.com/product/license-plate-holder-ducati-panigale-v4-v4s-v4r-carbon-gloss/)
-- **Remarques** : Carbone finition brillante
-
 ## Rizoma
 ### Rizoma – Fox Panigale V4 2025
 - **Référence** : RIZ-FOX-V4-2025
@@ -79,4 +62,3 @@
 - **Lien fiche produit** : [Voir produit](https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025)
 - **Chicanes amovibles** : false
 - **Remarques** : Homologué, design racing
-
