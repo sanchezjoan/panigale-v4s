@@ -11,6 +11,7 @@ Vis # 2 M5x10
 - **Poids**:
 - **Gain CV**:
 - **Gain NM**:
+- **Chicanes Amovibles**: Non
 - **Volume Sonore**:
 - **Prix €**: 6 998,40 €
 - [Fiche Produit](https://shop.ducatimilano.com/fr/312396-ccc.html?id_currency=1&id_country=37)
@@ -25,6 +26,7 @@ Vis # 2 M5x10
 - **Gain CV**: +8cv
 - **Gain NM**: +3.4Nm
 - **Volume Sonore**:
+- **Chicanes Amovibles**: Oui
 - **Prix €**: 3 300 €
 - [Fiche Ducati Milaon](https://shop.ducatimilano.com/fr/312397-silencieux-racing-96482341aa-ducati-panigale-v4.html?id_country=8)
 - [Fiche Carbon4Us](https://www.carbon4us.com/fr/echappement/587198-echappements-racing-ducati-performance-par-akrapovic-panigale-v4-2025.html?_gl=1*a35hv1*_up*MQ..*_ga*MTMxMDk3NTY5OS4xNzQ2NzM2MjQw*_ga_YMQWVJL8P0*czE3NDY3MzYyMzkkbzEkZzEkdDE3NDY3MzYyNDkkajAkbDAkaDcxNjgwODY1Ng)
@@ -40,7 +42,8 @@ Vis # 2 M5x10
 - **Biplace**: Monoplace
 - **Poids**:  -6.6kg
 - **Gain CV**: +12cv
-- **Gain NM**:  +7Nm 
+- **Gain NM**:  +7Nm
+- **Chicanes Amovibles**: Oui
 - **Volume Sonore**:  107db 105db avec Chicane
 - **Prix €**: 7 208,35 €
 
@@ -49,30 +52,34 @@ Vis # 2 M5x10
 ### SC Project - Modele 2024 "compatible"
 [Youtube 1](https://www.youtube.com/watch?v=0-bqUD-j3RA) 
 - **Homologation**: Circuit
-
+- **Chicanes Amovibles**: Non
+  
 ## Arrow
 ### Works
 - **SKU**: 71163PK
 - **Homologation**: Circuit uniquement
+- **Biplace**: Biplace
+- **Poids**: 	2,8kg (-7kg ?)
 - **Prix €**: 3500 €
-
-<img src="arrow/463529-works-full-titanium-racing-terminal-with-fittings-arrow-ducati-panigale-v4-2025.png" height="300" /><img src="arrow/470726-works-full-dark-titanium-racing-terminal-with-fittings-arrow-ducati-panigale-v4-2025.png" height="300" />
-
-### Full Works
-- **Homologation**: Circuit uniquement
-- **Biplace**: Monoplace
+- **Chicanes Amovibles**: Non
 - [Fiche Produit](https://www.arrow.it/fr/assembled/1911/Ducati-Panigale-V4-2025)
   
-<img src="akrapovic/" height="500" />
+<img src="arrow/463529-works-full-titanium-racing-terminal-with-fittings-arrow-ducati-panigale-v4-2025.png" height="300" /><img src="arrow/470726-works-full-dark-titanium-racing-terminal-with-fittings-arrow-ducati-panigale-v4-2025.png" height="300" />
 
 ## Termignoni
 ### LIGNE D' ECHAPPEMENT TERMIGNONI SBK D231
 - **SKU**: **D23109400ITC**
 - **Homologation**: Circuit uniquement
-- **Biplace**: Monoplace   
-- **Prix €**:  4968 €
-- [Fiche Produit](https://termignoni.store/fr/echappements-termignoni-ducati-panigale-v4-s-2025/1380-ligne-termignoni-ducati-panigale-v4-2025.html)                                  
-<img src="akrapovic/" height="500" />
+- **Biplace**: Biplace ? Compatible avec les repose-pieds passagers !
+- Poids: -3,1 kg 
+- +21,2 chevaux à 14 200 tr/min
+- +27,7 chevaux en gain maximal
+- +13 Nm de couple à 11 100 tr/min
+- **Prix €**:  4968 € - 5 244,00 EUR
+- [Fiche Produit](https://termignoni.store/fr/echappements-termignoni-ducati-panigale-v4-s-2025/1380-ligne-termignoni-ducati-panigale-v4-2025.html)                   - 
+- Support de plaque en course de développement, disponibilité prévue juin 2025.
+
+<img src="termignoni/ligne-termignoni-ducati-panigale-v4-2025.jpg" height="300" /><img src="termignoni/ligne-termignoni-ducati-panigale-v4-2025 (1).jpg" height="300" /><img src="termignoni/ligne-termignoni-ducati-panigale-v4-2025 (2).jpg" height="300" /><img src="termignoni/ligne-termignoni-ducati-panigale-v4-2025 (3).jpg" height="300" /><img src="termignoni/ligne-termignoni-ducati-panigale-v4-2025 (4).jpg" height="300" />
 
 ## Spark
 ### LIGNE D' ECHAPPEMENT TITANE SPARK DYNO RACING
