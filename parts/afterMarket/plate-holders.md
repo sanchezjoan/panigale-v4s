@@ -48,6 +48,8 @@
 
 Kit avec support de plaque 173x173 mm, support de plaque USA 166x89,5 mm, supports pour clignotants Rizoma, éclairage de plaque d’immatriculation à LED SMD (homologué) et catadioptre.
 
+<img src="rizoma/fox/pt546-plate-holder-rizoma-fox-1.jpg" height="300" /><img src="rizoma/fox/pt546-plate-holder-rizoma-fox-2.jpg" height="300" /><img src="rizoma/fox/pt546-plate-holder-rizoma-fox-3.jpg" height="300" /><img src="rizoma/fox/pt546-plate-holder-rizoma-fox-4.jpg" height="300" /><img src="rizoma/fox/pt546-plate-holder-rizoma-fox-5.jpg" height="300" />
+
 ### Rizoma – Fender ELiminator USA
 - **Référence** : PTU014
 - **Homologation** : Route USA
@@ -66,7 +68,9 @@ Animé par la quête de perfection, le support de plaque en aluminium est doté 
 Le nom du produit fait directement référence aux deux options de montage rendues possibles par les deux supports en aluminium fournis, offrant aux motards la liberté de choisir leur style préféré : “FLAT” pour une configuration plus intégrée et “OUT” pour une disposition standard.
 
 Pour une expérience d’achat et de montage optimale, le Fender Eliminator FLAT-OUT est vendu en kit complet, avec toutes les résistances et le câblage inclus pour une installation véritablement Plug & Play.
-- 
+
+<img src="rizoma/fender-eliminator/PTU014-plate-holder-rizoma-fender-eliminator-1.jpg" height="300" /><img src="rizoma/fender-eliminator/PTU014-plate-holder-rizoma-fender-eliminator-2.jpg" height="300" />
+
 ### MG BIKETEC – Support de Plaque Court
 - **Référence** : 
 - **Homologation** : Route
