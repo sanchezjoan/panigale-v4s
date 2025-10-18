@@ -10,31 +10,15 @@
 
 <img src="carbonvani/carbonvani-support-de-plaque.avif" height="300" /><img src="carbonvani/carbonvani-support-de-plaque-2.avif" height="300" /><img src="carbonvani/carbonvani-support-de-plaque-3.png" height="300" /><img src="carbonvani/carbonvani-support-de-plaque-4.png" height="300" /><img src="carbonvani/carbonvani-support-de-plaque-5.pngg" height="300" /><img src="carbonvani/carbonvani-support-de-plaque-6.jpg" height="300" />
 
-## CNC Racing
-### CNC Racing – Support de plaque Racing
-- **Référence** : PT210B
-- **Homologation** : Route
-- **Prix moyen (EUR)** : 140
-- **Compatibilité selle passager** : true
-- **Lien fiche produit** : [Voir produit](https://www.cncracing.com/en/ducati/panigale-v4-s-2025)
-- **Remarques** : Aluminium, léger, clignotants compatibles
-
 ## Ducati Performance 
-### Ducati Performance – Pack Sport V4 2025
-- **Référence** : 97981431AA
-- **Homologation** : Route
-- **Prix moyen (EUR)** : 228.00
-- **Compatibilité selle passager** : true
-- **Lien fiche produit** : [Voir produit](https://www.carbon4us.com/fr/detachees-et-consommables/587203-pack-d-accessoires-sport-ducati-performance-panigale-stf-v4-2025.html)
-- **Remarques** : Support carbone + détails aluminium anodisé, compatible Panigale V4/S 2025
-
 ### Ducati Performance – Support de plaque carbone
 - **Référence** : 97381281A
 - **Homologation** : Route
 - **Prix moyen (EUR)** : 270
 - **Compatibilité selle passager** : true
 - **Lien fiche produit** : [Voir produit](https://shop.ducati.com/fr/fr/accessoires/97381281A)
-- **Remarques** : Support de plaque allégé, carbone
+- **Lien fiche produit** : [Voir produit](https://www.carbon4us.com/fr/detachees-et-consommables/587203-pack-d-accessoires-sport-ducati-performance-panigale-stf-v4-2025.html)
+- **Remarques** : Support carbone + détails aluminium anodisé, compatible Panigale V4/S 2025
 
 ## Evotech Performance
 ### Evotech Performance – Support de plaque court
@@ -54,11 +38,42 @@
 
 ## Rizoma
 ### Rizoma – Fox Panigale V4 2025
-- **Référence** : RIZ-FOX-V4-2025
+- **Référence** : PT546B
 - **Homologation** : Route
 - **Prix moyen (EUR)** : 299
-- **Volume sonore (dB)** : N/A
+- **Compatibilité selle passager** : true
+- **Exhaust Compatibility** : Le support de plaque d'immatriculation Rizoma PT546B n'est pas compatible avec Ensemble échappement complet en titane Akrapovic® (Ref. Ducati 96482351BA). Il est en revanche compatible avec Silencieux racing Akrapovic® (Ref. Ducati 96482341AA) et Silencieux Akrapovic® (Ref. Ducati 96482331AA).
+- **Product Links** : [See Rizoma product page PT546B](https://cycle.rizoma.com/fr/negozio/support-dimmatriculation/PT546/kit-support-dimmatriculation-fox-pt546/motorbike/18151/ducati/panigale-v4)
+- **Remarques** : Réalisé en aluminium, chaque kit support d’immatriculation Fox est spécifiquement conçu pour le modèle de moto auquel il est destiné. Il s’intègre ainsi à la perfection à la ligne de la moto et rend en outre l’installation facile et rapide. En effet, chaque kit est fourni avec tout le matériel nécessaire pour un montage qui ne requiert aucune modification aux composants OEM. Une grande fonctionnalité et des dimensions extrêmement réduites, toujours en conformité avec les normes réglementaires. Les kits Fox comprennent l’éclairage de plaque d’immatriculation à LED SMD et les supports pour clignotants Rizoma. Ils sont réglables et fournis avec un arrêt de sécurité, pour garantir une inclinaison correcte.
+
+Kit avec support de plaque 173x173 mm, support de plaque USA 166x89,5 mm, supports pour clignotants Rizoma, éclairage de plaque d’immatriculation à LED SMD (homologué) et catadioptre.
+
+### Rizoma – Fender ELiminator USA
+- **Référence** : PTU014
+- **Homologation** : Route USA
+- **Prix moyen (EUR)** : n/a
+- **Compatibilité selle passager** : true
+- **Exhaust Compatibility** : Le support de plaque d'immatriculation Rizoma PT546B n'est pas compatible avec Ensemble échappement complet en titane Akrapovic® (Ref. Ducati 96482351BA). Il est en revanche compatible avec Silencieux racing Akrapovic® (Ref. Ducati 96482341AA) et Silencieux Akrapovic® (Ref. Ducati 96482331AA).
+- **Product Links** : [See Rizoma product page PTU014](https://cycle.rizoma.com/fr/negozio/support-dimmatriculation/PTU014/flat-out-fender-eliminator-ptu014/motorbike/18151/ducati/panigale-v4/)
+- **Remarques** : Issu d’un profond engagement envers la communauté motocycliste nord-américaine, Rizoma dévoile une nouvelle déclaration audacieuse d’excellence en design et d’innovation technologique : FLAT-OUT, le seul support d’immatriculation que vous voudrez sur votre moto.
+
+Fabriquée en Italie, cette nouvelle icône redéfinit les règles du design de l’arrière de la moto, alliant harmonieusement esthétique épurée et fonctionnalité lumineuse avancée à travers un accessoire unique qui affine les lignes de toute moto.
+
+Sa barre lumineuse entièrement intégrée et multifonction regroupe l’éclairage de plaque et les clignotants séquentiels dans une unité compacte et minimaliste, commune à tous les modèles. La technologie LED la plus avancée, élégamment dissimulée derrière un verre fumé noir, offre des performances lumineuses grand angle irréprochables.
+
+Animé par la quête de perfection, le support de plaque en aluminium est doté de fentes de montage et d’un profil ultra-fin pour réduire au maximum la masse non suspendue, tout en conservant un système léger et axé sur la performance.
+
+Le nom du produit fait directement référence aux deux options de montage rendues possibles par les deux supports en aluminium fournis, offrant aux motards la liberté de choisir leur style préféré : “FLAT” pour une configuration plus intégrée et “OUT” pour une disposition standard.
+
+Pour une expérience d’achat et de montage optimale, le Fender Eliminator FLAT-OUT est vendu en kit complet, avec toutes les résistances et le câblage inclus pour une installation véritablement Plug & Play.
+- 
+### MG BIKETEC – Support de Plaque Court
+- **Référence** : 
+- **Homologation** : Route
+- **Prix moyen (EUR)** : 299
 - **Compatibilité selle passager** : true
 - **Lien fiche produit** : [Voir produit](https://www.sport-classic.com/14666-top-bike-ducati-panigale-v4-2025)
 - **Chicanes amovibles** : false
-- **Remarques** : Homologué, design racing
+- **Remarques** : 
+- 
+## CNC Racing - NOP
