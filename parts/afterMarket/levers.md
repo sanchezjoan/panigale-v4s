@@ -1,41 +1,26 @@
 # CNC Racing
-## CNC Racing - Levier frein Evo
-- Reference: "LEV33B",
-- Homologation: Route/Piste
-- Prix Moyen: 120€
--    "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025
-- Aluminium, réglable, anodisé
 
-## CNC Racing - Levier embrayage Evo",
-- Reference": "LEV34B",
-- Prix Moyen: 120€
-- Homologation: Route/Piste
-- "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
-- Aluminium, réglable, anodisé"
+## Clutch Lever Race EVO Folding Glossy Carbon for Brembo semi-radial master cylinders
+- Black: LCV12KB 
+- Red: LCV12KR 
 
-## CNC Racing
-Clutch Lever Race EVO Folding Glossy Carbon for Brembo semi-radial master cylinders
-Black
-LCV12KB 
- Red
-LCV12KR 
+## Clutch Lever Race EVO Folding Matt Carbon for Brembo semi-radial master cylinders
+- Black: LCV12YB 
+- Red: LCV12YR
 
+<img src="cnc-racing/levier embrayage CNC Racing LCV12YR.jpg" height="400" />
 
-Clutch Lever Race EVO Folding Matt Carbon for Brembo semi-radial master cylinders
-Black
-LCV12YB 
- Red
-LCV12YR 
-
-
-Clutch lever RACE EVO Folding For Brembo Semi-Radial Master Cylinders
-Black/Black
-LCV12BB 
- Black/Red
+## Clutch lever RACE EVO Folding For Brembo Semi-Radial Master Cylinders
+- Black/Black: LCV12BB 
+-  Black/Red
 LCV12BR 
- Red/Black
+-  Red/Black
 LCV12RB 
 
+## Clutch lever folding Red Race - Carbon
+- Glossy: LCR12KR 
+- Matte: LCR12YR 
+<img src="cnc-racing/levier embrayage CNC Racing LCR12YR.jpg" height="400" />
 
 # Ducati Performance
 ## Ducati Performance - Kit leviers frein/embrayage usinés
