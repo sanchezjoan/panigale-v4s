@@ -13,6 +13,30 @@
 - "lienficheproduit": "https://www.cncracing.com/en/ducati/panigale-v4-s-2025",
 - Aluminium, réglable, anodisé"
 
+## CNC Racing
+Clutch Lever Race EVO Folding Glossy Carbon for Brembo semi-radial master cylinders
+Black
+LCV12KB 
+ Red
+LCV12KR 
+
+
+Clutch Lever Race EVO Folding Matt Carbon for Brembo semi-radial master cylinders
+Black
+LCV12YB 
+ Red
+LCV12YR 
+
+
+Clutch lever RACE EVO Folding For Brembo Semi-Radial Master Cylinders
+Black/Black
+LCV12BB 
+ Black/Red
+LCV12BR 
+ Red/Black
+LCV12RB 
+
+
 # Ducati Performance
 ## Ducati Performance - Kit leviers frein/embrayage usinés
 - reference": "96981391A",
