@@ -33,6 +33,8 @@
 - **Prix moyen (EUR)**: 298.84
 - **Lien fiche produit**: [Voir produit](https://www.ebay.fr/itm/306057556704)
 - **Remarques**: Bouchon de réservoir officiel Ducati Performance en aluminium usiné, design exclusif Rizoma, livré avec clé spéciale Ducati, haute résistance et durabilité, compatible Panigale V4 S 2025.
+  
+<img src="rizoma/tank-cap/bouchon-de-reservoir-ducati-performance-metal-2.jpg" height=300 /><img src="rizoma/tank-cap/bouchon-de-reservoir-ducati-performance-metal-1.jpg" height=300 />
 
 ### Ducati Performance - Bouchon de réservoir aluminium Rizoma (noir)
 - **Référence**: 97780051BB
@@ -42,6 +44,8 @@
 - **Compatibilité selle passager**: n/a
 - **Lien fiche produit**: [Voir produit](https://www.carbon4us.com/fr/10795-bouchons-d-essence-et-d-huile-ducati-Panigale-V4-2025)
 - **Remarques**: Version noire du bouchon de réservoir Ducati Performance, aluminium usiné, design Rizoma, livré avec clé spéciale Ducati, pour Panigale V4 S 2025.
+
+<img src="rizoma/tank-cap/bouchon-de-reservoir-noir-ducati-performance-noir-1.jpg" height=300 /><img src="rizoma/tank-cap/bouchon-de-reservoir-noir-ducati-performance-noir-2.jpg" height=300 /><img src="rizoma/tank-cap/bouchon-de-reservoir-noir-ducati-performance-noir-3.jpg" height=300 />
 
 ## Lightech
 ### Lightech - Bouchon de réservoir à vis
