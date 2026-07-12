@@ -1,10 +1,5 @@
 # Makers
-- [BMC](https://www.bmcairfilters.com/fr/filters/ducati/panigale-v4-s)
-- Bonamici Racing ?
-- [DID](https://didchain.com/fr/ducati-panigale-v4-s)
-- [Domino](https://www.domino-group.com/fr/produits/ducati-panigale-v4-s)
-- [Ducati Performance](https://www.ducatistore.fr/fr/)
-- [Ermax](https://www.ermax.com/Ducati/)
+
 - [Rizoma](https://rizoma.com/fr/motorbike/ducati/panigale-v4/panigale-v4-s-2025)
 - [DBKSpecialParts](https://dbkspecialparts.com/en/2313-ducati-superbike-panigale-v4s-year2025)
 - [CNCRacing](https://cncracing.com/en/ducati_superbike_panigale-v4-s_2025.html)
@@ -17,8 +12,7 @@
 - LighTech
 - STM
 - [Sprint Filter](https://www.sprintfilter.net/fr/ducati-panigale-v4-s)
-- [Samco Sport](https://samcosport.com/uk/ducati-panigale-v4-s)
-- [GB Racing](https://www.gbracing.eu/fr/ducati-panigale-v4-s)
+- [GB Racing](https://www.gbracing.eu/Catalogue/BY-BIKE-MODEL/DUCATI/Panigale-V4-V4-S-2025)
 - [R\&G Racing](https://www.rg-racing.com/browsebike/Ducati/Panigale_V4_S)
 - [Evotech Performance](https://evotech-performance.com/collections/ducati-panigale-v4-s-2025)
 - [Motul](https://www.motul.com/fr/fr/products?brand=ducati&model=panigale-v4-s)
