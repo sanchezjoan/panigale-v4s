@@ -31,6 +31,9 @@
 - [Ilmberger Carbon](https://ilmberger-carbon.de/Carbon/Ilmberger_Carbon_Ducati_Panigale_V4S_ab_2025_carbon)
 - [FullSixCarbon](https://fullsixcarbon.fr/ducati-carbone-new-panigale-v4-2025-xsl-558_772.html)
 
+# Titanium Parts
+- [RISON](https://ti-alloys.com/ti-shop/)
+  
 # Shops
 - [Desmo Racing](https://desmo-racing.com/carbone-new-panigale-v4-2025-xsl-244_771.html)
 - [Carbon4US](https://carbon4us.com/fr/10709-panigale-v4-2025)
