@@ -33,6 +33,8 @@
 
 <img src="rizoma/tank-cap/bouchon-de-reservoir-noir-ducati-performance-noir-1.jpg" height=300 /><img src="rizoma/tank-cap/bouchon-de-reservoir-noir-ducati-performance-noir-2.jpg" height=300 /><img src="rizoma/tank-cap/bouchon-de-reservoir-noir-ducati-performance-noir-3.jpg" height=300 />
 
+https://www.youtube.com/watch?v=2S_HP9hxreM
+
 ## Lightech
 ### Lightech - Bouchon de réservoir à vis
 - **Référence**: TFN229
