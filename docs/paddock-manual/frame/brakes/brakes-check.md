@@ -4,8 +4,8 @@ Contrôler l'usure des plaquettes à travers l'ouverture obtenue entre les demi-
 
 ## Frein Avant
 
-![alt text](front-brake-pads-236.png)
+![alt text](front-brake/front-brake-pads-236.png)
 
 ## Frein Arrière
 
-![Frein Arrière](rear-brake-pads-237.png)
+![Frein Arrière](rear-brake/rear-brake-pads-237.png)
