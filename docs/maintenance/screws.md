@@ -9,3 +9,6 @@ Tête large, basse et arrondie en forme de dôme (button head).Répartit mieux l
 
 TCEIF (Tête Cylindrique Étroite / Empreinte Interne) :
 Tête haute et verticale de forme cylindrique (type CHC / DIN 912).Permet un couple de serrage puissant et s'utilise dans des logements profonds ou des assemblages structurels soumis à de fortes contraintes.
+
+
+Une vis TEF désigne généralement une vis à tête fraisée : sa tête conique s’encastre dans un fraisage afin de finir à fleur de surface après serrage. (Boulon)
