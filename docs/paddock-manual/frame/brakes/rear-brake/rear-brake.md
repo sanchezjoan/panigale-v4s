@@ -14,3 +14,4 @@
 ||||||Rear brake master cylinder bleeding (Purge du maître-cylindre de frein arrière) | 1 | M8 |14 (Min. 12 - Max. 16) | ||
 ||||||*dynamic safety-critical point; tightening torque tolerance must be Nm ‡ 5%. (*Point critique pour la sécurité dynamique ; la tolérance de couple de serrage doit être de Nm ± 5%.)|    |            |                                                     |                                  ||
 
+<img src="rear-brake-pads-237.png" height="500" />

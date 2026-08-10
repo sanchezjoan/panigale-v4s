@@ -5,10 +5,6 @@
 | 77151250ZF | 18B     | 3     | 2           | 18B-3-2 RF  | Vis de pince de fourche droite avant                                    |       |                 | 19 NM   |
 | 77151250ZF | 18B     | 3     | 3           | 18B-3-3 LR  | Vis de pince de fourche gauche arrière                                 |       |                 | 19 NM   |
 | 77151250ZF | 18B     | 3     | 4           | 18B-3-4 RR  | Vis de pince de fourche droite arrière  (Wheel shaft clamp)          |       |                 | 19 NM   |
-| 77915111B  | 20B     | 8     | 1           | 20B-8-1 LF  | Vis d'Etrier Avant de frein gauche avant                                |       | M10 X 1,25 X 55 |         |
-| 77915111B  | 20B     | 8     | 2           | 20B-8-2 RF  | Vis d'Etrier Avant de frein droite avant                                |       | M10 X 1,25 X 55 |         |
-| 77915111B  | 20B     | 8     | 3           | 20B-8-3 LR  | Vis d'Etrier Avant de frein gauche arrière                             |       | M10 X 1,25 X 55 |         |
-| 77915111B  | 20B     | 8     | 4           | 20B-8-4 LR  | Vis d'Etrier Avant de frein droite arrière                             |       | M10 X 1,25 X 55 |         |
 
 
 
@@ -32,19 +28,33 @@
 | 77244178B | 26B     | 15     | 2           | 26B-15-1  |  Pare Talon Droit  Vis  Basse     | TCEIF | M6X20      |         |     |
   
 
+Commande Ti
+Rison Titanium Dome Head Bolt M6 Titanium Bolts Titanium Umbrella Bolt Hex Bolts Allen Screws 5PCS
+SKU: 4582M
+M6x10 * 20 - Black
+M6x12 * 20 - Black
+M6x16 * 20 - Black
+M6x18 * 20 - Black
 
 
-## Tableau 28A - Roue Avant
+M5 Titanium Bolt Rison Titanium Umbrella Head Bolts Titanium Dome Head Screws 5PCS
+SKU: Q9E14-1
+M6x10 * 20 - Black
+M6x12 * 20 - Black
+M6x16 * 20 - Black
+M6x18 * 20 - Black
 
-| SKU       | Tableau | Index | Instance Id | Id       | Nom | Type  | Dimensions | Serrage | Custom |
-| --------- | ------- | ----- | ----------- | -------- | ---------------------------------------- | ----- | ---------- | ------- |------- |
-| 72010513C | 27A     | 5    | 1           | 26B-2-1L | Disque de Frein Gauche - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 2           | 26B-2-2L | Disque de Frein Gauche - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 3           | 26B-2-3L | Disque de Frein Gauche - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 4           | 26B-2-4L | Disque de Frein Gauche - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 5           | 26B-2-5L | Disque de Frein Gauche - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 1           | 26B-2-1R | Disque de Frein Droit - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 2           | 26B-2-2R | Disque de Frein Droit - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 3           | 26B-2-3R | Disque de Frein Droit - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 4           | 26B-2-4R | Disque de Frein Droit - Vis |       |            |         |  No |
-| 72010513C | 27A     | 5    | 5           | 26B-2-5R | Disque de Frein Droit - Vis |       |            |         |  No |
+
+Rison Titanium Bolt M5 Screw Hexagon Socket Button Head Bolts Screws Hex Bolt 5PCS
+SKU: 6XC19
+M5x25 * 5 - Black
+M5x25 * 5 - Raw ?
+https://ti-alloys.com/product/rison-titanium-m5-half-round-hex-socket-bolts-screws-5pcs/
+
+
+
+M8 Titanium Bolts Titanium Flanged Bolts Rison Titanium Flange Hex Bolts Titanium Hex Bolt 5PCS
+M8x20 * 10 - Candy   77251308B/33C-7-1 https://ti-alloys.com/product/m8-titanium-bolts-titanium-flanged-bolts-rison-titanium-flange-hex-bolts-titanium-hex-bolt-5pcs/
+
+
+Commmande Ducati
