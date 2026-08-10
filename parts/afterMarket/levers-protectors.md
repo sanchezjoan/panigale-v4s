@@ -40,23 +40,28 @@
 ### LEVER GUARD LEFT - LEO
 - **Modèle** : 
 - **Référence** : MC-CG17-C87SL
+- **Lien** : [FullSix Product Page](https://www.fullsixcarbon.com/en/product/MC-CG17-C87SL)
 - **Remarque** : The LEVER GUARD LEFT - LEO is a carbon fiber component created and designed by FULLSIX CARBON. Its a racing component that is fully race compliant and incorporate features from World Superbike and British Superbike to give you a competitive advantage such as maximum weight savings and improved aerodynamics. See below for which materials and surface treatments are available. Please order the correct adapter for your motorcycle brand under the ACCESSORIES section.
+
 ### LEVER GUARD RIGHT - LEO
 - **Modèle** : 
 - **Référence** : MC-CG17-C87S
+- **Lien** : [FullSix Product Page](https://www.fullsixcarbon.com/en/product/MC-CG17-C87S)
+- **Remarque** : The LEVER GUARD - LEO is a carbon fiber component created and designed by FULLSIX CARBON. Its a racing component that is fully race compliant and incorporate features from World Superbike and British Superbike to give you a competitive advantage such as maximum weight savings and improved aerodynamics. See below for which materials and surface treatments are available. Please order the correct adapter for your motorcycle brand under the ACCESSORIES section.
 
 ### LEVER GUARD - VEGA 
 - **Modèle** : LEVER GUARD - VEGA 
 - **Référence** : MC-CG17-C87L
-- **Prix moyen** : 120 €
-- **Compatible selle passager** : Oui
-- **Lien** : [Voir la fiche produit]()
-- **Remarque** : Carbone finition brillante
+- **Prix moyen** :  €
+- **Lien** : [Voir la fiche produit](https://www.fullsixcarbon.com/en/product/MC-CG17-C87L)
+- **Remarque** : The LEVER GUARD - VEGA is a carbon fiber component created and designed by FULLSIX CARBON. Its a racing component that is fully race compliant and incorporate features from World Superbike and British Superbike to give you a competitive advantage such as maximum weight savings and improved aerodynamics. See below for which materials and surface treatments are available. Please order the correct adapter for your motorcycle brand under the ACCESSORIES section.
   
 ### LEVER GUARD RIGHT - SKY
 - **Modèle** :
 - **Référence** : MC-CG18-C87S
-- 
+- **Lien** : [Voir la fiche produit](https://www.fullsixcarbon.com/en/product/MC-CG18-C87S)
+- **Remarque** :The LEVER GUARD - SKY is a carbon fiber component created and designed by FULLSIX CARBON. Its a racing component that is fully race compliant and incorporate features from World Superbike and British Superbike to give you a competitive advantage such as maximum weight savings and improved aerodynamics. See below for which materials and surface treatments are available. Please order the correct adapter for your motorcycle brand under the ACCESSORIES section.
+
 ## Evotech Performance
 ### Evotech Performance - Protège-levier de frein
 - **Modèle** : Protège-levier de frein
