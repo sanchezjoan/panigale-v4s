@@ -8,26 +8,6 @@
 
 
 
-## Tableau 26A - Repose Pied Gauche
-
-| SKU       | Tableau | Index | Instance Id | Id       | Nom                                      | Type  | Dimensions | Serrage | Custom |
-| --------- | ------- | ----- | ----------- | -------- | ---------------------------------------- | ----- | ---------- | ------- |------- |
-| 77244178B | 26A     | 24    | 1           | 26A-24-1 | Pare Talons Gauche - Vis haute         |       |            |         |     |
-| 77244178B | 26A     | 24    | 2           | 26A-24-1 | Pare Talons Gauche - Vis basse |       |            |         |     |
-| 77157288B | 26A     | 2     | 1           | 26A-2-1  | Vis de commande pied gauche              | TCEIF | M8X35      |         |     |
-| 77110191A | 26A     | 4     | 1           | 26A-4-1  | Vis de pince du selecteur de vitesse     | TCEIF | M6X20      |         |     |
-| 77157248B | 26A     | 15    | 1           | 26A-3-1  | Vis de pince de la commande pied gauche  | TCEIF | M8X22      |         |     |
-
-## Tableau 26B - Repose Pied Droit
-
-| SKU       | Tableau | Index | Instance Id | Id       | Nom                                      | Type  | Dimensions | Serrage | Custom |
-| --------- | ------- | ----- | ----------- | -------- | ---------------------------------------- | ----- | ---------- | ------- |------- |
-| 77157248B | 26B     | 2    | 1           | 26B-2-1 | Vis         |       |            |         |     |
-| 77157248B | 26B     | 2    | 2           | 26B-2-2 | Vis |       |            |         |     |
-| 77244178B | 26B     | 15     | 1           | 26B-15-1  |  Pare Talon Droit  Vis  Haut      | TCEIF | M8X35      |         |     |
-| 77244178B | 26B     | 15     | 2           | 26B-15-1  |  Pare Talon Droit  Vis  Basse     | TCEIF | M6X20      |         |     |
-  
-
 Commande Ti
 Rison Titanium Dome Head Bolt M6 Titanium Bolts Titanium Umbrella Bolt Hex Bolts Allen Screws 5PCS
 SKU: 4582M

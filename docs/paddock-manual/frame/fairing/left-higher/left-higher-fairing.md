@@ -1,3 +1,3 @@
 # Tableau 37C
 
-![alt text](image.png)
+![alt text](left-higher-fairing.png)
