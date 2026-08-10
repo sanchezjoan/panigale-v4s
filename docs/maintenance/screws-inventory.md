@@ -9,8 +9,6 @@
 | 77915111B  | 20B     | 8     | 2           | 20B-8-2 RF  | Vis d'Etrier Avant de frein droite avant                                |       | M10 X 1,25 X 55 |         |
 | 77915111B  | 20B     | 8     | 3           | 20B-8-3 LR  | Vis d'Etrier Avant de frein gauche arrière                             |       | M10 X 1,25 X 55 |         |
 | 77915111B  | 20B     | 8     | 4           | 20B-8-4 LR  | Vis d'Etrier Avant de frein droite arrière                             |       | M10 X 1,25 X 55 |         |
-| 77157238B  | 20D     | 6     | 4           | 20D-6-1 LR | Vis d'Etrier Arrière de frein droite                                   | TCEIF | M8X20           |         |
-| 77157238B  | 20D     | 6     | 4           | 20D-6-2 LR | Vis d'Etrier Arrière de frein droite                                   | TCEIF | M8X20           |         |
 
 
 ## Tableau 24A - Garde-Boue Avant
