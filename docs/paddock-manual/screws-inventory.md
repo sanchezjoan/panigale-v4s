@@ -11,13 +11,6 @@
 | 77915111B  | 20B     | 8     | 4           | 20B-8-4 LR  | Vis d'Etrier Avant de frein droite arrière                             |       | M10 X 1,25 X 55 |         |
 
 
-## Tableau 24A - Garde-Boue Avant
-| SKU        | Tableau | Index | Instance Id | Id          | Nom                                                                     | Type  | Dimensions      | Serrage |Custom |
-| ---------- | ------- | ----- | ----------- | ----------- | ----------------------------------------------------------------------- | ----- | --------------- | ------- |----- | 
-| 77244183BA | 24A     | 2     | 1           | 24A-2-1     | Vis Garde Boue Avant Gauche Haute                                       | TBEI  | M5X14           |         | |
-| 77244183BA | 24A     | 2     | 1           | 24A-2-2     | Vis Garde Boue Avant Gauche Haute                                       | TBEI  | M5X14           |         | |
-| 77244183BA | 24A     | 2     | 1           | 24A-2-3     | Vis Garde Boue Avant Gauche Haute                                       | TBEI  | M5X14           |         | |
-| 77244183BA | 24A     | 2     | 1           | 24A-2-4     | Vis Garde Boue Avant Gauche Haute                                       | TBEI  | M5X14           |         | |
 
 ## Tableau 26A - Repose Pied Gauche
 
@@ -39,12 +32,6 @@
 | 77244178B | 26B     | 15     | 2           | 26B-15-1  |  Pare Talon Droit  Vis  Basse     | TCEIF | M6X20      |         |     |
   
 
-  ## Tableau 27A - Garde-Boue Arrière
-  | SKU       | Tableau | Index | Instance Id | Id       | Nom                                      | Type  | Dimensions | Serrage | Custom |
-| --------- | ------- | ----- | ----------- | -------- | ---------------------------------------- | ----- | ---------- | ------- |------- |
-| 77214411BA | 27A     | 2    | 1           | 26B-2-1 | Vis         |       |            |         |  Yes ? |
-| 77214411BA | 27A     | 2    | 2           | 26B-2-2 | Vis         |       |            |         | Yes ?  |
-| 77214411BA | 27A     | 2    | 3          | 26B-2-3 | Vis         |       |            |         | Yes ?  |
 
 
 ## Tableau 28A - Roue Avant
