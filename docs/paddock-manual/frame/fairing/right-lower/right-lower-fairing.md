@@ -9,7 +9,7 @@
 | 77211091C ? |Upper RH half fairing to Rad Duct fastener (Demi Carénage Droit sur Conduit d'Air Radiateur) | 1 | M5 | 2.5 | |
 
 
-
+![alt text](right-lower-fairing-schema.png)
 |APPLICATION                                                                 |Q.TY|THREAD (MM) |TORQUE (NM) # 10%                                    |NOTES                             |
 |----------------------------------------------------------------------------|----|------------|-----------------------------------------------------|----------------------------------|
 |RH lower fairing to silencer cover fastener (Fixation du carénage inférieur droit sur le cache silencieux) |3   |Self-tapping|-                                                    |                                  |
