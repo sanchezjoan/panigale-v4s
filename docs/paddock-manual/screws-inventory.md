@@ -1,6 +1,5 @@
 | SKU        | Tableau | Index | Instance Id | Id          | Nom                                                                     | Type  | Dimensions      | Serrage |
 | ---------- | ------- | ----- | ----------- | ----------- | ----------------------------------------------------------------------- | ----- | --------------- | ------- |
-| 77440631A  | 14B     | 6     | 1           | 14B-6-1     | Vis de fixation de la couvette de support d'instruments au feu arrière |       |                 |         |
 | 77151250ZF | 18B     | 3     | 1           | 18B-3-1 LF  | Vis de pince de fourche gauche avant                                    |       |                 | 19 NM   |
 | 77151250ZF | 18B     | 3     | 2           | 18B-3-2 RF  | Vis de pince de fourche droite avant                                    |       |                 | 19 NM   |
 | 77151250ZF | 18B     | 3     | 3           | 18B-3-3 LR  | Vis de pince de fourche gauche arrière                                 |       |                 | 19 NM   |
@@ -44,3 +43,6 @@ Rison Titanium Axle Nut M48x1.5 Nut GR5 Rear Wheel Axle Nut Ducabike Ducati Nut 
 https://ti-alloys.com/product/rison-titanium-axle-nut-m48x1-5-nut-gr5-rear-wheel-axle-nut-ducabike-ducati-nut-1pcs/
 
 Commmande Ducati
+77244163B x 5
+77244183B x 5
+77244173B x 10
