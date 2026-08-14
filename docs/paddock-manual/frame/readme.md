@@ -36,8 +36,6 @@ Pour chaque intervention, utilise une clé dynamométrique calibrée et suis l�
 - [Bras Oscillant Arrière](rear-swinging-arm-assembly.md)
 - [Roue Arrière](rear-wheel-assembly.md)
 - [Garde Boue Arrière](rear-mudguard-assembly.md)
-
-
   
 - [Réservoir de Carburant](fuel-supply-assembly.md)
 
