@@ -4,7 +4,7 @@
 
 
 
-| APPLICATION                                                                                                                             | Q.TY | THREAD (MM) | TORQUE (NM) # 10% | NOTES    |
+| APPLICATION | Q.TY | THREAD (MM) | TORQUE (NM) # 10% | NOTES    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- | ----------------- | -------- |
 | Fixation du bouchon du réservoir de carburant (Fuel tank plug fastening)                                                               | 4    | M5          | 4                 |          |
 
