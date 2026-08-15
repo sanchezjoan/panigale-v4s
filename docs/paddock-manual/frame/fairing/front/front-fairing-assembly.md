@@ -1,7 +1,7 @@
 <img src="front-assembly.png" height="500" />
 
 
-| REFERENCE  | APPLICATION                                                                                                                | Q.TY | THREAD (MM) | TORQUE (NM) # 10% | NOTES |
+| REFERENCE  | APPLICATION | Q.TY | THREAD (MM) | TORQUE (NM) # 10% | NOTES |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- | ----------------- | ----- |
 |            | Upper headlight fairing/subframe/headlight fastener (Fixation coiffe de phare / sous-cadre / phare)                        | 2    | M5          | 2.5               |       |
 |            | Subframe to rear headlight fairing fastener (Fixation sous-cadre à coiffe arrière de phare)                              | 2    | M5          | -                 |       |
