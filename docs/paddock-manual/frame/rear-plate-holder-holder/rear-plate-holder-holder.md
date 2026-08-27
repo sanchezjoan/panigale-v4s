@@ -1,0 +1,1 @@
+2 vis de fixation support sur cadre, 1 vis de fixation à pa couvette porte objet et 2 vis qui verrouillent les carénags arrières latéraux
