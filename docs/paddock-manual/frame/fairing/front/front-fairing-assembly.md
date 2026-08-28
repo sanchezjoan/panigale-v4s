@@ -39,8 +39,8 @@
  ## Tableau 37A - Capot Avant
 | SKU       | Tableau | Index | Instance Id | Id       | Nom                                      |Q.TY| Type  | Dimensions | TORQUE (NM) # 10% | Custom |
 | --------- | ------- | ----- | ----------- | -------- | ---------------------------------------- | ----|----- | ---------- | ------- |------- |
-| 77214411BA | 37A     | 17    | LH           | 37A-17-LH | Air DUct to CHassis/Instru   |  2    |       |    M5X12        |    |  Std |
-| 77214411BA | 37A     | 17    | RH           | 37A-17-RH | Air DUct to CHassis/Instru   |  2    |       |    M5X12        |    |  Std |
+| 77214411BA | 37A     | 17    | LH           | 37A-17-LH | Air Duct to CHassis/Instru   |  2    |       |    M5X12        |    |  Std |
+| 77214411BA | 37A     | 17    | RH           | 37A-17-RH | Air Duct to CHassis/Instru   |  2    |       |    M5X12        |    |  Std |
 
 | APPLICATION                                                                            | Q.TY | THREAD (MM) | TORQUE (NM) # 10% | NOTES |
 | -------------------------------------------------------------------------------------- | ---- | ----------- | ----------------- | ----- |
